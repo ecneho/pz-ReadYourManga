@@ -1,0 +1,13 @@
+description=A big collection of manga titles to forget about deadly apocalypse outside your base.
+id=RyM
+name=Read your Manga
+author=Simon
+icon=icon.png
+
+poster=poster1.png
+poster=poster2.png
+poster=poster3.png
+poster=poster4.png
+
+modversion=v1.7
+versionMin=41.60

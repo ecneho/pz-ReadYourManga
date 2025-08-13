@@ -1,0 +1,27 @@
+Sandbox_EN = {
+	Sandbox_ReadYourManga = "Manga Packs",
+
+	Sandbox_ReadYourManga_SpawnContainers 			= "Spawn Containers",
+	Sandbox_ReadYourManga_SpawnContainers_tooltip 	= "List of containers which spawn manga.<br>Should be separated with ;",
+
+	Sandbox_ReadYourManga_SpawnRooms 				= "Spawn Rooms",
+	Sandbox_ReadYourManga_SpawnRooms_tooltip 		= "List of rooms where manga spawns.<br>Should be separated with ;",
+
+	Sandbox_ReadYourManga_IgnoreRoomType 			= "Ignore Room Type",
+	Sandbox_ReadYourManga_IgnoreRoomType_tooltip 	= "Skip checks and allow manga to spawn in any room.",
+
+	Sandbox_ReadYourManga_SpawnChance 				= "Roll Chance %",
+	Sandbox_ReadYourManga_SpawnChance_tooltip 		= "Chance for a manga to be included as a spawn candidate.<br>Only two decimal places are supported.",
+
+	Sandbox_ReadYourManga_RollCount 				= "Roll Count",
+	Sandbox_ReadYourManga_RollCount_tooltip 		= "Amount of tries to successfully spawn an item.",
+	
+	Sandbox_ReadYourManga_ConsumeOnUse 				= "Consume on Use",
+	Sandbox_ReadYourManga_ConsumeOnUse_tooltip 		= "Remove manga after fully reading it.<br>An old release experience.",
+
+	Sandbox_ReadYourManga_AllowModern 				= "Spawn Modern",
+	Sandbox_ReadYourManga_AllowModern_tooltip 		= "Allow modern manga to spawn in game.",
+
+	Sandbox_ReadYourManga_AllowPreEvents 			= "Spawn Lore Accurate (Pre 1993)",
+	Sandbox_ReadYourManga_AllowPreEvents_tooltip 	= "Allow manga released before 1993 to spawn in game.",
+}
