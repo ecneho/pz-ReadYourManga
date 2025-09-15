@@ -28,7 +28,7 @@ function RollSpawn(chance) -- get roll status
 end
 
 function GenModern()  -- get random manga id from modern pack
-  return "mangamodern_" .. ZombRand(2198)+1
+  return "mangamodern_" .. ZombRand(2259)+1
 end
 
 function GenPre1993() -- get random manga id from pre1993 pack

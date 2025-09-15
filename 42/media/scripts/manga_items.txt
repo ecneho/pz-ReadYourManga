@@ -77643,4 +77643,1834 @@ module mangaItems{
     WorldStaticModel = standingmanga2588,
     Tags             = Magazine,
   }
+  item mangamodern_2199
+  {
+    DisplayName      = Vol. 1 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2589,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2589,
+    WorldStaticModel = manga2589,
+    Tags             = Magazine,
+  }
+  item mangamodern_2199-standing
+  {
+    DisplayName      = Vol. 1 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2589,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2589,
+    WorldStaticModel = standingmanga2589,
+    Tags             = Magazine,
+  }
+  item mangamodern_2200
+  {
+    DisplayName      = Vol. 2 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2590,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2590,
+    WorldStaticModel = manga2590,
+    Tags             = Magazine,
+  }
+  item mangamodern_2200-standing
+  {
+    DisplayName      = Vol. 2 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2590,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2590,
+    WorldStaticModel = standingmanga2590,
+    Tags             = Magazine,
+  }
+  item mangamodern_2201
+  {
+    DisplayName      = Vol. 3 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2591,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2591,
+    WorldStaticModel = manga2591,
+    Tags             = Magazine,
+  }
+  item mangamodern_2201-standing
+  {
+    DisplayName      = Vol. 3 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2591,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2591,
+    WorldStaticModel = standingmanga2591,
+    Tags             = Magazine,
+  }
+  item mangamodern_2202
+  {
+    DisplayName      = Vol. 4 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2592,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2592,
+    WorldStaticModel = manga2592,
+    Tags             = Magazine,
+  }
+  item mangamodern_2202-standing
+  {
+    DisplayName      = Vol. 4 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2592,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2592,
+    WorldStaticModel = standingmanga2592,
+    Tags             = Magazine,
+  }
+  item mangamodern_2203
+  {
+    DisplayName      = Vol. 5 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2593,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2593,
+    WorldStaticModel = manga2593,
+    Tags             = Magazine,
+  }
+  item mangamodern_2203-standing
+  {
+    DisplayName      = Vol. 5 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2593,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2593,
+    WorldStaticModel = standingmanga2593,
+    Tags             = Magazine,
+  }
+  item mangamodern_2204
+  {
+    DisplayName      = Vol. 6 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2594,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2594,
+    WorldStaticModel = manga2594,
+    Tags             = Magazine,
+  }
+  item mangamodern_2204-standing
+  {
+    DisplayName      = Vol. 6 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2594,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2594,
+    WorldStaticModel = standingmanga2594,
+    Tags             = Magazine,
+  }
+  item mangamodern_2205
+  {
+    DisplayName      = Vol. 7 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2595,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2595,
+    WorldStaticModel = manga2595,
+    Tags             = Magazine,
+  }
+  item mangamodern_2205-standing
+  {
+    DisplayName      = Vol. 7 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2595,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2595,
+    WorldStaticModel = standingmanga2595,
+    Tags             = Magazine,
+  }
+  item mangamodern_2206
+  {
+    DisplayName      = Vol. 8 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2596,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2596,
+    WorldStaticModel = manga2596,
+    Tags             = Magazine,
+  }
+  item mangamodern_2206-standing
+  {
+    DisplayName      = Vol. 8 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2596,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2596,
+    WorldStaticModel = standingmanga2596,
+    Tags             = Magazine,
+  }
+  item mangamodern_2207
+  {
+    DisplayName      = Vol. 9 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2597,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2597,
+    WorldStaticModel = manga2597,
+    Tags             = Magazine,
+  }
+  item mangamodern_2207-standing
+  {
+    DisplayName      = Vol. 9 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2597,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2597,
+    WorldStaticModel = standingmanga2597,
+    Tags             = Magazine,
+  }
+  item mangamodern_2208
+  {
+    DisplayName      = Vol. 10 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2598,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2598,
+    WorldStaticModel = manga2598,
+    Tags             = Magazine,
+  }
+  item mangamodern_2208-standing
+  {
+    DisplayName      = Vol. 10 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2598,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2598,
+    WorldStaticModel = standingmanga2598,
+    Tags             = Magazine,
+  }
+  item mangamodern_2209
+  {
+    DisplayName      = Vol. 11 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2599,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2599,
+    WorldStaticModel = manga2599,
+    Tags             = Magazine,
+  }
+  item mangamodern_2209-standing
+  {
+    DisplayName      = Vol. 11 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2599,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2599,
+    WorldStaticModel = standingmanga2599,
+    Tags             = Magazine,
+  }
+  item mangamodern_2210
+  {
+    DisplayName      = Vol. 12 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2600,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2600,
+    WorldStaticModel = manga2600,
+    Tags             = Magazine,
+  }
+  item mangamodern_2210-standing
+  {
+    DisplayName      = Vol. 12 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2600,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2600,
+    WorldStaticModel = standingmanga2600,
+    Tags             = Magazine,
+  }
+  item mangamodern_2211
+  {
+    DisplayName      = Vol. 13 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2601,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2601,
+    WorldStaticModel = manga2601,
+    Tags             = Magazine,
+  }
+  item mangamodern_2211-standing
+  {
+    DisplayName      = Vol. 13 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2601,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2601,
+    WorldStaticModel = standingmanga2601,
+    Tags             = Magazine,
+  }
+  item mangamodern_2212
+  {
+    DisplayName      = Vol. 14 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2602,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2602,
+    WorldStaticModel = manga2602,
+    Tags             = Magazine,
+  }
+  item mangamodern_2212-standing
+  {
+    DisplayName      = Vol. 14 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2602,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2602,
+    WorldStaticModel = standingmanga2602,
+    Tags             = Magazine,
+  }
+  item mangamodern_2213
+  {
+    DisplayName      = Vol. 15 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2603,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2603,
+    WorldStaticModel = manga2603,
+    Tags             = Magazine,
+  }
+  item mangamodern_2213-standing
+  {
+    DisplayName      = Vol. 15 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2603,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2603,
+    WorldStaticModel = standingmanga2603,
+    Tags             = Magazine,
+  }
+  item mangamodern_2214
+  {
+    DisplayName      = Vol. 16 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2604,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2604,
+    WorldStaticModel = manga2604,
+    Tags             = Magazine,
+  }
+  item mangamodern_2214-standing
+  {
+    DisplayName      = Vol. 16 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2604,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2604,
+    WorldStaticModel = standingmanga2604,
+    Tags             = Magazine,
+  }
+  item mangamodern_2215
+  {
+    DisplayName      = Vol. 17 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2605,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2605,
+    WorldStaticModel = manga2605,
+    Tags             = Magazine,
+  }
+  item mangamodern_2215-standing
+  {
+    DisplayName      = Vol. 17 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2605,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2605,
+    WorldStaticModel = standingmanga2605,
+    Tags             = Magazine,
+  }
+  item mangamodern_2216
+  {
+    DisplayName      = Vol. 18 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2606,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2606,
+    WorldStaticModel = manga2606,
+    Tags             = Magazine,
+  }
+  item mangamodern_2216-standing
+  {
+    DisplayName      = Vol. 18 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2606,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2606,
+    WorldStaticModel = standingmanga2606,
+    Tags             = Magazine,
+  }
+  item mangamodern_2217
+  {
+    DisplayName      = Vol. 19 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2607,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2607,
+    WorldStaticModel = manga2607,
+    Tags             = Magazine,
+  }
+  item mangamodern_2217-standing
+  {
+    DisplayName      = Vol. 19 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2607,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2607,
+    WorldStaticModel = standingmanga2607,
+    Tags             = Magazine,
+  }
+  item mangamodern_2218
+  {
+    DisplayName      = Vol. 20 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2608,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2608,
+    WorldStaticModel = manga2608,
+    Tags             = Magazine,
+  }
+  item mangamodern_2218-standing
+  {
+    DisplayName      = Vol. 20 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2608,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2608,
+    WorldStaticModel = standingmanga2608,
+    Tags             = Magazine,
+  }
+  item mangamodern_2219
+  {
+    DisplayName      = Vol. 21 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2609,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2609,
+    WorldStaticModel = manga2609,
+    Tags             = Magazine,
+  }
+  item mangamodern_2219-standing
+  {
+    DisplayName      = Vol. 21 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2609,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2609,
+    WorldStaticModel = standingmanga2609,
+    Tags             = Magazine,
+  }
+  item mangamodern_2220
+  {
+    DisplayName      = Vol. 22 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2610,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2610,
+    WorldStaticModel = manga2610,
+    Tags             = Magazine,
+  }
+  item mangamodern_2220-standing
+  {
+    DisplayName      = Vol. 22 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2610,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2610,
+    WorldStaticModel = standingmanga2610,
+    Tags             = Magazine,
+  }
+  item mangamodern_2221
+  {
+    DisplayName      = Vol. 23 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2611,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2611,
+    WorldStaticModel = manga2611,
+    Tags             = Magazine,
+  }
+  item mangamodern_2221-standing
+  {
+    DisplayName      = Vol. 23 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2611,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2611,
+    WorldStaticModel = standingmanga2611,
+    Tags             = Magazine,
+  }
+  item mangamodern_2222
+  {
+    DisplayName      = Vol. 24 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2612,
+    Tooltip          = Doragon Boru Supa,
+    StaticModel      = staticmanga2612,
+    WorldStaticModel = manga2612,
+    Tags             = Magazine,
+  }
+  item mangamodern_2222-standing
+  {
+    DisplayName      = Vol. 24 Dragon Ball Super,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2612,
+    Tooltip          = (standing) Doragon Boru Supa,
+    StaticModel      = staticmanga2612,
+    WorldStaticModel = standingmanga2612,
+    Tags             = Magazine,
+  }
+  item mangamodern_2223
+  {
+    DisplayName      = Vol. 1 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2613,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2613,
+    WorldStaticModel = manga2613,
+    Tags             = Magazine,
+  }
+  item mangamodern_2223-standing
+  {
+    DisplayName      = Vol. 1 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2613,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2613,
+    WorldStaticModel = standingmanga2613,
+    Tags             = Magazine,
+  }
+  item mangamodern_2224
+  {
+    DisplayName      = Vol. 2 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2614,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2614,
+    WorldStaticModel = manga2614,
+    Tags             = Magazine,
+  }
+  item mangamodern_2224-standing
+  {
+    DisplayName      = Vol. 2 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2614,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2614,
+    WorldStaticModel = standingmanga2614,
+    Tags             = Magazine,
+  }
+  item mangamodern_2225
+  {
+    DisplayName      = Vol. 3 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2615,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2615,
+    WorldStaticModel = manga2615,
+    Tags             = Magazine,
+  }
+  item mangamodern_2225-standing
+  {
+    DisplayName      = Vol. 3 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2615,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2615,
+    WorldStaticModel = standingmanga2615,
+    Tags             = Magazine,
+  }
+  item mangamodern_2226
+  {
+    DisplayName      = Vol. 4 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2616,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2616,
+    WorldStaticModel = manga2616,
+    Tags             = Magazine,
+  }
+  item mangamodern_2226-standing
+  {
+    DisplayName      = Vol. 4 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2616,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2616,
+    WorldStaticModel = standingmanga2616,
+    Tags             = Magazine,
+  }
+  item mangamodern_2227
+  {
+    DisplayName      = Vol. 5 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2617,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2617,
+    WorldStaticModel = manga2617,
+    Tags             = Magazine,
+  }
+  item mangamodern_2227-standing
+  {
+    DisplayName      = Vol. 5 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2617,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2617,
+    WorldStaticModel = standingmanga2617,
+    Tags             = Magazine,
+  }
+  item mangamodern_2228
+  {
+    DisplayName      = Vol. 6 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2618,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2618,
+    WorldStaticModel = manga2618,
+    Tags             = Magazine,
+  }
+  item mangamodern_2228-standing
+  {
+    DisplayName      = Vol. 6 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2618,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2618,
+    WorldStaticModel = standingmanga2618,
+    Tags             = Magazine,
+  }
+  item mangamodern_2229
+  {
+    DisplayName      = Vol. 7 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2619,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2619,
+    WorldStaticModel = manga2619,
+    Tags             = Magazine,
+  }
+  item mangamodern_2229-standing
+  {
+    DisplayName      = Vol. 7 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2619,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2619,
+    WorldStaticModel = standingmanga2619,
+    Tags             = Magazine,
+  }
+  item mangamodern_2230
+  {
+    DisplayName      = Vol. 8 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2620,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2620,
+    WorldStaticModel = manga2620,
+    Tags             = Magazine,
+  }
+  item mangamodern_2230-standing
+  {
+    DisplayName      = Vol. 8 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2620,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2620,
+    WorldStaticModel = standingmanga2620,
+    Tags             = Magazine,
+  }
+  item mangamodern_2231
+  {
+    DisplayName      = Vol. 9 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2621,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2621,
+    WorldStaticModel = manga2621,
+    Tags             = Magazine,
+  }
+  item mangamodern_2231-standing
+  {
+    DisplayName      = Vol. 9 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2621,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2621,
+    WorldStaticModel = standingmanga2621,
+    Tags             = Magazine,
+  }
+  item mangamodern_2232
+  {
+    DisplayName      = Vol. 10 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2622,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2622,
+    WorldStaticModel = manga2622,
+    Tags             = Magazine,
+  }
+  item mangamodern_2232-standing
+  {
+    DisplayName      = Vol. 10 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2622,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2622,
+    WorldStaticModel = standingmanga2622,
+    Tags             = Magazine,
+  }
+  item mangamodern_2233
+  {
+    DisplayName      = Vol. 11 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2623,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2623,
+    WorldStaticModel = manga2623,
+    Tags             = Magazine,
+  }
+  item mangamodern_2233-standing
+  {
+    DisplayName      = Vol. 11 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2623,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2623,
+    WorldStaticModel = standingmanga2623,
+    Tags             = Magazine,
+  }
+  item mangamodern_2234
+  {
+    DisplayName      = Vol. 12 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2624,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2624,
+    WorldStaticModel = manga2624,
+    Tags             = Magazine,
+  }
+  item mangamodern_2234-standing
+  {
+    DisplayName      = Vol. 12 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2624,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2624,
+    WorldStaticModel = standingmanga2624,
+    Tags             = Magazine,
+  }
+  item mangamodern_2235
+  {
+    DisplayName      = Vol. 13 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2625,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2625,
+    WorldStaticModel = manga2625,
+    Tags             = Magazine,
+  }
+  item mangamodern_2235-standing
+  {
+    DisplayName      = Vol. 13 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2625,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2625,
+    WorldStaticModel = standingmanga2625,
+    Tags             = Magazine,
+  }
+  item mangamodern_2236
+  {
+    DisplayName      = Vol. 14 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2626,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2626,
+    WorldStaticModel = manga2626,
+    Tags             = Magazine,
+  }
+  item mangamodern_2236-standing
+  {
+    DisplayName      = Vol. 14 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2626,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2626,
+    WorldStaticModel = standingmanga2626,
+    Tags             = Magazine,
+  }
+  item mangamodern_2237
+  {
+    DisplayName      = Vol. 15 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2627,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2627,
+    WorldStaticModel = manga2627,
+    Tags             = Magazine,
+  }
+  item mangamodern_2237-standing
+  {
+    DisplayName      = Vol. 15 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2627,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2627,
+    WorldStaticModel = standingmanga2627,
+    Tags             = Magazine,
+  }
+  item mangamodern_2238
+  {
+    DisplayName      = Vol. 16 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2628,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2628,
+    WorldStaticModel = manga2628,
+    Tags             = Magazine,
+  }
+  item mangamodern_2238-standing
+  {
+    DisplayName      = Vol. 16 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2628,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2628,
+    WorldStaticModel = standingmanga2628,
+    Tags             = Magazine,
+  }
+  item mangamodern_2239
+  {
+    DisplayName      = Vol. 17 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2629,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2629,
+    WorldStaticModel = manga2629,
+    Tags             = Magazine,
+  }
+  item mangamodern_2239-standing
+  {
+    DisplayName      = Vol. 17 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2629,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2629,
+    WorldStaticModel = standingmanga2629,
+    Tags             = Magazine,
+  }
+  item mangamodern_2240
+  {
+    DisplayName      = Vol. 18 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2630,
+    Tooltip          = Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2630,
+    WorldStaticModel = manga2630,
+    Tags             = Magazine,
+  }
+  item mangamodern_2240-standing
+  {
+    DisplayName      = Vol. 18 The Fragrant Flower Blooms with Dignity,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2630,
+    Tooltip          = (standing) Kaoru Hana wa Rin to Saku,
+    StaticModel      = staticmanga2630,
+    WorldStaticModel = standingmanga2630,
+    Tags             = Magazine,
+  }
+  item mangamodern_2241
+  {
+    DisplayName      = Vol. 1 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2631,
+    Tooltip          = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2631,
+    WorldStaticModel = manga2631,
+    Tags             = Magazine,
+  }
+  item mangamodern_2241-standing
+  {
+    DisplayName      = Vol. 1 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2631,
+    Tooltip          = (standing) Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2631,
+    WorldStaticModel = standingmanga2631,
+    Tags             = Magazine,
+  }
+  item mangamodern_2242
+  {
+    DisplayName      = Vol. 2 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2632,
+    Tooltip          = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2632,
+    WorldStaticModel = manga2632,
+    Tags             = Magazine,
+  }
+  item mangamodern_2242-standing
+  {
+    DisplayName      = Vol. 2 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2632,
+    Tooltip          = (standing) Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2632,
+    WorldStaticModel = standingmanga2632,
+    Tags             = Magazine,
+  }
+  item mangamodern_2243
+  {
+    DisplayName      = Vol. 3 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2633,
+    Tooltip          = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2633,
+    WorldStaticModel = manga2633,
+    Tags             = Magazine,
+  }
+  item mangamodern_2243-standing
+  {
+    DisplayName      = Vol. 3 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2633,
+    Tooltip          = (standing) Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2633,
+    WorldStaticModel = standingmanga2633,
+    Tags             = Magazine,
+  }
+  item mangamodern_2244
+  {
+    DisplayName      = Vol. 4 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2634,
+    Tooltip          = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2634,
+    WorldStaticModel = manga2634,
+    Tags             = Magazine,
+  }
+  item mangamodern_2244-standing
+  {
+    DisplayName      = Vol. 4 A Boring World Where the Concept of Dirty Jokes Doesn't Exist,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2634,
+    Tooltip          = (standing) Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,
+    StaticModel      = staticmanga2634,
+    WorldStaticModel = standingmanga2634,
+    Tags             = Magazine,
+  }
+  item mangamodern_2245
+  {
+    DisplayName      = Vol. 1 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2635,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2635,
+    WorldStaticModel = manga2635,
+    Tags             = Magazine,
+  }
+  item mangamodern_2245-standing
+  {
+    DisplayName      = Vol. 1 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2635,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2635,
+    WorldStaticModel = standingmanga2635,
+    Tags             = Magazine,
+  }
+  item mangamodern_2246
+  {
+    DisplayName      = Vol. 2 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2636,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2636,
+    WorldStaticModel = manga2636,
+    Tags             = Magazine,
+  }
+  item mangamodern_2246-standing
+  {
+    DisplayName      = Vol. 2 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2636,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2636,
+    WorldStaticModel = standingmanga2636,
+    Tags             = Magazine,
+  }
+  item mangamodern_2247
+  {
+    DisplayName      = Vol. 3 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2637,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2637,
+    WorldStaticModel = manga2637,
+    Tags             = Magazine,
+  }
+  item mangamodern_2247-standing
+  {
+    DisplayName      = Vol. 3 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2637,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2637,
+    WorldStaticModel = standingmanga2637,
+    Tags             = Magazine,
+  }
+  item mangamodern_2248
+  {
+    DisplayName      = Vol. 4 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2638,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2638,
+    WorldStaticModel = manga2638,
+    Tags             = Magazine,
+  }
+  item mangamodern_2248-standing
+  {
+    DisplayName      = Vol. 4 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2638,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2638,
+    WorldStaticModel = standingmanga2638,
+    Tags             = Magazine,
+  }
+  item mangamodern_2249
+  {
+    DisplayName      = Vol. 5 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2639,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2639,
+    WorldStaticModel = manga2639,
+    Tags             = Magazine,
+  }
+  item mangamodern_2249-standing
+  {
+    DisplayName      = Vol. 5 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2639,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2639,
+    WorldStaticModel = standingmanga2639,
+    Tags             = Magazine,
+  }
+  item mangamodern_2250
+  {
+    DisplayName      = Vol. 6 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2640,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2640,
+    WorldStaticModel = manga2640,
+    Tags             = Magazine,
+  }
+  item mangamodern_2250-standing
+  {
+    DisplayName      = Vol. 6 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2640,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2640,
+    WorldStaticModel = standingmanga2640,
+    Tags             = Magazine,
+  }
+  item mangamodern_2251
+  {
+    DisplayName      = Vol. 7 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2641,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2641,
+    WorldStaticModel = manga2641,
+    Tags             = Magazine,
+  }
+  item mangamodern_2251-standing
+  {
+    DisplayName      = Vol. 7 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2641,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2641,
+    WorldStaticModel = standingmanga2641,
+    Tags             = Magazine,
+  }
+  item mangamodern_2252
+  {
+    DisplayName      = Vol. 8 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2642,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2642,
+    WorldStaticModel = manga2642,
+    Tags             = Magazine,
+  }
+  item mangamodern_2252-standing
+  {
+    DisplayName      = Vol. 8 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2642,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2642,
+    WorldStaticModel = standingmanga2642,
+    Tags             = Magazine,
+  }
+  item mangamodern_2253
+  {
+    DisplayName      = Vol. 9 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2643,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2643,
+    WorldStaticModel = manga2643,
+    Tags             = Magazine,
+  }
+  item mangamodern_2253-standing
+  {
+    DisplayName      = Vol. 9 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2643,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2643,
+    WorldStaticModel = standingmanga2643,
+    Tags             = Magazine,
+  }
+  item mangamodern_2254
+  {
+    DisplayName      = Vol. 10 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2644,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2644,
+    WorldStaticModel = manga2644,
+    Tags             = Magazine,
+  }
+  item mangamodern_2254-standing
+  {
+    DisplayName      = Vol. 10 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2644,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2644,
+    WorldStaticModel = standingmanga2644,
+    Tags             = Magazine,
+  }
+  item mangamodern_2255
+  {
+    DisplayName      = Vol. 11 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2645,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2645,
+    WorldStaticModel = manga2645,
+    Tags             = Magazine,
+  }
+  item mangamodern_2255-standing
+  {
+    DisplayName      = Vol. 11 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2645,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2645,
+    WorldStaticModel = standingmanga2645,
+    Tags             = Magazine,
+  }
+  item mangamodern_2256
+  {
+    DisplayName      = Vol. 12 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2646,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2646,
+    WorldStaticModel = manga2646,
+    Tags             = Magazine,
+  }
+  item mangamodern_2256-standing
+  {
+    DisplayName      = Vol. 12 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2646,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2646,
+    WorldStaticModel = standingmanga2646,
+    Tags             = Magazine,
+  }
+  item mangamodern_2257
+  {
+    DisplayName      = Vol. 13 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2647,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2647,
+    WorldStaticModel = manga2647,
+    Tags             = Magazine,
+  }
+  item mangamodern_2257-standing
+  {
+    DisplayName      = Vol. 13 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2647,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2647,
+    WorldStaticModel = standingmanga2647,
+    Tags             = Magazine,
+  }
+  item mangamodern_2258
+  {
+    DisplayName      = Vol. 14 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2648,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2648,
+    WorldStaticModel = manga2648,
+    Tags             = Magazine,
+  }
+  item mangamodern_2258-standing
+  {
+    DisplayName      = Vol. 14 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2648,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2648,
+    WorldStaticModel = standingmanga2648,
+    Tags             = Magazine,
+  }
+  item mangamodern_2259
+  {
+    DisplayName      = Vol. 15 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2649,
+    Tooltip          = Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2649,
+    WorldStaticModel = manga2649,
+    Tags             = Magazine,
+  }
+  item mangamodern_2259-standing
+  {
+    DisplayName      = Vol. 15 My Dress-Up Darling,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2649,
+    Tooltip          = (standing) Sono Bisque Doll wa Koi wo Suru,
+    StaticModel      = staticmanga2649,
+    WorldStaticModel = standingmanga2649,
+    Tags             = Magazine,
+  }
 }
