@@ -79473,4 +79473,1924 @@ module mangaItems{
     WorldStaticModel = standingmanga2649,
     Tags             = Magazine,
   }
+  item mangamodern_2260
+  {
+    DisplayName      = Vol. 1 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2650,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2650,
+    WorldStaticModel = manga2650,
+    Tags             = Magazine,
+  }
+  item mangamodern_2260-standing
+  {
+    DisplayName      = Vol. 1 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2650,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2650,
+    WorldStaticModel = standingmanga2650,
+    Tags             = Magazine,
+  }
+  item mangamodern_2261
+  {
+    DisplayName      = Vol. 2 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2651,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2651,
+    WorldStaticModel = manga2651,
+    Tags             = Magazine,
+  }
+  item mangamodern_2261-standing
+  {
+    DisplayName      = Vol. 2 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2651,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2651,
+    WorldStaticModel = standingmanga2651,
+    Tags             = Magazine,
+  }
+  item mangamodern_2262
+  {
+    DisplayName      = Vol. 3 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2652,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2652,
+    WorldStaticModel = manga2652,
+    Tags             = Magazine,
+  }
+  item mangamodern_2262-standing
+  {
+    DisplayName      = Vol. 3 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2652,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2652,
+    WorldStaticModel = standingmanga2652,
+    Tags             = Magazine,
+  }
+  item mangamodern_2263
+  {
+    DisplayName      = Vol. 4 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2653,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2653,
+    WorldStaticModel = manga2653,
+    Tags             = Magazine,
+  }
+  item mangamodern_2263-standing
+  {
+    DisplayName      = Vol. 4 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2653,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2653,
+    WorldStaticModel = standingmanga2653,
+    Tags             = Magazine,
+  }
+  item mangamodern_2264
+  {
+    DisplayName      = Vol. 5 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2654,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2654,
+    WorldStaticModel = manga2654,
+    Tags             = Magazine,
+  }
+  item mangamodern_2264-standing
+  {
+    DisplayName      = Vol. 5 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2654,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2654,
+    WorldStaticModel = standingmanga2654,
+    Tags             = Magazine,
+  }
+  item mangamodern_2265
+  {
+    DisplayName      = Vol. 6 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2655,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2655,
+    WorldStaticModel = manga2655,
+    Tags             = Magazine,
+  }
+  item mangamodern_2265-standing
+  {
+    DisplayName      = Vol. 6 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2655,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2655,
+    WorldStaticModel = standingmanga2655,
+    Tags             = Magazine,
+  }
+  item mangamodern_2266
+  {
+    DisplayName      = Vol. 7 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2656,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2656,
+    WorldStaticModel = manga2656,
+    Tags             = Magazine,
+  }
+  item mangamodern_2266-standing
+  {
+    DisplayName      = Vol. 7 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2656,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2656,
+    WorldStaticModel = standingmanga2656,
+    Tags             = Magazine,
+  }
+  item mangamodern_2267
+  {
+    DisplayName      = Vol. 8 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2657,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2657,
+    WorldStaticModel = manga2657,
+    Tags             = Magazine,
+  }
+  item mangamodern_2267-standing
+  {
+    DisplayName      = Vol. 8 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2657,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2657,
+    WorldStaticModel = standingmanga2657,
+    Tags             = Magazine,
+  }
+  item mangamodern_2268
+  {
+    DisplayName      = Vol. 9 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2658,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2658,
+    WorldStaticModel = manga2658,
+    Tags             = Magazine,
+  }
+  item mangamodern_2268-standing
+  {
+    DisplayName      = Vol. 9 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2658,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2658,
+    WorldStaticModel = standingmanga2658,
+    Tags             = Magazine,
+  }
+  item mangamodern_2269
+  {
+    DisplayName      = Vol. 10 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2659,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2659,
+    WorldStaticModel = manga2659,
+    Tags             = Magazine,
+  }
+  item mangamodern_2269-standing
+  {
+    DisplayName      = Vol. 10 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2659,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2659,
+    WorldStaticModel = standingmanga2659,
+    Tags             = Magazine,
+  }
+  item mangamodern_2270
+  {
+    DisplayName      = Vol. 11 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2660,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2660,
+    WorldStaticModel = manga2660,
+    Tags             = Magazine,
+  }
+  item mangamodern_2270-standing
+  {
+    DisplayName      = Vol. 11 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2660,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2660,
+    WorldStaticModel = standingmanga2660,
+    Tags             = Magazine,
+  }
+  item mangamodern_2271
+  {
+    DisplayName      = Vol. 12 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2661,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2661,
+    WorldStaticModel = manga2661,
+    Tags             = Magazine,
+  }
+  item mangamodern_2271-standing
+  {
+    DisplayName      = Vol. 12 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2661,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2661,
+    WorldStaticModel = standingmanga2661,
+    Tags             = Magazine,
+  }
+  item mangamodern_2272
+  {
+    DisplayName      = Vol. 13 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2662,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2662,
+    WorldStaticModel = manga2662,
+    Tags             = Magazine,
+  }
+  item mangamodern_2272-standing
+  {
+    DisplayName      = Vol. 13 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2662,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2662,
+    WorldStaticModel = standingmanga2662,
+    Tags             = Magazine,
+  }
+  item mangamodern_2273
+  {
+    DisplayName      = Vol. 14 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2663,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2663,
+    WorldStaticModel = manga2663,
+    Tags             = Magazine,
+  }
+  item mangamodern_2273-standing
+  {
+    DisplayName      = Vol. 14 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2663,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2663,
+    WorldStaticModel = standingmanga2663,
+    Tags             = Magazine,
+  }
+  item mangamodern_2274
+  {
+    DisplayName      = Vol. 15 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2664,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2664,
+    WorldStaticModel = manga2664,
+    Tags             = Magazine,
+  }
+  item mangamodern_2274-standing
+  {
+    DisplayName      = Vol. 15 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2664,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2664,
+    WorldStaticModel = standingmanga2664,
+    Tags             = Magazine,
+  }
+  item mangamodern_2275
+  {
+    DisplayName      = Vol. 16 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2665,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2665,
+    WorldStaticModel = manga2665,
+    Tags             = Magazine,
+  }
+  item mangamodern_2275-standing
+  {
+    DisplayName      = Vol. 16 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2665,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2665,
+    WorldStaticModel = standingmanga2665,
+    Tags             = Magazine,
+  }
+  item mangamodern_2276
+  {
+    DisplayName      = Vol. 17 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2666,
+    Tooltip          = Yuru Camp,
+    StaticModel      = staticmanga2666,
+    WorldStaticModel = manga2666,
+    Tags             = Magazine,
+  }
+  item mangamodern_2276-standing
+  {
+    DisplayName      = Vol. 17 Laid-Back Camp,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2666,
+    Tooltip          = (standing) Yuru Camp,
+    StaticModel      = staticmanga2666,
+    WorldStaticModel = standingmanga2666,
+    Tags             = Magazine,
+  }
+  item mangamodern_2277
+  {
+    DisplayName      = Vol. 1 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2667,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2667,
+    WorldStaticModel = manga2667,
+    Tags             = Magazine,
+  }
+  item mangamodern_2277-standing
+  {
+    DisplayName      = Vol. 1 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2667,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2667,
+    WorldStaticModel = standingmanga2667,
+    Tags             = Magazine,
+  }
+  item mangamodern_2278
+  {
+    DisplayName      = Vol. 2 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2668,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2668,
+    WorldStaticModel = manga2668,
+    Tags             = Magazine,
+  }
+  item mangamodern_2278-standing
+  {
+    DisplayName      = Vol. 2 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2668,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2668,
+    WorldStaticModel = standingmanga2668,
+    Tags             = Magazine,
+  }
+  item mangamodern_2279
+  {
+    DisplayName      = Vol. 3 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2669,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2669,
+    WorldStaticModel = manga2669,
+    Tags             = Magazine,
+  }
+  item mangamodern_2279-standing
+  {
+    DisplayName      = Vol. 3 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2669,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2669,
+    WorldStaticModel = standingmanga2669,
+    Tags             = Magazine,
+  }
+  item mangamodern_2280
+  {
+    DisplayName      = Vol. 4 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2670,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2670,
+    WorldStaticModel = manga2670,
+    Tags             = Magazine,
+  }
+  item mangamodern_2280-standing
+  {
+    DisplayName      = Vol. 4 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2670,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2670,
+    WorldStaticModel = standingmanga2670,
+    Tags             = Magazine,
+  }
+  item mangamodern_2281
+  {
+    DisplayName      = Vol. 5 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2671,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2671,
+    WorldStaticModel = manga2671,
+    Tags             = Magazine,
+  }
+  item mangamodern_2281-standing
+  {
+    DisplayName      = Vol. 5 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2671,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2671,
+    WorldStaticModel = standingmanga2671,
+    Tags             = Magazine,
+  }
+  item mangamodern_2282
+  {
+    DisplayName      = Vol. 6 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2672,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2672,
+    WorldStaticModel = manga2672,
+    Tags             = Magazine,
+  }
+  item mangamodern_2282-standing
+  {
+    DisplayName      = Vol. 6 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2672,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2672,
+    WorldStaticModel = standingmanga2672,
+    Tags             = Magazine,
+  }
+  item mangamodern_2283
+  {
+    DisplayName      = Vol. 7 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2673,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2673,
+    WorldStaticModel = manga2673,
+    Tags             = Magazine,
+  }
+  item mangamodern_2283-standing
+  {
+    DisplayName      = Vol. 7 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2673,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2673,
+    WorldStaticModel = standingmanga2673,
+    Tags             = Magazine,
+  }
+  item mangamodern_2284
+  {
+    DisplayName      = Vol. 8 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2674,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2674,
+    WorldStaticModel = manga2674,
+    Tags             = Magazine,
+  }
+  item mangamodern_2284-standing
+  {
+    DisplayName      = Vol. 8 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2674,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2674,
+    WorldStaticModel = standingmanga2674,
+    Tags             = Magazine,
+  }
+  item mangamodern_2285
+  {
+    DisplayName      = Vol. 9 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2675,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2675,
+    WorldStaticModel = manga2675,
+    Tags             = Magazine,
+  }
+  item mangamodern_2285-standing
+  {
+    DisplayName      = Vol. 9 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2675,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2675,
+    WorldStaticModel = standingmanga2675,
+    Tags             = Magazine,
+  }
+  item mangamodern_2286
+  {
+    DisplayName      = Vol. 10 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2676,
+    Tooltip          = Supa Kabu,
+    StaticModel      = staticmanga2676,
+    WorldStaticModel = manga2676,
+    Tags             = Magazine,
+  }
+  item mangamodern_2286-standing
+  {
+    DisplayName      = Vol. 10 Super Cub,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2676,
+    Tooltip          = (standing) Supa Kabu,
+    StaticModel      = staticmanga2676,
+    WorldStaticModel = standingmanga2676,
+    Tags             = Magazine,
+  }
+  item mangamodern_2287
+  {
+    DisplayName      = Vol. 1 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2677,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2677,
+    WorldStaticModel = manga2677,
+    Tags             = Magazine,
+  }
+  item mangamodern_2287-standing
+  {
+    DisplayName      = Vol. 1 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2677,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2677,
+    WorldStaticModel = standingmanga2677,
+    Tags             = Magazine,
+  }
+  item mangamodern_2288
+  {
+    DisplayName      = Vol. 2 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2678,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2678,
+    WorldStaticModel = manga2678,
+    Tags             = Magazine,
+  }
+  item mangamodern_2288-standing
+  {
+    DisplayName      = Vol. 2 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2678,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2678,
+    WorldStaticModel = standingmanga2678,
+    Tags             = Magazine,
+  }
+  item mangamodern_2289
+  {
+    DisplayName      = Vol. 3 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2679,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2679,
+    WorldStaticModel = manga2679,
+    Tags             = Magazine,
+  }
+  item mangamodern_2289-standing
+  {
+    DisplayName      = Vol. 3 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2679,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2679,
+    WorldStaticModel = standingmanga2679,
+    Tags             = Magazine,
+  }
+  item mangamodern_2290
+  {
+    DisplayName      = Vol. 4 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2680,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2680,
+    WorldStaticModel = manga2680,
+    Tags             = Magazine,
+  }
+  item mangamodern_2290-standing
+  {
+    DisplayName      = Vol. 4 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2680,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2680,
+    WorldStaticModel = standingmanga2680,
+    Tags             = Magazine,
+  }
+  item mangamodern_2291
+  {
+    DisplayName      = Vol. 5 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2681,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2681,
+    WorldStaticModel = manga2681,
+    Tags             = Magazine,
+  }
+  item mangamodern_2291-standing
+  {
+    DisplayName      = Vol. 5 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2681,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2681,
+    WorldStaticModel = standingmanga2681,
+    Tags             = Magazine,
+  }
+  item mangamodern_2292
+  {
+    DisplayName      = Vol. 6 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2682,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2682,
+    WorldStaticModel = manga2682,
+    Tags             = Magazine,
+  }
+  item mangamodern_2292-standing
+  {
+    DisplayName      = Vol. 6 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2682,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2682,
+    WorldStaticModel = standingmanga2682,
+    Tags             = Magazine,
+  }
+  item mangamodern_2293
+  {
+    DisplayName      = Vol. 7 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2683,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2683,
+    WorldStaticModel = manga2683,
+    Tags             = Magazine,
+  }
+  item mangamodern_2293-standing
+  {
+    DisplayName      = Vol. 7 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2683,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2683,
+    WorldStaticModel = standingmanga2683,
+    Tags             = Magazine,
+  }
+  item mangamodern_2294
+  {
+    DisplayName      = Vol. 8 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2684,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2684,
+    WorldStaticModel = manga2684,
+    Tags             = Magazine,
+  }
+  item mangamodern_2294-standing
+  {
+    DisplayName      = Vol. 8 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2684,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2684,
+    WorldStaticModel = standingmanga2684,
+    Tags             = Magazine,
+  }
+  item mangamodern_2295
+  {
+    DisplayName      = Vol. 9 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2685,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2685,
+    WorldStaticModel = manga2685,
+    Tags             = Magazine,
+  }
+  item mangamodern_2295-standing
+  {
+    DisplayName      = Vol. 9 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2685,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2685,
+    WorldStaticModel = standingmanga2685,
+    Tags             = Magazine,
+  }
+  item mangamodern_2296
+  {
+    DisplayName      = Vol. 10 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2686,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2686,
+    WorldStaticModel = manga2686,
+    Tags             = Magazine,
+  }
+  item mangamodern_2296-standing
+  {
+    DisplayName      = Vol. 10 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2686,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2686,
+    WorldStaticModel = standingmanga2686,
+    Tags             = Magazine,
+  }
+  item mangamodern_2297
+  {
+    DisplayName      = Vol. 11 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2687,
+    Tooltip          = Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2687,
+    WorldStaticModel = manga2687,
+    Tags             = Magazine,
+  }
+  item mangamodern_2297-standing
+  {
+    DisplayName      = Vol. 11 Log Horizon West Wind Brigade,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2687,
+    Tooltip          = (standing) Log Horizon Nishikaze no Ryodan,
+    StaticModel      = staticmanga2687,
+    WorldStaticModel = standingmanga2687,
+    Tags             = Magazine,
+  }
+  item mangamodern_2298
+  {
+    DisplayName      = Vol. 1 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2688,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2688,
+    WorldStaticModel = manga2688,
+    Tags             = Magazine,
+  }
+  item mangamodern_2298-standing
+  {
+    DisplayName      = Vol. 1 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2688,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2688,
+    WorldStaticModel = standingmanga2688,
+    Tags             = Magazine,
+  }
+  item mangamodern_2299
+  {
+    DisplayName      = Vol. 2 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2689,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2689,
+    WorldStaticModel = manga2689,
+    Tags             = Magazine,
+  }
+  item mangamodern_2299-standing
+  {
+    DisplayName      = Vol. 2 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2689,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2689,
+    WorldStaticModel = standingmanga2689,
+    Tags             = Magazine,
+  }
+  item mangamodern_2300
+  {
+    DisplayName      = Vol. 3 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2690,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2690,
+    WorldStaticModel = manga2690,
+    Tags             = Magazine,
+  }
+  item mangamodern_2300-standing
+  {
+    DisplayName      = Vol. 3 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2690,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2690,
+    WorldStaticModel = standingmanga2690,
+    Tags             = Magazine,
+  }
+  item mangamodern_2301
+  {
+    DisplayName      = Vol. 4 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2691,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2691,
+    WorldStaticModel = manga2691,
+    Tags             = Magazine,
+  }
+  item mangamodern_2301-standing
+  {
+    DisplayName      = Vol. 4 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2691,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2691,
+    WorldStaticModel = standingmanga2691,
+    Tags             = Magazine,
+  }
+  item mangamodern_2302
+  {
+    DisplayName      = Vol. 5 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2692,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2692,
+    WorldStaticModel = manga2692,
+    Tags             = Magazine,
+  }
+  item mangamodern_2302-standing
+  {
+    DisplayName      = Vol. 5 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2692,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2692,
+    WorldStaticModel = standingmanga2692,
+    Tags             = Magazine,
+  }
+  item mangamodern_2303
+  {
+    DisplayName      = Vol. 6 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2693,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2693,
+    WorldStaticModel = manga2693,
+    Tags             = Magazine,
+  }
+  item mangamodern_2303-standing
+  {
+    DisplayName      = Vol. 6 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2693,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2693,
+    WorldStaticModel = standingmanga2693,
+    Tags             = Magazine,
+  }
+  item mangamodern_2304
+  {
+    DisplayName      = Vol. 7 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2694,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2694,
+    WorldStaticModel = manga2694,
+    Tags             = Magazine,
+  }
+  item mangamodern_2304-standing
+  {
+    DisplayName      = Vol. 7 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2694,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2694,
+    WorldStaticModel = standingmanga2694,
+    Tags             = Magazine,
+  }
+  item mangamodern_2305
+  {
+    DisplayName      = Vol. 8 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2695,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2695,
+    WorldStaticModel = manga2695,
+    Tags             = Magazine,
+  }
+  item mangamodern_2305-standing
+  {
+    DisplayName      = Vol. 8 BOFURI: I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2695,
+    Tooltip          = (standing) Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = staticmanga2695,
+    WorldStaticModel = standingmanga2695,
+    Tags             = Magazine,
+  }
+  item mangamodern_2306
+  {
+    DisplayName      = Vol. 1 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2696,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2696,
+    WorldStaticModel = manga2696,
+    Tags             = Magazine,
+  }
+  item mangamodern_2306-standing
+  {
+    DisplayName      = Vol. 1 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2696,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2696,
+    WorldStaticModel = standingmanga2696,
+    Tags             = Magazine,
+  }
+  item mangamodern_2307
+  {
+    DisplayName      = Vol. 2 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2697,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2697,
+    WorldStaticModel = manga2697,
+    Tags             = Magazine,
+  }
+  item mangamodern_2307-standing
+  {
+    DisplayName      = Vol. 2 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2697,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2697,
+    WorldStaticModel = standingmanga2697,
+    Tags             = Magazine,
+  }
+  item mangamodern_2308
+  {
+    DisplayName      = Vol. 3 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2698,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2698,
+    WorldStaticModel = manga2698,
+    Tags             = Magazine,
+  }
+  item mangamodern_2308-standing
+  {
+    DisplayName      = Vol. 3 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2698,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2698,
+    WorldStaticModel = standingmanga2698,
+    Tags             = Magazine,
+  }
+  item mangamodern_2309
+  {
+    DisplayName      = Vol. 4 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2699,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2699,
+    WorldStaticModel = manga2699,
+    Tags             = Magazine,
+  }
+  item mangamodern_2309-standing
+  {
+    DisplayName      = Vol. 4 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2699,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2699,
+    WorldStaticModel = standingmanga2699,
+    Tags             = Magazine,
+  }
+  item mangamodern_2310
+  {
+    DisplayName      = Vol. 5 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2700,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2700,
+    WorldStaticModel = manga2700,
+    Tags             = Magazine,
+  }
+  item mangamodern_2310-standing
+  {
+    DisplayName      = Vol. 5 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2700,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2700,
+    WorldStaticModel = standingmanga2700,
+    Tags             = Magazine,
+  }
+  item mangamodern_2311
+  {
+    DisplayName      = Vol. 6 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2701,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2701,
+    WorldStaticModel = manga2701,
+    Tags             = Magazine,
+  }
+  item mangamodern_2311-standing
+  {
+    DisplayName      = Vol. 6 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2701,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2701,
+    WorldStaticModel = standingmanga2701,
+    Tags             = Magazine,
+  }
+  item mangamodern_2312
+  {
+    DisplayName      = Vol. 7 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2702,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2702,
+    WorldStaticModel = manga2702,
+    Tags             = Magazine,
+  }
+  item mangamodern_2312-standing
+  {
+    DisplayName      = Vol. 7 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2702,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2702,
+    WorldStaticModel = standingmanga2702,
+    Tags             = Magazine,
+  }
+  item mangamodern_2313
+  {
+    DisplayName      = Vol. 8 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2703,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2703,
+    WorldStaticModel = manga2703,
+    Tags             = Magazine,
+  }
+  item mangamodern_2313-standing
+  {
+    DisplayName      = Vol. 8 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2703,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2703,
+    WorldStaticModel = standingmanga2703,
+    Tags             = Magazine,
+  }
+  item mangamodern_2314
+  {
+    DisplayName      = Vol. 9 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2704,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2704,
+    WorldStaticModel = manga2704,
+    Tags             = Magazine,
+  }
+  item mangamodern_2314-standing
+  {
+    DisplayName      = Vol. 9 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2704,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2704,
+    WorldStaticModel = standingmanga2704,
+    Tags             = Magazine,
+  }
+  item mangamodern_2315
+  {
+    DisplayName      = Vol. 10 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2705,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2705,
+    WorldStaticModel = manga2705,
+    Tags             = Magazine,
+  }
+  item mangamodern_2315-standing
+  {
+    DisplayName      = Vol. 10 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2705,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2705,
+    WorldStaticModel = standingmanga2705,
+    Tags             = Magazine,
+  }
+  item mangamodern_2316
+  {
+    DisplayName      = Vol. 11 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2706,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2706,
+    WorldStaticModel = manga2706,
+    Tags             = Magazine,
+  }
+  item mangamodern_2316-standing
+  {
+    DisplayName      = Vol. 11 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2706,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2706,
+    WorldStaticModel = standingmanga2706,
+    Tags             = Magazine,
+  }
+  item mangamodern_2317
+  {
+    DisplayName      = Vol. 12 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2707,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2707,
+    WorldStaticModel = manga2707,
+    Tags             = Magazine,
+  }
+  item mangamodern_2317-standing
+  {
+    DisplayName      = Vol. 12 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2707,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2707,
+    WorldStaticModel = standingmanga2707,
+    Tags             = Magazine,
+  }
+  item mangamodern_2318
+  {
+    DisplayName      = Vol. 13 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2708,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2708,
+    WorldStaticModel = manga2708,
+    Tags             = Magazine,
+  }
+  item mangamodern_2318-standing
+  {
+    DisplayName      = Vol. 13 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2708,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2708,
+    WorldStaticModel = standingmanga2708,
+    Tags             = Magazine,
+  }
+  item mangamodern_2319
+  {
+    DisplayName      = Vol. 14 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2709,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2709,
+    WorldStaticModel = manga2709,
+    Tags             = Magazine,
+  }
+  item mangamodern_2319-standing
+  {
+    DisplayName      = Vol. 14 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2709,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2709,
+    WorldStaticModel = standingmanga2709,
+    Tags             = Magazine,
+  }
+  item mangamodern_2320
+  {
+    DisplayName      = Vol. 15 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2710,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2710,
+    WorldStaticModel = manga2710,
+    Tags             = Magazine,
+  }
+  item mangamodern_2320-standing
+  {
+    DisplayName      = Vol. 15 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2710,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2710,
+    WorldStaticModel = standingmanga2710,
+    Tags             = Magazine,
+  }
+  item mangamodern_2321
+  {
+    DisplayName      = Vol. 16 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2711,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2711,
+    WorldStaticModel = manga2711,
+    Tags             = Magazine,
+  }
+  item mangamodern_2321-standing
+  {
+    DisplayName      = Vol. 16 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2711,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2711,
+    WorldStaticModel = standingmanga2711,
+    Tags             = Magazine,
+  }
+  item mangamodern_2322
+  {
+    DisplayName      = Vol. 17 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2712,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2712,
+    WorldStaticModel = manga2712,
+    Tags             = Magazine,
+  }
+  item mangamodern_2322-standing
+  {
+    DisplayName      = Vol. 17 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2712,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2712,
+    WorldStaticModel = standingmanga2712,
+    Tags             = Magazine,
+  }
+  item mangamodern_2323
+  {
+    DisplayName      = Vol. 18 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2713,
+    Tooltip          = Masshuru,
+    StaticModel      = staticmanga2713,
+    WorldStaticModel = manga2713,
+    Tags             = Magazine,
+  }
+  item mangamodern_2323-standing
+  {
+    DisplayName      = Vol. 18 Mashle: Magic and Muscles,
+    DisplayCategory  = Literature,
+    Type             = Literature,
+    Weight           = 0.3,
+    UnhappyChange    = -10,
+    StressChange     = -10,
+    BoredomChange    = -15,
+    Icon             = manga2713,
+    Tooltip          = (standing) Masshuru,
+    StaticModel      = staticmanga2713,
+    WorldStaticModel = standingmanga2713,
+    Tags             = Magazine,
+  }
 }
