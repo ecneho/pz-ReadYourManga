@@ -117,9 +117,16 @@ function ISLiteratureUI:createChildren()
 	self:setLists()
 end
 
-local function getMangaInfo(book)
-    local volume, title = book:match("Vol. (%d+) (.+)")
-    return tonumber(volume), title
+local function getMangaInfo(s)
+    local volPos = string.find(s, " Vol.")
+    if volPos then
+        local title = string.sub(s, 1, volPos - 1)
+        local volStr = string.sub(s, volPos + 5)
+        local vol = tonumber(volStr) or math.huge
+        return vol, title
+    else
+        return math.huge, s
+    end
 end
 
 local function mangaSort(a, b)
