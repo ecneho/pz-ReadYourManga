@@ -21,11 +21,11 @@ function ISReadABook:perform()
             self.character:getModData().readManga = readManga
         end
     
-        ISBaseTimedAction.perform(self);
-
-        if not SandboxVars.ReadYourManga.ConsumeOnUse then
-            self.character:getInventory():AddItem(self.item)
+        if SandboxVars.ReadYourManga.ConsumeOnUse then
+            self.character:getInventory():Remove(self.item)
         end
+    
+        ISBaseTimedAction.perform(self);
     else
         original_perform(self)
     end
