@@ -1,0 +1,61 @@
+VERSION = 1,
+
+option ReadYourManga.SpawnRooms {
+    type = string,
+    default = bedroom; livingroom; diningroom; library; locker; universitylibrary; hall; elementaryschool; schoolstorage; universitystorage,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_SpawnRooms,
+}
+
+option ReadYourManga.IgnoreRoomType {
+    type = boolean,
+    default = false,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_IgnoreRoomType,
+}
+
+option ReadYourManga.SpawnContainers {
+    type = string,
+    default = shelves; sidetable; postbox; desk; locker,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_SpawnContainers,
+}
+
+option ReadYourManga.SpawnChance {
+    type = double,
+    default = 15.0,
+    min = 0.0,
+    max = 100.0,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_SpawnChance,
+}
+
+option ReadYourManga.RollCount {
+    type = integer,
+    default = 3,
+    min = 0,
+    max = 10,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_RollCount,
+}
+
+option ReadYourManga.AllowModern {
+    type = boolean,
+    default = true,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_AllowModern,
+}
+
+option ReadYourManga.AllowPre1993 {
+    type = boolean,
+    default = true,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_AllowPreEvents,
+}
