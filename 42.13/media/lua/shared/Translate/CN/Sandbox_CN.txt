@@ -1,0 +1,27 @@
+Sandbox_CN = {
+	Sandbox_ReadYourManga = "漫画合集",
+
+	Sandbox_ReadYourManga_SpawnContainers 		= "生成容器",
+	Sandbox_ReadYourManga_SpawnContainers_tooltip 	= "生成漫画的容器列表。<br>应使用 ; 分隔",
+
+	Sandbox_ReadYourManga_SpawnRooms 		= "生成房间",
+	Sandbox_ReadYourManga_SpawnRooms_tooltip 	= "生成漫画的房间列表。<br>应使用 ; 分隔",
+
+	Sandbox_ReadYourManga_IgnoreRoomType 		= "忽略房间类型",
+	Sandbox_ReadYourManga_IgnoreRoomType_tooltip 	= "跳过检查并允许漫画在任何房间生成。",
+
+	Sandbox_ReadYourManga_SpawnChance 		= "生成几率 %",
+	Sandbox_ReadYourManga_SpawnChance_tooltip 	= "漫画作为生成候选项的几率。<br>仅支持两位小数。",
+
+	Sandbox_ReadYourManga_RollCount 		= "判定次数",
+	Sandbox_ReadYourManga_RollCount_tooltip 	= "尝试成功生成物品的次数。",
+	
+	Sandbox_ReadYourManga_ConsumeOnUse 		= "阅读后消耗",
+	Sandbox_ReadYourManga_ConsumeOnUse_tooltip 	= "完全读完后移除漫画。<br>旧版体验。",
+
+	Sandbox_ReadYourManga_AllowModern 		= "生成现代漫画",
+	Sandbox_ReadYourManga_AllowModern_tooltip 	= "允许现代漫画在游戏中生成。",
+
+	Sandbox_ReadYourManga_AllowPreEvents 		= "生成符合背景设定的漫画（1993年前）",
+	Sandbox_ReadYourManga_AllowPreEvents_tooltip 	= "允许1993年之前发行的漫画在游戏中生成。",
+}

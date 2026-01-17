@@ -9,3 +9,5 @@
 </span>
 
 ## Packaged and compatible with [ZBundler](https://github.com/ecneho/zbun).
+
+- Simplified Chinese translation by [Byzod](https://steamcommunity.com/id/Byzod).
