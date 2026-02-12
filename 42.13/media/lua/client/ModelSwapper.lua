@@ -3,11 +3,13 @@
 local function ToggleModel(item, player)
     local inv = player:getInventory()
     local itemType = item:getFullType()
-    
-    if itemType:sub(-9) == "-standing" then
-        itemType = itemType:sub(1, -10)
+
+    if itemType:sub(-2) == "_s" then
+        itemType = itemType:sub(1, -3) .. "_l"
+    elseif itemType:sub(-2) == "_l" then
+        itemType = itemType:sub(1, -3) .. "_s"
     else
-        itemType = itemType .. "-standing"
+        return
     end
 
     inv:Remove(item)
@@ -24,9 +26,13 @@ local function OnFillInventoryObjectContextMenu(playerNum, context, items)
 
     for _, item in ipairs(items) do
         local type = item:getFullType()
-        if player:getInventory() == item:getContainer() and item:getModule() == "mangaItems" and not addedItems[type] then
+        if player:getInventory() == item:getContainer()
+            and item:getModule() == "mangaItems"
+            and not addedItems[type]
+            and (type:sub(-2) == "_s" or type:sub(-2) == "_l") then
+
             addedItems[type] = true
-            local side = (type:sub(-9) == "-standing") and "Sideways" or "Upright"
+            local side = (type:sub(-2) == "_s") and "Sideways" or "Upright"
             context:addOption('Set '..side, player, function () ToggleModel(item, player) end)
         end
     end
