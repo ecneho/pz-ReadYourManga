@@ -1,0 +1,17 @@
+VERSION = 1,
+
+option ReadYourManga.AllowPre1993 {
+    type = boolean,
+    default = true,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_AllowPreEvents,
+}
+
+option ReadYourManga.AllowModern {
+    type = boolean,
+    default = true,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_AllowModern,
+}

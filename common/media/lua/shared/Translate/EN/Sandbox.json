@@ -1,0 +1,9 @@
+{
+    "Sandbox_ReadYourManga": "Read Your Manga",
+
+    "Sandbox_ReadYourManga_AllowModern": "Spawn Modern",
+    "Sandbox_ReadYourManga_AllowModern_tooltip": "Allow modern manga to spawn in game.",
+
+    "Sandbox_ReadYourManga_AllowPreEvents": "Spawn Lore Accurate",
+    "Sandbox_ReadYourManga_AllowPreEvents_tooltip": "Allow manga released before 1993 to spawn in game."
+}

@@ -8,6 +8,6 @@
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2851584592"><img alt="Release Date" src="https://img.shields.io/steam/release-date/2851584592?logo=steam&color=goldenrod&labelColor=1b2838"></a>
 </span>
 
-## Packaged and compatible with [ZBundler](https://github.com/ecneho/zbun).
+---
 
-- Simplified Chinese translation by [Byzod](https://steamcommunity.com/id/Byzod).
+> Simplified Chinese translation by [Byzod](https://steamcommunity.com/id/Byzod).
