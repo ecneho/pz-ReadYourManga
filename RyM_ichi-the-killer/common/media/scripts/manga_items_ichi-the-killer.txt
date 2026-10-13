@@ -1,0 +1,266 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t11_v1_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v1_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v1_m,
+    WorldStaticModel = standing-manga_t11_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v1_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v1_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v1_m,
+    WorldStaticModel = laying-manga_t11_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v2_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v2_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v2_m,
+    WorldStaticModel = standing-manga_t11_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v2_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v2_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v2_m,
+    WorldStaticModel = laying-manga_t11_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v3_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v3_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v3_m,
+    WorldStaticModel = standing-manga_t11_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v3_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v3_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v3_m,
+    WorldStaticModel = laying-manga_t11_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v4_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v4_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v4_m,
+    WorldStaticModel = standing-manga_t11_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v4_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v4_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v4_m,
+    WorldStaticModel = laying-manga_t11_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v5_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v5_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v5_m,
+    WorldStaticModel = standing-manga_t11_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v5_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v5_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v5_m,
+    WorldStaticModel = laying-manga_t11_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v6_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v6_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v6_m,
+    WorldStaticModel = standing-manga_t11_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v6_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v6_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v6_m,
+    WorldStaticModel = laying-manga_t11_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v7_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v7_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v7_m,
+    WorldStaticModel = standing-manga_t11_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v7_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v7_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v7_m,
+    WorldStaticModel = laying-manga_t11_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v8_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v8_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v8_m,
+    WorldStaticModel = standing-manga_t11_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v8_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v8_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v8_m,
+    WorldStaticModel = laying-manga_t11_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v9_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v9_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v9_m,
+    WorldStaticModel = standing-manga_t11_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v9_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v9_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v9_m,
+    WorldStaticModel = laying-manga_t11_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v10_m_s
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v10_m,
+    Tooltip          = Koroshiya Ichi (standing),
+    StaticModel      = hands-manga_t11_v10_m,
+    WorldStaticModel = standing-manga_t11_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t11_v10_m_l
+  {
+    DisplayName      = Ichi the Killer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t11_v10_m,
+    Tooltip          = Koroshiya Ichi,
+    StaticModel      = hands-manga_t11_v10_m,
+    WorldStaticModel = laying-manga_t11_v10_m,
+    Tags             = Magazine,
+  }
+}

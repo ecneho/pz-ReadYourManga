@@ -1,0 +1,26 @@
+VERSION = 1,
+
+option ReadYourManga.AllowPre1993 {
+    type = boolean,
+    default = true,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_AllowPreEvents,
+}
+
+option ReadYourManga.AllowModern {
+    type = boolean,
+    default = true,
+
+    page = ReadYourManga,
+    translation = ReadYourManga_AllowModern,
+}
+
+option ReadYourManga.SpawnAmountRate
+{
+    type = enum,
+    numValues = 9,
+    default = 4,
+    page = ReadYourManga,
+    translation = ReadYourManga_SpawnAmountRate,
+}

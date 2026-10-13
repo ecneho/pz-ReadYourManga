@@ -1,0 +1,344 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t122_v1_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v1_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v1_m,
+    WorldStaticModel = standing-manga_t122_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v1_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v1_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v1_m,
+    WorldStaticModel = laying-manga_t122_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v2_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v2_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v2_m,
+    WorldStaticModel = standing-manga_t122_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v2_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v2_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v2_m,
+    WorldStaticModel = laying-manga_t122_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v3_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v3_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v3_m,
+    WorldStaticModel = standing-manga_t122_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v3_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v3_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v3_m,
+    WorldStaticModel = laying-manga_t122_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v4_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v4_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v4_m,
+    WorldStaticModel = standing-manga_t122_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v4_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v4_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v4_m,
+    WorldStaticModel = laying-manga_t122_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v5_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v5_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v5_m,
+    WorldStaticModel = standing-manga_t122_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v5_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v5_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v5_m,
+    WorldStaticModel = laying-manga_t122_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v6_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v6_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v6_m,
+    WorldStaticModel = standing-manga_t122_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v6_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v6_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v6_m,
+    WorldStaticModel = laying-manga_t122_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v7_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v7_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v7_m,
+    WorldStaticModel = standing-manga_t122_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v7_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v7_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v7_m,
+    WorldStaticModel = laying-manga_t122_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v8_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v8_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v8_m,
+    WorldStaticModel = standing-manga_t122_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v8_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v8_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v8_m,
+    WorldStaticModel = laying-manga_t122_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v9_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v9_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v9_m,
+    WorldStaticModel = standing-manga_t122_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v9_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v9_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v9_m,
+    WorldStaticModel = laying-manga_t122_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v10_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v10_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v10_m,
+    WorldStaticModel = standing-manga_t122_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v10_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v10_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v10_m,
+    WorldStaticModel = laying-manga_t122_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v11_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v11_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v11_m,
+    WorldStaticModel = standing-manga_t122_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v11_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v11_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v11_m,
+    WorldStaticModel = laying-manga_t122_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v12_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v12_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v12_m,
+    WorldStaticModel = standing-manga_t122_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v12_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v12_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v12_m,
+    WorldStaticModel = laying-manga_t122_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v13_m_s
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v13_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan (standing),
+    StaticModel      = hands-manga_t122_v13_m,
+    WorldStaticModel = standing-manga_t122_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t122_v13_m_l
+  {
+    DisplayName      = Goblin Slayer Gaiden:  Year One,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t122_v13_m,
+    Tooltip          = Goburin Sureiya Gaiden:  Iya Wan,
+    StaticModel      = hands-manga_t122_v13_m,
+    WorldStaticModel = laying-manga_t122_v13_m,
+    Tags             = Magazine,
+  }
+}

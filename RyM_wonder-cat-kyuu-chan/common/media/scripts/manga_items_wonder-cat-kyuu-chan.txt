@@ -1,0 +1,214 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t40_v1_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v1_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v1_m,
+    WorldStaticModel = standing-manga_t40_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v1_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v1_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v1_m,
+    WorldStaticModel = laying-manga_t40_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v2_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v2_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v2_m,
+    WorldStaticModel = standing-manga_t40_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v2_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v2_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v2_m,
+    WorldStaticModel = laying-manga_t40_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v3_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v3_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v3_m,
+    WorldStaticModel = standing-manga_t40_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v3_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v3_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v3_m,
+    WorldStaticModel = laying-manga_t40_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v4_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v4_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v4_m,
+    WorldStaticModel = standing-manga_t40_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v4_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v4_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v4_m,
+    WorldStaticModel = laying-manga_t40_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v5_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v5_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v5_m,
+    WorldStaticModel = standing-manga_t40_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v5_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v5_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v5_m,
+    WorldStaticModel = laying-manga_t40_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v6_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v6_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v6_m,
+    WorldStaticModel = standing-manga_t40_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v6_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v6_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v6_m,
+    WorldStaticModel = laying-manga_t40_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v7_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v7_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v7_m,
+    WorldStaticModel = standing-manga_t40_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v7_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v7_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v7_m,
+    WorldStaticModel = laying-manga_t40_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v8_m_s
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v8_m,
+    Tooltip          = Fushigi Neko no Kyu-chan (standing),
+    StaticModel      = hands-manga_t40_v8_m,
+    WorldStaticModel = standing-manga_t40_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t40_v8_m_l
+  {
+    DisplayName      = Wonder Cat Kyuu-chan,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t40_v8_m,
+    Tooltip          = Fushigi Neko no Kyu-chan,
+    StaticModel      = hands-manga_t40_v8_m,
+    WorldStaticModel = laying-manga_t40_v8_m,
+    Tags             = Magazine,
+  }
+}

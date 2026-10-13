@@ -1,0 +1,4 @@
+name=[To hide this mod - Enable Read Your Manga: Core] Gate
+id=RyM_gate
+description=Gate for Read Your Manga.
+require=RyM

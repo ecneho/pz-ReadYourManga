@@ -1,0 +1,708 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t27_v1_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v1_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v1_m,
+    WorldStaticModel = standing-manga_t27_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v1_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v1_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v1_m,
+    WorldStaticModel = laying-manga_t27_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v2_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v2_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v2_m,
+    WorldStaticModel = standing-manga_t27_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v2_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v2_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v2_m,
+    WorldStaticModel = laying-manga_t27_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v3_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v3_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v3_m,
+    WorldStaticModel = standing-manga_t27_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v3_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v3_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v3_m,
+    WorldStaticModel = laying-manga_t27_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v4_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v4_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v4_m,
+    WorldStaticModel = standing-manga_t27_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v4_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v4_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v4_m,
+    WorldStaticModel = laying-manga_t27_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v5_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v5_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v5_m,
+    WorldStaticModel = standing-manga_t27_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v5_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v5_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v5_m,
+    WorldStaticModel = laying-manga_t27_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v6_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v6_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v6_m,
+    WorldStaticModel = standing-manga_t27_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v6_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v6_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v6_m,
+    WorldStaticModel = laying-manga_t27_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v7_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v7_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v7_m,
+    WorldStaticModel = standing-manga_t27_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v7_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v7_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v7_m,
+    WorldStaticModel = laying-manga_t27_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v8_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v8_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v8_m,
+    WorldStaticModel = standing-manga_t27_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v8_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v8_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v8_m,
+    WorldStaticModel = laying-manga_t27_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v9_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v9_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v9_m,
+    WorldStaticModel = standing-manga_t27_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v9_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v9_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v9_m,
+    WorldStaticModel = laying-manga_t27_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v10_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v10_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v10_m,
+    WorldStaticModel = standing-manga_t27_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v10_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v10_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v10_m,
+    WorldStaticModel = laying-manga_t27_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v11_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v11_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v11_m,
+    WorldStaticModel = standing-manga_t27_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v11_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v11_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v11_m,
+    WorldStaticModel = laying-manga_t27_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v12_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v12_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v12_m,
+    WorldStaticModel = standing-manga_t27_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v12_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v12_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v12_m,
+    WorldStaticModel = laying-manga_t27_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v13_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v13_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v13_m,
+    WorldStaticModel = standing-manga_t27_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v13_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v13_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v13_m,
+    WorldStaticModel = laying-manga_t27_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v14_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v14_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v14_m,
+    WorldStaticModel = standing-manga_t27_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v14_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v14_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v14_m,
+    WorldStaticModel = laying-manga_t27_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v15_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v15_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v15_m,
+    WorldStaticModel = standing-manga_t27_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v15_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v15_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v15_m,
+    WorldStaticModel = laying-manga_t27_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v16_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v16_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v16_m,
+    WorldStaticModel = standing-manga_t27_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v16_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v16_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v16_m,
+    WorldStaticModel = laying-manga_t27_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v17_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v17_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v17_m,
+    WorldStaticModel = standing-manga_t27_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v17_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v17_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v17_m,
+    WorldStaticModel = laying-manga_t27_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v18_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v18_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v18_m,
+    WorldStaticModel = standing-manga_t27_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v18_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v18_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v18_m,
+    WorldStaticModel = laying-manga_t27_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v19_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v19_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v19_m,
+    WorldStaticModel = standing-manga_t27_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v19_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v19_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v19_m,
+    WorldStaticModel = laying-manga_t27_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v20_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v20_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v20_m,
+    WorldStaticModel = standing-manga_t27_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v20_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v20_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v20_m,
+    WorldStaticModel = laying-manga_t27_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v21_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v21_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v21_m,
+    WorldStaticModel = standing-manga_t27_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v21_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v21_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v21_m,
+    WorldStaticModel = laying-manga_t27_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v22_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v22_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v22_m,
+    WorldStaticModel = standing-manga_t27_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v22_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v22_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v22_m,
+    WorldStaticModel = laying-manga_t27_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v23_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v23_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v23_m,
+    WorldStaticModel = standing-manga_t27_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v23_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v23_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v23_m,
+    WorldStaticModel = laying-manga_t27_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v24_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v24_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v24_m,
+    WorldStaticModel = standing-manga_t27_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v24_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v24_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v24_m,
+    WorldStaticModel = laying-manga_t27_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v25_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v25_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v25_m,
+    WorldStaticModel = standing-manga_t27_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v25_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v25_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v25_m,
+    WorldStaticModel = laying-manga_t27_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v26_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v26_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v26_m,
+    WorldStaticModel = standing-manga_t27_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v26_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v26_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v26_m,
+    WorldStaticModel = laying-manga_t27_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v27_m_s
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v27_m,
+    Tooltip          = Tate no Yuusha no Nariagari (standing),
+    StaticModel      = hands-manga_t27_v27_m,
+    WorldStaticModel = standing-manga_t27_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t27_v27_m_l
+  {
+    DisplayName      = The Rising of the Shield Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t27_v27_m,
+    Tooltip          = Tate no Yuusha no Nariagari,
+    StaticModel      = hands-manga_t27_v27_m,
+    WorldStaticModel = laying-manga_t27_v27_m,
+    Tags             = Magazine,
+  }
+}

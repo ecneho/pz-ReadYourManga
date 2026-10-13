@@ -1,0 +1,526 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t54_v1_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v1_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v1_c,
+    WorldStaticModel = standing-manga_t54_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v1_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v1_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v1_c,
+    WorldStaticModel = laying-manga_t54_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v2_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v2_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v2_c,
+    WorldStaticModel = standing-manga_t54_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v2_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v2_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v2_c,
+    WorldStaticModel = laying-manga_t54_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v3_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v3_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v3_c,
+    WorldStaticModel = standing-manga_t54_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v3_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v3_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v3_c,
+    WorldStaticModel = laying-manga_t54_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v4_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v4_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v4_c,
+    WorldStaticModel = standing-manga_t54_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v4_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v4_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v4_c,
+    WorldStaticModel = laying-manga_t54_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v5_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v5_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v5_c,
+    WorldStaticModel = standing-manga_t54_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v5_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v5_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v5_c,
+    WorldStaticModel = laying-manga_t54_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v6_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v6_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v6_c,
+    WorldStaticModel = standing-manga_t54_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v6_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v6_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v6_c,
+    WorldStaticModel = laying-manga_t54_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v7_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v7_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v7_c,
+    WorldStaticModel = standing-manga_t54_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v7_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v7_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v7_c,
+    WorldStaticModel = laying-manga_t54_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v8_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v8_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v8_c,
+    WorldStaticModel = standing-manga_t54_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v8_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v8_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v8_c,
+    WorldStaticModel = laying-manga_t54_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v9_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v9_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v9_c,
+    WorldStaticModel = standing-manga_t54_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v9_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v9_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v9_c,
+    WorldStaticModel = laying-manga_t54_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v10_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v10_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v10_c,
+    WorldStaticModel = standing-manga_t54_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v10_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v10_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v10_c,
+    WorldStaticModel = laying-manga_t54_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v11_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v11_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v11_c,
+    WorldStaticModel = standing-manga_t54_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v11_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v11_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v11_c,
+    WorldStaticModel = laying-manga_t54_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v12_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v12_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v12_c,
+    WorldStaticModel = standing-manga_t54_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v12_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v12_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v12_c,
+    WorldStaticModel = laying-manga_t54_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v13_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v13_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v13_c,
+    WorldStaticModel = standing-manga_t54_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v13_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v13_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v13_c,
+    WorldStaticModel = laying-manga_t54_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v14_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v14_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v14_c,
+    WorldStaticModel = standing-manga_t54_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v14_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v14_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v14_c,
+    WorldStaticModel = laying-manga_t54_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v15_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v15_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v15_c,
+    WorldStaticModel = standing-manga_t54_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v15_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v15_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v15_c,
+    WorldStaticModel = laying-manga_t54_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v16_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v16_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v16_c,
+    WorldStaticModel = standing-manga_t54_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v16_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v16_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v16_c,
+    WorldStaticModel = laying-manga_t54_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v17_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v17_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v17_c,
+    WorldStaticModel = standing-manga_t54_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v17_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v17_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v17_c,
+    WorldStaticModel = laying-manga_t54_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v18_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v18_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v18_c,
+    WorldStaticModel = standing-manga_t54_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v18_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v18_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v18_c,
+    WorldStaticModel = laying-manga_t54_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v19_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v19_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v19_c,
+    WorldStaticModel = standing-manga_t54_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v19_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v19_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v19_c,
+    WorldStaticModel = laying-manga_t54_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v20_c_s
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v20_c,
+    Tooltip          = Ashita no Joe (standing),
+    StaticModel      = hands-manga_t54_v20_c,
+    WorldStaticModel = standing-manga_t54_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t54_v20_c_l
+  {
+    DisplayName      = Ashita no Joe:  Fighting for Tomorrow,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t54_v20_c,
+    Tooltip          = Ashita no Joe,
+    StaticModel      = hands-manga_t54_v20_c,
+    WorldStaticModel = laying-manga_t54_v20_c,
+    Tags             = Magazine,
+  }
+}

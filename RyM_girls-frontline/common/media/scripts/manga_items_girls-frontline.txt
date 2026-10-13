@@ -1,0 +1,84 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t189_v1_m_s
+  {
+    DisplayName      = Girls' Frontline,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t189_v1_m,
+    Tooltip          = Dolls' Frontline (standing),
+    StaticModel      = hands-manga_t189_v1_m,
+    WorldStaticModel = standing-manga_t189_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t189_v1_m_l
+  {
+    DisplayName      = Girls' Frontline,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t189_v1_m,
+    Tooltip          = Dolls' Frontline,
+    StaticModel      = hands-manga_t189_v1_m,
+    WorldStaticModel = laying-manga_t189_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t189_v2_m_s
+  {
+    DisplayName      = Girls' Frontline,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t189_v2_m,
+    Tooltip          = Dolls' Frontline (standing),
+    StaticModel      = hands-manga_t189_v2_m,
+    WorldStaticModel = standing-manga_t189_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t189_v2_m_l
+  {
+    DisplayName      = Girls' Frontline,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t189_v2_m,
+    Tooltip          = Dolls' Frontline,
+    StaticModel      = hands-manga_t189_v2_m,
+    WorldStaticModel = laying-manga_t189_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t189_v3_m_s
+  {
+    DisplayName      = Girls' Frontline,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t189_v3_m,
+    Tooltip          = Dolls' Frontline (standing),
+    StaticModel      = hands-manga_t189_v3_m,
+    WorldStaticModel = standing-manga_t189_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t189_v3_m_l
+  {
+    DisplayName      = Girls' Frontline,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t189_v3_m,
+    Tooltip          = Dolls' Frontline,
+    StaticModel      = hands-manga_t189_v3_m,
+    WorldStaticModel = laying-manga_t189_v3_m,
+    Tags             = Magazine,
+  }
+}

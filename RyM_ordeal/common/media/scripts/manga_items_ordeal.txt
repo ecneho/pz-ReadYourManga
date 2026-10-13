@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t92_v1_m_s
+  {
+    DisplayName      = Ordeal,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t92_v1_m,
+    Tooltip          = Ordeal (standing),
+    StaticModel      = hands-manga_t92_v1_m,
+    WorldStaticModel = standing-manga_t92_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t92_v1_m_l
+  {
+    DisplayName      = Ordeal,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t92_v1_m,
+    Tooltip          = Ordeal,
+    StaticModel      = hands-manga_t92_v1_m,
+    WorldStaticModel = laying-manga_t92_v1_m,
+    Tags             = Magazine,
+  }
+}

@@ -1,0 +1,500 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t61_v1_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v1_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v1_c,
+    WorldStaticModel = standing-manga_t61_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v1_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v1_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v1_c,
+    WorldStaticModel = laying-manga_t61_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v2_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v2_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v2_c,
+    WorldStaticModel = standing-manga_t61_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v2_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v2_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v2_c,
+    WorldStaticModel = laying-manga_t61_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v3_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v3_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v3_c,
+    WorldStaticModel = standing-manga_t61_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v3_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v3_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v3_c,
+    WorldStaticModel = laying-manga_t61_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v4_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v4_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v4_c,
+    WorldStaticModel = standing-manga_t61_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v4_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v4_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v4_c,
+    WorldStaticModel = laying-manga_t61_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v5_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v5_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v5_c,
+    WorldStaticModel = standing-manga_t61_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v5_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v5_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v5_c,
+    WorldStaticModel = laying-manga_t61_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v6_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v6_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v6_c,
+    WorldStaticModel = standing-manga_t61_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v6_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v6_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v6_c,
+    WorldStaticModel = laying-manga_t61_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v7_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v7_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v7_c,
+    WorldStaticModel = standing-manga_t61_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v7_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v7_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v7_c,
+    WorldStaticModel = laying-manga_t61_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v8_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v8_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v8_c,
+    WorldStaticModel = standing-manga_t61_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v8_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v8_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v8_c,
+    WorldStaticModel = laying-manga_t61_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v9_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v9_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v9_c,
+    WorldStaticModel = standing-manga_t61_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v9_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v9_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v9_c,
+    WorldStaticModel = laying-manga_t61_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v10_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v10_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v10_c,
+    WorldStaticModel = standing-manga_t61_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v10_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v10_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v10_c,
+    WorldStaticModel = laying-manga_t61_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v11_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v11_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v11_c,
+    WorldStaticModel = standing-manga_t61_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v11_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v11_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v11_c,
+    WorldStaticModel = laying-manga_t61_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v12_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v12_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v12_c,
+    WorldStaticModel = standing-manga_t61_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v12_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v12_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v12_c,
+    WorldStaticModel = laying-manga_t61_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v13_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v13_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v13_c,
+    WorldStaticModel = standing-manga_t61_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v13_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v13_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v13_c,
+    WorldStaticModel = laying-manga_t61_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v14_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v14_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v14_c,
+    WorldStaticModel = standing-manga_t61_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v14_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v14_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v14_c,
+    WorldStaticModel = laying-manga_t61_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v15_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v15_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v15_c,
+    WorldStaticModel = standing-manga_t61_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v15_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v15_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v15_c,
+    WorldStaticModel = laying-manga_t61_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v16_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v16_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v16_c,
+    WorldStaticModel = standing-manga_t61_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v16_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v16_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v16_c,
+    WorldStaticModel = laying-manga_t61_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v17_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v17_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v17_c,
+    WorldStaticModel = standing-manga_t61_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v17_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v17_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v17_c,
+    WorldStaticModel = laying-manga_t61_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v18_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v18_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v18_c,
+    WorldStaticModel = standing-manga_t61_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v18_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v18_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v18_c,
+    WorldStaticModel = laying-manga_t61_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v19_c_s
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v19_c,
+    Tooltip          = Kyojin no Hoshi (standing),
+    StaticModel      = hands-manga_t61_v19_c,
+    WorldStaticModel = standing-manga_t61_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t61_v19_c_l
+  {
+    DisplayName      = Star of the Giants,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t61_v19_c,
+    Tooltip          = Kyojin no Hoshi,
+    StaticModel      = hands-manga_t61_v19_c,
+    WorldStaticModel = laying-manga_t61_v19_c,
+    Tags             = Magazine,
+  }
+}

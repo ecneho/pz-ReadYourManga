@@ -1,0 +1,552 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t195_v1_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v1_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v1_m,
+    WorldStaticModel = standing-manga_t195_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v1_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v1_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v1_m,
+    WorldStaticModel = laying-manga_t195_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v2_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v2_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v2_m,
+    WorldStaticModel = standing-manga_t195_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v2_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v2_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v2_m,
+    WorldStaticModel = laying-manga_t195_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v3_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v3_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v3_m,
+    WorldStaticModel = standing-manga_t195_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v3_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v3_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v3_m,
+    WorldStaticModel = laying-manga_t195_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v4_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v4_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v4_m,
+    WorldStaticModel = standing-manga_t195_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v4_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v4_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v4_m,
+    WorldStaticModel = laying-manga_t195_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v5_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v5_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v5_m,
+    WorldStaticModel = standing-manga_t195_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v5_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v5_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v5_m,
+    WorldStaticModel = laying-manga_t195_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v6_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v6_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v6_m,
+    WorldStaticModel = standing-manga_t195_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v6_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v6_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v6_m,
+    WorldStaticModel = laying-manga_t195_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v7_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v7_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v7_m,
+    WorldStaticModel = standing-manga_t195_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v7_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v7_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v7_m,
+    WorldStaticModel = laying-manga_t195_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v8_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v8_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v8_m,
+    WorldStaticModel = standing-manga_t195_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v8_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v8_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v8_m,
+    WorldStaticModel = laying-manga_t195_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v9_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v9_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v9_m,
+    WorldStaticModel = standing-manga_t195_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v9_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v9_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v9_m,
+    WorldStaticModel = laying-manga_t195_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v10_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v10_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v10_m,
+    WorldStaticModel = standing-manga_t195_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v10_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v10_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v10_m,
+    WorldStaticModel = laying-manga_t195_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v11_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v11_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v11_m,
+    WorldStaticModel = standing-manga_t195_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v11_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v11_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v11_m,
+    WorldStaticModel = laying-manga_t195_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v12_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v12_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v12_m,
+    WorldStaticModel = standing-manga_t195_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v12_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v12_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v12_m,
+    WorldStaticModel = laying-manga_t195_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v13_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v13_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v13_m,
+    WorldStaticModel = standing-manga_t195_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v13_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v13_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v13_m,
+    WorldStaticModel = laying-manga_t195_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v14_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v14_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v14_m,
+    WorldStaticModel = standing-manga_t195_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v14_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v14_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v14_m,
+    WorldStaticModel = laying-manga_t195_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v15_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v15_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v15_m,
+    WorldStaticModel = standing-manga_t195_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v15_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v15_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v15_m,
+    WorldStaticModel = laying-manga_t195_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v16_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v16_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v16_m,
+    WorldStaticModel = standing-manga_t195_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v16_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v16_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v16_m,
+    WorldStaticModel = laying-manga_t195_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v17_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v17_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v17_m,
+    WorldStaticModel = standing-manga_t195_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v17_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v17_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v17_m,
+    WorldStaticModel = laying-manga_t195_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v18_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v18_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v18_m,
+    WorldStaticModel = standing-manga_t195_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v18_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v18_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v18_m,
+    WorldStaticModel = laying-manga_t195_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v19_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v19_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v19_m,
+    WorldStaticModel = standing-manga_t195_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v19_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v19_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v19_m,
+    WorldStaticModel = laying-manga_t195_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v20_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v20_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v20_m,
+    WorldStaticModel = standing-manga_t195_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v20_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v20_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v20_m,
+    WorldStaticModel = laying-manga_t195_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v21_m_s
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v21_m,
+    Tooltip          = Za Faburu (standing),
+    StaticModel      = hands-manga_t195_v21_m,
+    WorldStaticModel = standing-manga_t195_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t195_v21_m_l
+  {
+    DisplayName      = The Fable,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t195_v21_m,
+    Tooltip          = Za Faburu,
+    StaticModel      = hands-manga_t195_v21_m,
+    WorldStaticModel = laying-manga_t195_v21_m,
+    Tags             = Magazine,
+  }
+}

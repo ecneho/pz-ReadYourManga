@@ -1,0 +1,136 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t49_v1_c_s
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v1_c,
+    Tooltip          = Warau Serusuman (standing),
+    StaticModel      = hands-manga_t49_v1_c,
+    WorldStaticModel = standing-manga_t49_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v1_c_l
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v1_c,
+    Tooltip          = Warau Serusuman,
+    StaticModel      = hands-manga_t49_v1_c,
+    WorldStaticModel = laying-manga_t49_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v2_c_s
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v2_c,
+    Tooltip          = Warau Serusuman (standing),
+    StaticModel      = hands-manga_t49_v2_c,
+    WorldStaticModel = standing-manga_t49_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v2_c_l
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v2_c,
+    Tooltip          = Warau Serusuman,
+    StaticModel      = hands-manga_t49_v2_c,
+    WorldStaticModel = laying-manga_t49_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v3_c_s
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v3_c,
+    Tooltip          = Warau Serusuman (standing),
+    StaticModel      = hands-manga_t49_v3_c,
+    WorldStaticModel = standing-manga_t49_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v3_c_l
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v3_c,
+    Tooltip          = Warau Serusuman,
+    StaticModel      = hands-manga_t49_v3_c,
+    WorldStaticModel = laying-manga_t49_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v4_c_s
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v4_c,
+    Tooltip          = Warau Serusuman (standing),
+    StaticModel      = hands-manga_t49_v4_c,
+    WorldStaticModel = standing-manga_t49_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v4_c_l
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v4_c,
+    Tooltip          = Warau Serusuman,
+    StaticModel      = hands-manga_t49_v4_c,
+    WorldStaticModel = laying-manga_t49_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v5_c_s
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v5_c,
+    Tooltip          = Warau Serusuman (standing),
+    StaticModel      = hands-manga_t49_v5_c,
+    WorldStaticModel = standing-manga_t49_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t49_v5_c_l
+  {
+    DisplayName      = Laughing Salesman,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t49_v5_c,
+    Tooltip          = Warau Serusuman,
+    StaticModel      = hands-manga_t49_v5_c,
+    WorldStaticModel = laying-manga_t49_v5_c,
+    Tags             = Magazine,
+  }
+}

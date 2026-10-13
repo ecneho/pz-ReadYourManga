@@ -1,0 +1,110 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t164_v1_m_s
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v1_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1 (standing),
+    StaticModel      = hands-manga_t164_v1_m,
+    WorldStaticModel = standing-manga_t164_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v1_m_l
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v1_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1,
+    StaticModel      = hands-manga_t164_v1_m,
+    WorldStaticModel = laying-manga_t164_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v2_m_s
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v2_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1 (standing),
+    StaticModel      = hands-manga_t164_v2_m,
+    WorldStaticModel = standing-manga_t164_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v2_m_l
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v2_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1,
+    StaticModel      = hands-manga_t164_v2_m,
+    WorldStaticModel = laying-manga_t164_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v3_m_s
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v3_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1 (standing),
+    StaticModel      = hands-manga_t164_v3_m,
+    WorldStaticModel = standing-manga_t164_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v3_m_l
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v3_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1,
+    StaticModel      = hands-manga_t164_v3_m,
+    WorldStaticModel = laying-manga_t164_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v4_m_s
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v4_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1 (standing),
+    StaticModel      = hands-manga_t164_v4_m,
+    WorldStaticModel = standing-manga_t164_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t164_v4_m_l
+  {
+    DisplayName      = When the Seagulls Cry Episode 1:  Legend of the Golden Witch,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t164_v4_m,
+    Tooltip          = Umineko no Naku Koro ni:  Episode 1,
+    StaticModel      = hands-manga_t164_v4_m,
+    WorldStaticModel = laying-manga_t164_v4_m,
+    Tags             = Magazine,
+  }
+}

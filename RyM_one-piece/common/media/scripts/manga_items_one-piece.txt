@@ -1,0 +1,2866 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t62_v1_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v1_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v1_m,
+    WorldStaticModel = standing-manga_t62_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v1_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v1_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v1_m,
+    WorldStaticModel = laying-manga_t62_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v2_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v2_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v2_m,
+    WorldStaticModel = standing-manga_t62_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v2_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v2_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v2_m,
+    WorldStaticModel = laying-manga_t62_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v3_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v3_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v3_m,
+    WorldStaticModel = standing-manga_t62_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v3_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v3_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v3_m,
+    WorldStaticModel = laying-manga_t62_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v4_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v4_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v4_m,
+    WorldStaticModel = standing-manga_t62_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v4_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v4_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v4_m,
+    WorldStaticModel = laying-manga_t62_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v5_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v5_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v5_m,
+    WorldStaticModel = standing-manga_t62_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v5_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v5_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v5_m,
+    WorldStaticModel = laying-manga_t62_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v6_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v6_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v6_m,
+    WorldStaticModel = standing-manga_t62_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v6_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v6_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v6_m,
+    WorldStaticModel = laying-manga_t62_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v7_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v7_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v7_m,
+    WorldStaticModel = standing-manga_t62_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v7_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v7_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v7_m,
+    WorldStaticModel = laying-manga_t62_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v8_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v8_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v8_m,
+    WorldStaticModel = standing-manga_t62_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v8_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v8_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v8_m,
+    WorldStaticModel = laying-manga_t62_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v9_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v9_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v9_m,
+    WorldStaticModel = standing-manga_t62_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v9_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v9_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v9_m,
+    WorldStaticModel = laying-manga_t62_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v10_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v10_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v10_m,
+    WorldStaticModel = standing-manga_t62_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v10_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v10_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v10_m,
+    WorldStaticModel = laying-manga_t62_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v11_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v11_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v11_m,
+    WorldStaticModel = standing-manga_t62_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v11_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v11_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v11_m,
+    WorldStaticModel = laying-manga_t62_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v12_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v12_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v12_m,
+    WorldStaticModel = standing-manga_t62_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v12_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v12_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v12_m,
+    WorldStaticModel = laying-manga_t62_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v13_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v13_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v13_m,
+    WorldStaticModel = standing-manga_t62_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v13_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v13_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v13_m,
+    WorldStaticModel = laying-manga_t62_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v14_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v14_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v14_m,
+    WorldStaticModel = standing-manga_t62_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v14_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v14_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v14_m,
+    WorldStaticModel = laying-manga_t62_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v15_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v15_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v15_m,
+    WorldStaticModel = standing-manga_t62_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v15_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v15_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v15_m,
+    WorldStaticModel = laying-manga_t62_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v16_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v16_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v16_m,
+    WorldStaticModel = standing-manga_t62_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v16_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v16_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v16_m,
+    WorldStaticModel = laying-manga_t62_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v17_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v17_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v17_m,
+    WorldStaticModel = standing-manga_t62_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v17_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v17_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v17_m,
+    WorldStaticModel = laying-manga_t62_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v18_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v18_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v18_m,
+    WorldStaticModel = standing-manga_t62_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v18_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v18_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v18_m,
+    WorldStaticModel = laying-manga_t62_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v19_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v19_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v19_m,
+    WorldStaticModel = standing-manga_t62_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v19_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v19_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v19_m,
+    WorldStaticModel = laying-manga_t62_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v20_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v20_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v20_m,
+    WorldStaticModel = standing-manga_t62_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v20_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v20_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v20_m,
+    WorldStaticModel = laying-manga_t62_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v21_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v21_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v21_m,
+    WorldStaticModel = standing-manga_t62_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v21_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v21_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v21_m,
+    WorldStaticModel = laying-manga_t62_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v22_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v22_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v22_m,
+    WorldStaticModel = standing-manga_t62_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v22_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v22_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v22_m,
+    WorldStaticModel = laying-manga_t62_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v23_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v23_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v23_m,
+    WorldStaticModel = standing-manga_t62_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v23_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v23_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v23_m,
+    WorldStaticModel = laying-manga_t62_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v24_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v24_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v24_m,
+    WorldStaticModel = standing-manga_t62_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v24_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v24_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v24_m,
+    WorldStaticModel = laying-manga_t62_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v25_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v25_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v25_m,
+    WorldStaticModel = standing-manga_t62_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v25_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v25_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v25_m,
+    WorldStaticModel = laying-manga_t62_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v26_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v26_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v26_m,
+    WorldStaticModel = standing-manga_t62_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v26_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v26_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v26_m,
+    WorldStaticModel = laying-manga_t62_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v27_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v27_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v27_m,
+    WorldStaticModel = standing-manga_t62_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v27_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v27_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v27_m,
+    WorldStaticModel = laying-manga_t62_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v28_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v28_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v28_m,
+    WorldStaticModel = standing-manga_t62_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v28_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v28_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v28_m,
+    WorldStaticModel = laying-manga_t62_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v29_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v29_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v29_m,
+    WorldStaticModel = standing-manga_t62_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v29_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v29_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v29_m,
+    WorldStaticModel = laying-manga_t62_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v30_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v30_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v30_m,
+    WorldStaticModel = standing-manga_t62_v30_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v30_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v30_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v30_m,
+    WorldStaticModel = laying-manga_t62_v30_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v31_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v31_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v31_m,
+    WorldStaticModel = standing-manga_t62_v31_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v31_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v31_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v31_m,
+    WorldStaticModel = laying-manga_t62_v31_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v32_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v32_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v32_m,
+    WorldStaticModel = standing-manga_t62_v32_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v32_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v32_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v32_m,
+    WorldStaticModel = laying-manga_t62_v32_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v33_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v33_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v33_m,
+    WorldStaticModel = standing-manga_t62_v33_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v33_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v33_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v33_m,
+    WorldStaticModel = laying-manga_t62_v33_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v34_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v34_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v34_m,
+    WorldStaticModel = standing-manga_t62_v34_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v34_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v34_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v34_m,
+    WorldStaticModel = laying-manga_t62_v34_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v35_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v35_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v35_m,
+    WorldStaticModel = standing-manga_t62_v35_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v35_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v35_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v35_m,
+    WorldStaticModel = laying-manga_t62_v35_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v36_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v36_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v36_m,
+    WorldStaticModel = standing-manga_t62_v36_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v36_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v36_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v36_m,
+    WorldStaticModel = laying-manga_t62_v36_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v37_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v37_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v37_m,
+    WorldStaticModel = standing-manga_t62_v37_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v37_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v37_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v37_m,
+    WorldStaticModel = laying-manga_t62_v37_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v38_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v38_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v38_m,
+    WorldStaticModel = standing-manga_t62_v38_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v38_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v38_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v38_m,
+    WorldStaticModel = laying-manga_t62_v38_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v39_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v39_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v39_m,
+    WorldStaticModel = standing-manga_t62_v39_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v39_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v39_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v39_m,
+    WorldStaticModel = laying-manga_t62_v39_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v40_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v40_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v40_m,
+    WorldStaticModel = standing-manga_t62_v40_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v40_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v40_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v40_m,
+    WorldStaticModel = laying-manga_t62_v40_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v41_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v41_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v41_m,
+    WorldStaticModel = standing-manga_t62_v41_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v41_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v41_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v41_m,
+    WorldStaticModel = laying-manga_t62_v41_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v42_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v42_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v42_m,
+    WorldStaticModel = standing-manga_t62_v42_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v42_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v42_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v42_m,
+    WorldStaticModel = laying-manga_t62_v42_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v43_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v43_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v43_m,
+    WorldStaticModel = standing-manga_t62_v43_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v43_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v43_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v43_m,
+    WorldStaticModel = laying-manga_t62_v43_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v44_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v44_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v44_m,
+    WorldStaticModel = standing-manga_t62_v44_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v44_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v44_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v44_m,
+    WorldStaticModel = laying-manga_t62_v44_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v45_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v45_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v45_m,
+    WorldStaticModel = standing-manga_t62_v45_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v45_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v45_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v45_m,
+    WorldStaticModel = laying-manga_t62_v45_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v46_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v46_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v46_m,
+    WorldStaticModel = standing-manga_t62_v46_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v46_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v46_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v46_m,
+    WorldStaticModel = laying-manga_t62_v46_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v47_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v47_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v47_m,
+    WorldStaticModel = standing-manga_t62_v47_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v47_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v47_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v47_m,
+    WorldStaticModel = laying-manga_t62_v47_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v48_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v48_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v48_m,
+    WorldStaticModel = standing-manga_t62_v48_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v48_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v48_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v48_m,
+    WorldStaticModel = laying-manga_t62_v48_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v49_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v49_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v49_m,
+    WorldStaticModel = standing-manga_t62_v49_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v49_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v49_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v49_m,
+    WorldStaticModel = laying-manga_t62_v49_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v50_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v50_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v50_m,
+    WorldStaticModel = standing-manga_t62_v50_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v50_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v50_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v50_m,
+    WorldStaticModel = laying-manga_t62_v50_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v51_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v51_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v51_m,
+    WorldStaticModel = standing-manga_t62_v51_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v51_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v51_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v51_m,
+    WorldStaticModel = laying-manga_t62_v51_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v52_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v52_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v52_m,
+    WorldStaticModel = standing-manga_t62_v52_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v52_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v52_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v52_m,
+    WorldStaticModel = laying-manga_t62_v52_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v53_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v53_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v53_m,
+    WorldStaticModel = standing-manga_t62_v53_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v53_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v53_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v53_m,
+    WorldStaticModel = laying-manga_t62_v53_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v54_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v54_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v54_m,
+    WorldStaticModel = standing-manga_t62_v54_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v54_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v54_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v54_m,
+    WorldStaticModel = laying-manga_t62_v54_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v55_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v55_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v55_m,
+    WorldStaticModel = standing-manga_t62_v55_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v55_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v55_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v55_m,
+    WorldStaticModel = laying-manga_t62_v55_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v56_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v56_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v56_m,
+    WorldStaticModel = standing-manga_t62_v56_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v56_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v56_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v56_m,
+    WorldStaticModel = laying-manga_t62_v56_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v57_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v57_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v57_m,
+    WorldStaticModel = standing-manga_t62_v57_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v57_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v57_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v57_m,
+    WorldStaticModel = laying-manga_t62_v57_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v58_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v58_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v58_m,
+    WorldStaticModel = standing-manga_t62_v58_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v58_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v58_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v58_m,
+    WorldStaticModel = laying-manga_t62_v58_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v59_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v59_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v59_m,
+    WorldStaticModel = standing-manga_t62_v59_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v59_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v59_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v59_m,
+    WorldStaticModel = laying-manga_t62_v59_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v60_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v60_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v60_m,
+    WorldStaticModel = standing-manga_t62_v60_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v60_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v60_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v60_m,
+    WorldStaticModel = laying-manga_t62_v60_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v61_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v61_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v61_m,
+    WorldStaticModel = standing-manga_t62_v61_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v61_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v61_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v61_m,
+    WorldStaticModel = laying-manga_t62_v61_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v62_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v62_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v62_m,
+    WorldStaticModel = standing-manga_t62_v62_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v62_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v62_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v62_m,
+    WorldStaticModel = laying-manga_t62_v62_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v63_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v63_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v63_m,
+    WorldStaticModel = standing-manga_t62_v63_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v63_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v63_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v63_m,
+    WorldStaticModel = laying-manga_t62_v63_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v64_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v64_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v64_m,
+    WorldStaticModel = standing-manga_t62_v64_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v64_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v64_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v64_m,
+    WorldStaticModel = laying-manga_t62_v64_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v65_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v65_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v65_m,
+    WorldStaticModel = standing-manga_t62_v65_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v65_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v65_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v65_m,
+    WorldStaticModel = laying-manga_t62_v65_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v66_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v66_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v66_m,
+    WorldStaticModel = standing-manga_t62_v66_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v66_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v66_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v66_m,
+    WorldStaticModel = laying-manga_t62_v66_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v67_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v67_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v67_m,
+    WorldStaticModel = standing-manga_t62_v67_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v67_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v67_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v67_m,
+    WorldStaticModel = laying-manga_t62_v67_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v68_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v68_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v68_m,
+    WorldStaticModel = standing-manga_t62_v68_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v68_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v68_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v68_m,
+    WorldStaticModel = laying-manga_t62_v68_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v69_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v69_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v69_m,
+    WorldStaticModel = standing-manga_t62_v69_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v69_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v69_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v69_m,
+    WorldStaticModel = laying-manga_t62_v69_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v70_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v70_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v70_m,
+    WorldStaticModel = standing-manga_t62_v70_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v70_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v70_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v70_m,
+    WorldStaticModel = laying-manga_t62_v70_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v71_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v71_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v71_m,
+    WorldStaticModel = standing-manga_t62_v71_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v71_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v71_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v71_m,
+    WorldStaticModel = laying-manga_t62_v71_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v72_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v72_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v72_m,
+    WorldStaticModel = standing-manga_t62_v72_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v72_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v72_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v72_m,
+    WorldStaticModel = laying-manga_t62_v72_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v73_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v73_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v73_m,
+    WorldStaticModel = standing-manga_t62_v73_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v73_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v73_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v73_m,
+    WorldStaticModel = laying-manga_t62_v73_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v74_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v74_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v74_m,
+    WorldStaticModel = standing-manga_t62_v74_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v74_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v74_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v74_m,
+    WorldStaticModel = laying-manga_t62_v74_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v75_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v75_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v75_m,
+    WorldStaticModel = standing-manga_t62_v75_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v75_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v75_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v75_m,
+    WorldStaticModel = laying-manga_t62_v75_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v76_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v76_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v76_m,
+    WorldStaticModel = standing-manga_t62_v76_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v76_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v76_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v76_m,
+    WorldStaticModel = laying-manga_t62_v76_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v77_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v77_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v77_m,
+    WorldStaticModel = standing-manga_t62_v77_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v77_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v77_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v77_m,
+    WorldStaticModel = laying-manga_t62_v77_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v78_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v78_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v78_m,
+    WorldStaticModel = standing-manga_t62_v78_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v78_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v78_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v78_m,
+    WorldStaticModel = laying-manga_t62_v78_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v79_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v79_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v79_m,
+    WorldStaticModel = standing-manga_t62_v79_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v79_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v79_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v79_m,
+    WorldStaticModel = laying-manga_t62_v79_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v80_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v80_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v80_m,
+    WorldStaticModel = standing-manga_t62_v80_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v80_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v80_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v80_m,
+    WorldStaticModel = laying-manga_t62_v80_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v81_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v81_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v81_m,
+    WorldStaticModel = standing-manga_t62_v81_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v81_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v81_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v81_m,
+    WorldStaticModel = laying-manga_t62_v81_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v82_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v82_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v82_m,
+    WorldStaticModel = standing-manga_t62_v82_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v82_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v82_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v82_m,
+    WorldStaticModel = laying-manga_t62_v82_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v83_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v83_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v83_m,
+    WorldStaticModel = standing-manga_t62_v83_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v83_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v83_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v83_m,
+    WorldStaticModel = laying-manga_t62_v83_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v84_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v84_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v84_m,
+    WorldStaticModel = standing-manga_t62_v84_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v84_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v84_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v84_m,
+    WorldStaticModel = laying-manga_t62_v84_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v85_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v85_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v85_m,
+    WorldStaticModel = standing-manga_t62_v85_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v85_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v85_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v85_m,
+    WorldStaticModel = laying-manga_t62_v85_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v86_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v86_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v86_m,
+    WorldStaticModel = standing-manga_t62_v86_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v86_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v86_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v86_m,
+    WorldStaticModel = laying-manga_t62_v86_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v87_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v87_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v87_m,
+    WorldStaticModel = standing-manga_t62_v87_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v87_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v87_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v87_m,
+    WorldStaticModel = laying-manga_t62_v87_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v88_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v88_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v88_m,
+    WorldStaticModel = standing-manga_t62_v88_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v88_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v88_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v88_m,
+    WorldStaticModel = laying-manga_t62_v88_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v89_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v89_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v89_m,
+    WorldStaticModel = standing-manga_t62_v89_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v89_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v89_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v89_m,
+    WorldStaticModel = laying-manga_t62_v89_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v90_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v90_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v90_m,
+    WorldStaticModel = standing-manga_t62_v90_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v90_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v90_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v90_m,
+    WorldStaticModel = laying-manga_t62_v90_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v91_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v91_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v91_m,
+    WorldStaticModel = standing-manga_t62_v91_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v91_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v91_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v91_m,
+    WorldStaticModel = laying-manga_t62_v91_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v92_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v92_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v92_m,
+    WorldStaticModel = standing-manga_t62_v92_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v92_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v92_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v92_m,
+    WorldStaticModel = laying-manga_t62_v92_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v93_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v93_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v93_m,
+    WorldStaticModel = standing-manga_t62_v93_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v93_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v93_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v93_m,
+    WorldStaticModel = laying-manga_t62_v93_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v94_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v94_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v94_m,
+    WorldStaticModel = standing-manga_t62_v94_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v94_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v94_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v94_m,
+    WorldStaticModel = laying-manga_t62_v94_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v95_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v95_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v95_m,
+    WorldStaticModel = standing-manga_t62_v95_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v95_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v95_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v95_m,
+    WorldStaticModel = laying-manga_t62_v95_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v96_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v96_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v96_m,
+    WorldStaticModel = standing-manga_t62_v96_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v96_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v96_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v96_m,
+    WorldStaticModel = laying-manga_t62_v96_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v97_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v97_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v97_m,
+    WorldStaticModel = standing-manga_t62_v97_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v97_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v97_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v97_m,
+    WorldStaticModel = laying-manga_t62_v97_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v98_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v98_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v98_m,
+    WorldStaticModel = standing-manga_t62_v98_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v98_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v98_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v98_m,
+    WorldStaticModel = laying-manga_t62_v98_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v99_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v99_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v99_m,
+    WorldStaticModel = standing-manga_t62_v99_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v99_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v99_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v99_m,
+    WorldStaticModel = laying-manga_t62_v99_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v100_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v100_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v100_m,
+    WorldStaticModel = standing-manga_t62_v100_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v100_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v100_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v100_m,
+    WorldStaticModel = laying-manga_t62_v100_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v101_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v101_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v101_m,
+    WorldStaticModel = standing-manga_t62_v101_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v101_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v101_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v101_m,
+    WorldStaticModel = laying-manga_t62_v101_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v102_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v102_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v102_m,
+    WorldStaticModel = standing-manga_t62_v102_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v102_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v102_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v102_m,
+    WorldStaticModel = laying-manga_t62_v102_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v103_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v103_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v103_m,
+    WorldStaticModel = standing-manga_t62_v103_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v103_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v103_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v103_m,
+    WorldStaticModel = laying-manga_t62_v103_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v104_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v104_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v104_m,
+    WorldStaticModel = standing-manga_t62_v104_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v104_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v104_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v104_m,
+    WorldStaticModel = laying-manga_t62_v104_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v105_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v105_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v105_m,
+    WorldStaticModel = standing-manga_t62_v105_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v105_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v105_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v105_m,
+    WorldStaticModel = laying-manga_t62_v105_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v106_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v106_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v106_m,
+    WorldStaticModel = standing-manga_t62_v106_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v106_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v106_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v106_m,
+    WorldStaticModel = laying-manga_t62_v106_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v107_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v107_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v107_m,
+    WorldStaticModel = standing-manga_t62_v107_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v107_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v107_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v107_m,
+    WorldStaticModel = laying-manga_t62_v107_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v108_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v108_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v108_m,
+    WorldStaticModel = standing-manga_t62_v108_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v108_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v108_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v108_m,
+    WorldStaticModel = laying-manga_t62_v108_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v109_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v109_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v109_m,
+    WorldStaticModel = standing-manga_t62_v109_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v109_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v109_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v109_m,
+    WorldStaticModel = laying-manga_t62_v109_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v110_m_s
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v110_m,
+    Tooltip          = Wanpisu (standing),
+    StaticModel      = hands-manga_t62_v110_m,
+    WorldStaticModel = standing-manga_t62_v110_m,
+    Tags             = Magazine,
+  }
+  item manga_t62_v110_m_l
+  {
+    DisplayName      = One Piece,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t62_v110_m,
+    Tooltip          = Wanpisu,
+    StaticModel      = hands-manga_t62_v110_m,
+    WorldStaticModel = laying-manga_t62_v110_m,
+    Tags             = Magazine,
+  }
+}

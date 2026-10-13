@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t56_v1_c_s
+  {
+    DisplayName      = Screw-Style,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t56_v1_c,
+    Tooltip          = Nejishiki (standing),
+    StaticModel      = hands-manga_t56_v1_c,
+    WorldStaticModel = standing-manga_t56_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t56_v1_c_l
+  {
+    DisplayName      = Screw-Style,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t56_v1_c,
+    Tooltip          = Nejishiki,
+    StaticModel      = hands-manga_t56_v1_c,
+    WorldStaticModel = laying-manga_t56_v1_c,
+    Tags             = Magazine,
+  }
+}

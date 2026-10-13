@@ -1,0 +1,396 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t24_v1_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v1_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v1_m,
+    WorldStaticModel = standing-manga_t24_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v1_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v1_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v1_m,
+    WorldStaticModel = laying-manga_t24_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v2_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v2_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v2_m,
+    WorldStaticModel = standing-manga_t24_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v2_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v2_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v2_m,
+    WorldStaticModel = laying-manga_t24_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v3_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v3_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v3_m,
+    WorldStaticModel = standing-manga_t24_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v3_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v3_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v3_m,
+    WorldStaticModel = laying-manga_t24_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v4_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v4_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v4_m,
+    WorldStaticModel = standing-manga_t24_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v4_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v4_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v4_m,
+    WorldStaticModel = laying-manga_t24_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v5_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v5_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v5_m,
+    WorldStaticModel = standing-manga_t24_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v5_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v5_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v5_m,
+    WorldStaticModel = laying-manga_t24_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v6_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v6_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v6_m,
+    WorldStaticModel = standing-manga_t24_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v6_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v6_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v6_m,
+    WorldStaticModel = laying-manga_t24_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v7_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v7_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v7_m,
+    WorldStaticModel = standing-manga_t24_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v7_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v7_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v7_m,
+    WorldStaticModel = laying-manga_t24_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v8_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v8_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v8_m,
+    WorldStaticModel = standing-manga_t24_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v8_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v8_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v8_m,
+    WorldStaticModel = laying-manga_t24_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v9_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v9_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v9_m,
+    WorldStaticModel = standing-manga_t24_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v9_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v9_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v9_m,
+    WorldStaticModel = laying-manga_t24_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v10_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v10_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v10_m,
+    WorldStaticModel = standing-manga_t24_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v10_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v10_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v10_m,
+    WorldStaticModel = laying-manga_t24_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v11_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v11_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v11_m,
+    WorldStaticModel = standing-manga_t24_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v11_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v11_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v11_m,
+    WorldStaticModel = laying-manga_t24_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v12_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v12_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v12_m,
+    WorldStaticModel = standing-manga_t24_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v12_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v12_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v12_m,
+    WorldStaticModel = laying-manga_t24_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v13_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v13_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v13_m,
+    WorldStaticModel = standing-manga_t24_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v13_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v13_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v13_m,
+    WorldStaticModel = laying-manga_t24_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v14_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v14_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v14_m,
+    WorldStaticModel = standing-manga_t24_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v14_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v14_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v14_m,
+    WorldStaticModel = laying-manga_t24_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v15_m_s
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v15_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon (standing),
+    StaticModel      = hands-manga_t24_v15_m,
+    WorldStaticModel = standing-manga_t24_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t24_v15_m_l
+  {
+    DisplayName      = Kobayashi-san's Maid Dragon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t24_v15_m,
+    Tooltip          = Kobayashi-san Chi no Meidoragon,
+    StaticModel      = hands-manga_t24_v15_m,
+    WorldStaticModel = laying-manga_t24_v15_m,
+    Tags             = Magazine,
+  }
+}

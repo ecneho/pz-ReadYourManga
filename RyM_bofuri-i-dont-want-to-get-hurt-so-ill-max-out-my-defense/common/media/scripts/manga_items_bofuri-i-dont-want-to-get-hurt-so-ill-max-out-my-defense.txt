@@ -1,0 +1,214 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t162_v1_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v1_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v1_m,
+    WorldStaticModel = standing-manga_t162_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v1_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v1_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v1_m,
+    WorldStaticModel = laying-manga_t162_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v2_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v2_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v2_m,
+    WorldStaticModel = standing-manga_t162_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v2_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v2_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v2_m,
+    WorldStaticModel = laying-manga_t162_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v3_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v3_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v3_m,
+    WorldStaticModel = standing-manga_t162_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v3_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v3_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v3_m,
+    WorldStaticModel = laying-manga_t162_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v4_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v4_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v4_m,
+    WorldStaticModel = standing-manga_t162_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v4_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v4_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v4_m,
+    WorldStaticModel = laying-manga_t162_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v5_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v5_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v5_m,
+    WorldStaticModel = standing-manga_t162_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v5_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v5_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v5_m,
+    WorldStaticModel = laying-manga_t162_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v6_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v6_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v6_m,
+    WorldStaticModel = standing-manga_t162_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v6_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v6_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v6_m,
+    WorldStaticModel = laying-manga_t162_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v7_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v7_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v7_m,
+    WorldStaticModel = standing-manga_t162_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v7_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v7_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v7_m,
+    WorldStaticModel = laying-manga_t162_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v8_m_s
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v8_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu (standing),
+    StaticModel      = hands-manga_t162_v8_m,
+    WorldStaticModel = standing-manga_t162_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t162_v8_m_l
+  {
+    DisplayName      = BOFURI:  I Don't Want to Get Hurt so I'll Max Out My Defense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t162_v8_m,
+    Tooltip          = Itai no wa Iya nano de Bogyoryoku ni Kyokufuri Shitai to Omoimasu,
+    StaticModel      = hands-manga_t162_v8_m,
+    WorldStaticModel = laying-manga_t162_v8_m,
+    Tags             = Magazine,
+  }
+}

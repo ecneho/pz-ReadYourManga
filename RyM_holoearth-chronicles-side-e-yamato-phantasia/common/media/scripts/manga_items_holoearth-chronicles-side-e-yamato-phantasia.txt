@@ -1,0 +1,110 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t230_v1_m_s
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v1_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan (standing),
+    StaticModel      = hands-manga_t230_v1_m,
+    WorldStaticModel = standing-manga_t230_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v1_m_l
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v1_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan,
+    StaticModel      = hands-manga_t230_v1_m,
+    WorldStaticModel = laying-manga_t230_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v2_m_s
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v2_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan (standing),
+    StaticModel      = hands-manga_t230_v2_m,
+    WorldStaticModel = standing-manga_t230_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v2_m_l
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v2_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan,
+    StaticModel      = hands-manga_t230_v2_m,
+    WorldStaticModel = laying-manga_t230_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v3_m_s
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v3_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan (standing),
+    StaticModel      = hands-manga_t230_v3_m,
+    WorldStaticModel = standing-manga_t230_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v3_m_l
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v3_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan,
+    StaticModel      = hands-manga_t230_v3_m,
+    WorldStaticModel = laying-manga_t230_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v4_m_s
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v4_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan (standing),
+    StaticModel      = hands-manga_t230_v4_m,
+    WorldStaticModel = standing-manga_t230_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t230_v4_m_l
+  {
+    DisplayName      = Holoearth Chronicles Side:E - Yamato Phantasia,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t230_v4_m,
+    Tooltip          = Holoearth Chronicles Side:E-Yamato Kasou Kaiitan,
+    StaticModel      = hands-manga_t230_v4_m,
+    WorldStaticModel = laying-manga_t230_v4_m,
+    Tags             = Magazine,
+  }
+}

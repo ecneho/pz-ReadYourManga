@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t59_v1_c_s
+  {
+    DisplayName      = Giant Robo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t59_v1_c,
+    Tooltip          = Jaiantorobo (standing),
+    StaticModel      = hands-manga_t59_v1_c,
+    WorldStaticModel = standing-manga_t59_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t59_v1_c_l
+  {
+    DisplayName      = Giant Robo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t59_v1_c,
+    Tooltip          = Jaiantorobo,
+    StaticModel      = hands-manga_t59_v1_c,
+    WorldStaticModel = laying-manga_t59_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t59_v2_c_s
+  {
+    DisplayName      = Giant Robo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t59_v2_c,
+    Tooltip          = Jaiantorobo (standing),
+    StaticModel      = hands-manga_t59_v2_c,
+    WorldStaticModel = standing-manga_t59_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t59_v2_c_l
+  {
+    DisplayName      = Giant Robo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t59_v2_c,
+    Tooltip          = Jaiantorobo,
+    StaticModel      = hands-manga_t59_v2_c,
+    WorldStaticModel = laying-manga_t59_v2_c,
+    Tags             = Magazine,
+  }
+}

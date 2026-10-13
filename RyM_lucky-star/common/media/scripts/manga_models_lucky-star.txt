@@ -1,0 +1,186 @@
+module mangaModels{
+  imports {
+	Base
+  }
+
+  model hands-manga_t20_v1_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v1_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v1_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v1_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v1_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v1_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v2_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v2_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v2_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v2_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v2_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v2_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v3_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v3_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v3_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v3_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v3_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v3_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v4_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v4_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v4_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v4_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v4_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v4_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v5_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v5_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v5_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v5_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v5_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v5_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v6_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v6_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v6_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v6_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v6_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v6_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v7_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v7_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v7_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v7_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v7_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v7_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v8_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v8_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v8_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v8_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v8_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v8_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v9_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v9_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v9_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v9_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v9_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v9_m,
+    scale   = 0.17,
+  }
+  model hands-manga_t20_v10_m
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t20_v10_m,
+    scale   = 0.17,
+  }
+  model standing-manga_t20_v10_m
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t20_v10_m,
+    scale   = 0.17,
+  }
+  model laying-manga_t20_v10_m
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t20_v10_m,
+    scale   = 0.17,
+  }
+}

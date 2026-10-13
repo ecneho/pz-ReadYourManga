@@ -1,0 +1,760 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t203_v1_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v1_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v1_m,
+    WorldStaticModel = standing-manga_t203_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v1_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v1_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v1_m,
+    WorldStaticModel = laying-manga_t203_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v2_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v2_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v2_m,
+    WorldStaticModel = standing-manga_t203_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v2_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v2_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v2_m,
+    WorldStaticModel = laying-manga_t203_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v3_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v3_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v3_m,
+    WorldStaticModel = standing-manga_t203_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v3_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v3_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v3_m,
+    WorldStaticModel = laying-manga_t203_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v4_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v4_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v4_m,
+    WorldStaticModel = standing-manga_t203_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v4_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v4_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v4_m,
+    WorldStaticModel = laying-manga_t203_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v5_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v5_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v5_m,
+    WorldStaticModel = standing-manga_t203_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v5_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v5_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v5_m,
+    WorldStaticModel = laying-manga_t203_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v6_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v6_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v6_m,
+    WorldStaticModel = standing-manga_t203_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v6_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v6_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v6_m,
+    WorldStaticModel = laying-manga_t203_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v7_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v7_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v7_m,
+    WorldStaticModel = standing-manga_t203_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v7_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v7_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v7_m,
+    WorldStaticModel = laying-manga_t203_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v8_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v8_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v8_m,
+    WorldStaticModel = standing-manga_t203_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v8_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v8_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v8_m,
+    WorldStaticModel = laying-manga_t203_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v9_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v9_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v9_m,
+    WorldStaticModel = standing-manga_t203_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v9_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v9_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v9_m,
+    WorldStaticModel = laying-manga_t203_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v10_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v10_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v10_m,
+    WorldStaticModel = standing-manga_t203_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v10_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v10_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v10_m,
+    WorldStaticModel = laying-manga_t203_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v11_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v11_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v11_m,
+    WorldStaticModel = standing-manga_t203_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v11_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v11_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v11_m,
+    WorldStaticModel = laying-manga_t203_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v12_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v12_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v12_m,
+    WorldStaticModel = standing-manga_t203_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v12_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v12_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v12_m,
+    WorldStaticModel = laying-manga_t203_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v13_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v13_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v13_m,
+    WorldStaticModel = standing-manga_t203_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v13_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v13_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v13_m,
+    WorldStaticModel = laying-manga_t203_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v14_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v14_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v14_m,
+    WorldStaticModel = standing-manga_t203_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v14_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v14_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v14_m,
+    WorldStaticModel = laying-manga_t203_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v15_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v15_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v15_m,
+    WorldStaticModel = standing-manga_t203_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v15_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v15_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v15_m,
+    WorldStaticModel = laying-manga_t203_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v16_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v16_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v16_m,
+    WorldStaticModel = standing-manga_t203_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v16_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v16_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v16_m,
+    WorldStaticModel = laying-manga_t203_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v17_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v17_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v17_m,
+    WorldStaticModel = standing-manga_t203_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v17_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v17_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v17_m,
+    WorldStaticModel = laying-manga_t203_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v18_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v18_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v18_m,
+    WorldStaticModel = standing-manga_t203_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v18_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v18_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v18_m,
+    WorldStaticModel = laying-manga_t203_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v19_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v19_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v19_m,
+    WorldStaticModel = standing-manga_t203_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v19_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v19_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v19_m,
+    WorldStaticModel = laying-manga_t203_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v20_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v20_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v20_m,
+    WorldStaticModel = standing-manga_t203_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v20_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v20_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v20_m,
+    WorldStaticModel = laying-manga_t203_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v21_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v21_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v21_m,
+    WorldStaticModel = standing-manga_t203_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v21_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v21_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v21_m,
+    WorldStaticModel = laying-manga_t203_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v22_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v22_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v22_m,
+    WorldStaticModel = standing-manga_t203_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v22_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v22_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v22_m,
+    WorldStaticModel = laying-manga_t203_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v23_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v23_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v23_m,
+    WorldStaticModel = standing-manga_t203_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v23_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v23_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v23_m,
+    WorldStaticModel = laying-manga_t203_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v24_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v24_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v24_m,
+    WorldStaticModel = standing-manga_t203_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v24_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v24_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v24_m,
+    WorldStaticModel = laying-manga_t203_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v25_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v25_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v25_m,
+    WorldStaticModel = standing-manga_t203_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v25_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v25_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v25_m,
+    WorldStaticModel = laying-manga_t203_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v26_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v26_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v26_m,
+    WorldStaticModel = standing-manga_t203_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v26_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v26_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v26_m,
+    WorldStaticModel = laying-manga_t203_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v27_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v27_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v27_m,
+    WorldStaticModel = standing-manga_t203_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v27_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v27_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v27_m,
+    WorldStaticModel = laying-manga_t203_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v28_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v28_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v28_m,
+    WorldStaticModel = standing-manga_t203_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v28_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v28_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v28_m,
+    WorldStaticModel = laying-manga_t203_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v29_m_s
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v29_m,
+    Tooltip          = Di Gureiman (standing),
+    StaticModel      = hands-manga_t203_v29_m,
+    WorldStaticModel = standing-manga_t203_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t203_v29_m_l
+  {
+    DisplayName      = D.Gray-man,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t203_v29_m,
+    Tooltip          = Di Gureiman,
+    StaticModel      = hands-manga_t203_v29_m,
+    WorldStaticModel = laying-manga_t203_v29_m,
+    Tags             = Magazine,
+  }
+}

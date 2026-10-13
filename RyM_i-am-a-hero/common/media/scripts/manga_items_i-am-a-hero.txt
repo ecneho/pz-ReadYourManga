@@ -1,0 +1,578 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t13_v1_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v1_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v1_m,
+    WorldStaticModel = standing-manga_t13_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v1_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v1_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v1_m,
+    WorldStaticModel = laying-manga_t13_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v2_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v2_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v2_m,
+    WorldStaticModel = standing-manga_t13_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v2_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v2_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v2_m,
+    WorldStaticModel = laying-manga_t13_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v3_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v3_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v3_m,
+    WorldStaticModel = standing-manga_t13_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v3_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v3_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v3_m,
+    WorldStaticModel = laying-manga_t13_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v4_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v4_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v4_m,
+    WorldStaticModel = standing-manga_t13_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v4_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v4_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v4_m,
+    WorldStaticModel = laying-manga_t13_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v5_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v5_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v5_m,
+    WorldStaticModel = standing-manga_t13_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v5_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v5_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v5_m,
+    WorldStaticModel = laying-manga_t13_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v6_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v6_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v6_m,
+    WorldStaticModel = standing-manga_t13_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v6_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v6_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v6_m,
+    WorldStaticModel = laying-manga_t13_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v7_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v7_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v7_m,
+    WorldStaticModel = standing-manga_t13_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v7_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v7_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v7_m,
+    WorldStaticModel = laying-manga_t13_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v8_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v8_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v8_m,
+    WorldStaticModel = standing-manga_t13_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v8_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v8_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v8_m,
+    WorldStaticModel = laying-manga_t13_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v9_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v9_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v9_m,
+    WorldStaticModel = standing-manga_t13_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v9_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v9_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v9_m,
+    WorldStaticModel = laying-manga_t13_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v10_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v10_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v10_m,
+    WorldStaticModel = standing-manga_t13_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v10_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v10_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v10_m,
+    WorldStaticModel = laying-manga_t13_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v11_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v11_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v11_m,
+    WorldStaticModel = standing-manga_t13_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v11_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v11_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v11_m,
+    WorldStaticModel = laying-manga_t13_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v12_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v12_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v12_m,
+    WorldStaticModel = standing-manga_t13_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v12_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v12_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v12_m,
+    WorldStaticModel = laying-manga_t13_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v13_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v13_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v13_m,
+    WorldStaticModel = standing-manga_t13_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v13_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v13_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v13_m,
+    WorldStaticModel = laying-manga_t13_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v14_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v14_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v14_m,
+    WorldStaticModel = standing-manga_t13_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v14_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v14_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v14_m,
+    WorldStaticModel = laying-manga_t13_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v15_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v15_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v15_m,
+    WorldStaticModel = standing-manga_t13_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v15_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v15_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v15_m,
+    WorldStaticModel = laying-manga_t13_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v16_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v16_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v16_m,
+    WorldStaticModel = standing-manga_t13_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v16_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v16_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v16_m,
+    WorldStaticModel = laying-manga_t13_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v17_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v17_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v17_m,
+    WorldStaticModel = standing-manga_t13_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v17_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v17_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v17_m,
+    WorldStaticModel = laying-manga_t13_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v18_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v18_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v18_m,
+    WorldStaticModel = standing-manga_t13_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v18_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v18_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v18_m,
+    WorldStaticModel = laying-manga_t13_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v19_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v19_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v19_m,
+    WorldStaticModel = standing-manga_t13_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v19_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v19_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v19_m,
+    WorldStaticModel = laying-manga_t13_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v20_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v20_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v20_m,
+    WorldStaticModel = standing-manga_t13_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v20_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v20_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v20_m,
+    WorldStaticModel = laying-manga_t13_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v21_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v21_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v21_m,
+    WorldStaticModel = standing-manga_t13_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v21_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v21_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v21_m,
+    WorldStaticModel = laying-manga_t13_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v22_m_s
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v22_m,
+    Tooltip          = Ai Amu a Hiro (standing),
+    StaticModel      = hands-manga_t13_v22_m,
+    WorldStaticModel = standing-manga_t13_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t13_v22_m_l
+  {
+    DisplayName      = I Am a Hero,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t13_v22_m,
+    Tooltip          = Ai Amu a Hiro,
+    StaticModel      = hands-manga_t13_v22_m,
+    WorldStaticModel = laying-manga_t13_v22_m,
+    Tags             = Magazine,
+  }
+}

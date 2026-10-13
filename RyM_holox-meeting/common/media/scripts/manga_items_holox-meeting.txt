@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t231_v1_m_s
+  {
+    DisplayName      = holoX MEETing!,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t231_v1_m,
+    Tooltip          = horokkusu mitingu! (standing),
+    StaticModel      = hands-manga_t231_v1_m,
+    WorldStaticModel = standing-manga_t231_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t231_v1_m_l
+  {
+    DisplayName      = holoX MEETing!,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t231_v1_m,
+    Tooltip          = horokkusu mitingu!,
+    StaticModel      = hands-manga_t231_v1_m,
+    WorldStaticModel = laying-manga_t231_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t231_v2_m_s
+  {
+    DisplayName      = holoX MEETing!,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t231_v2_m,
+    Tooltip          = horokkusu mitingu! (standing),
+    StaticModel      = hands-manga_t231_v2_m,
+    WorldStaticModel = standing-manga_t231_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t231_v2_m_l
+  {
+    DisplayName      = holoX MEETing!,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t231_v2_m,
+    Tooltip          = horokkusu mitingu!,
+    StaticModel      = hands-manga_t231_v2_m,
+    WorldStaticModel = laying-manga_t231_v2_m,
+    Tags             = Magazine,
+  }
+}

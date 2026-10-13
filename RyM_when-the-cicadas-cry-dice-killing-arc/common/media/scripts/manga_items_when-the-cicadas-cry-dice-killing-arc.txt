@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t180_v1_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Dice Killing Arc,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t180_v1_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Saikoroshi-hen (standing),
+    StaticModel      = hands-manga_t180_v1_m,
+    WorldStaticModel = standing-manga_t180_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t180_v1_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Dice Killing Arc,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t180_v1_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Saikoroshi-hen,
+    StaticModel      = hands-manga_t180_v1_m,
+    WorldStaticModel = laying-manga_t180_v1_m,
+    Tags             = Magazine,
+  }
+}

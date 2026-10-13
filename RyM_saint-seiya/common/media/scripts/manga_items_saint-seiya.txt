@@ -1,0 +1,734 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t68_v1_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v1_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v1_c,
+    WorldStaticModel = standing-manga_t68_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v1_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v1_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v1_c,
+    WorldStaticModel = laying-manga_t68_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v2_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v2_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v2_c,
+    WorldStaticModel = standing-manga_t68_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v2_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v2_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v2_c,
+    WorldStaticModel = laying-manga_t68_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v3_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v3_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v3_c,
+    WorldStaticModel = standing-manga_t68_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v3_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v3_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v3_c,
+    WorldStaticModel = laying-manga_t68_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v4_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v4_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v4_c,
+    WorldStaticModel = standing-manga_t68_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v4_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v4_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v4_c,
+    WorldStaticModel = laying-manga_t68_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v5_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v5_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v5_c,
+    WorldStaticModel = standing-manga_t68_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v5_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v5_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v5_c,
+    WorldStaticModel = laying-manga_t68_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v6_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v6_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v6_c,
+    WorldStaticModel = standing-manga_t68_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v6_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v6_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v6_c,
+    WorldStaticModel = laying-manga_t68_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v7_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v7_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v7_c,
+    WorldStaticModel = standing-manga_t68_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v7_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v7_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v7_c,
+    WorldStaticModel = laying-manga_t68_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v8_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v8_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v8_c,
+    WorldStaticModel = standing-manga_t68_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v8_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v8_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v8_c,
+    WorldStaticModel = laying-manga_t68_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v9_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v9_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v9_c,
+    WorldStaticModel = standing-manga_t68_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v9_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v9_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v9_c,
+    WorldStaticModel = laying-manga_t68_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v10_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v10_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v10_c,
+    WorldStaticModel = standing-manga_t68_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v10_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v10_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v10_c,
+    WorldStaticModel = laying-manga_t68_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v11_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v11_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v11_c,
+    WorldStaticModel = standing-manga_t68_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v11_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v11_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v11_c,
+    WorldStaticModel = laying-manga_t68_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v12_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v12_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v12_c,
+    WorldStaticModel = standing-manga_t68_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v12_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v12_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v12_c,
+    WorldStaticModel = laying-manga_t68_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v13_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v13_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v13_c,
+    WorldStaticModel = standing-manga_t68_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v13_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v13_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v13_c,
+    WorldStaticModel = laying-manga_t68_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v14_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v14_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v14_c,
+    WorldStaticModel = standing-manga_t68_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v14_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v14_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v14_c,
+    WorldStaticModel = laying-manga_t68_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v15_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v15_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v15_c,
+    WorldStaticModel = standing-manga_t68_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v15_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v15_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v15_c,
+    WorldStaticModel = laying-manga_t68_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v16_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v16_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v16_c,
+    WorldStaticModel = standing-manga_t68_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v16_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v16_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v16_c,
+    WorldStaticModel = laying-manga_t68_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v17_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v17_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v17_c,
+    WorldStaticModel = standing-manga_t68_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v17_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v17_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v17_c,
+    WorldStaticModel = laying-manga_t68_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v18_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v18_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v18_c,
+    WorldStaticModel = standing-manga_t68_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v18_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v18_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v18_c,
+    WorldStaticModel = laying-manga_t68_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v19_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v19_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v19_c,
+    WorldStaticModel = standing-manga_t68_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v19_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v19_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v19_c,
+    WorldStaticModel = laying-manga_t68_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v20_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v20_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v20_c,
+    WorldStaticModel = standing-manga_t68_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v20_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v20_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v20_c,
+    WorldStaticModel = laying-manga_t68_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v21_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v21_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v21_c,
+    WorldStaticModel = standing-manga_t68_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v21_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v21_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v21_c,
+    WorldStaticModel = laying-manga_t68_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v22_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v22_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v22_c,
+    WorldStaticModel = standing-manga_t68_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v22_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v22_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v22_c,
+    WorldStaticModel = laying-manga_t68_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v23_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v23_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v23_c,
+    WorldStaticModel = standing-manga_t68_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v23_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v23_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v23_c,
+    WorldStaticModel = laying-manga_t68_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v24_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v24_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v24_c,
+    WorldStaticModel = standing-manga_t68_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v24_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v24_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v24_c,
+    WorldStaticModel = laying-manga_t68_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v25_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v25_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v25_c,
+    WorldStaticModel = standing-manga_t68_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v25_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v25_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v25_c,
+    WorldStaticModel = laying-manga_t68_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v26_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v26_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v26_c,
+    WorldStaticModel = standing-manga_t68_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v26_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v26_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v26_c,
+    WorldStaticModel = laying-manga_t68_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v27_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v27_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v27_c,
+    WorldStaticModel = standing-manga_t68_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v27_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v27_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v27_c,
+    WorldStaticModel = laying-manga_t68_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v28_c_s
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v28_c,
+    Tooltip          = Saint Seiya (standing),
+    StaticModel      = hands-manga_t68_v28_c,
+    WorldStaticModel = standing-manga_t68_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t68_v28_c_l
+  {
+    DisplayName      = Saint Seiya,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t68_v28_c,
+    Tooltip          = Saint Seiya,
+    StaticModel      = hands-manga_t68_v28_c,
+    WorldStaticModel = laying-manga_t68_v28_c,
+    Tags             = Magazine,
+  }
+}

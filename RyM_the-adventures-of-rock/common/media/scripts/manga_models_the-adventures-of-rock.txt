@@ -1,0 +1,42 @@
+module mangaModels{
+  imports {
+	Base
+  }
+
+  model hands-manga_t43_v1_c
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t43_v1_c,
+    scale   = 0.17,
+  }
+  model standing-manga_t43_v1_c
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t43_v1_c,
+    scale   = 0.17,
+  }
+  model laying-manga_t43_v1_c
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t43_v1_c,
+    scale   = 0.17,
+  }
+  model hands-manga_t43_v2_c
+  {
+    mesh    = mangahands,
+    texture = WorldItems/manga_t43_v2_c,
+    scale   = 0.17,
+  }
+  model standing-manga_t43_v2_c
+  {
+    mesh    = mangastand,
+    texture = WorldItems/manga_t43_v2_c,
+    scale   = 0.17,
+  }
+  model laying-manga_t43_v2_c
+  {
+    mesh    = manga,
+    texture = WorldItems/manga_t43_v2_c,
+    scale   = 0.17,
+  }
+}

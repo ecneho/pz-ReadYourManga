@@ -1,0 +1,136 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t173_v1_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v1_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri (standing),
+    StaticModel      = hands-manga_t173_v1_m,
+    WorldStaticModel = standing-manga_t173_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v1_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v1_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri,
+    StaticModel      = hands-manga_t173_v1_m,
+    WorldStaticModel = laying-manga_t173_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v2_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v2_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri (standing),
+    StaticModel      = hands-manga_t173_v2_m,
+    WorldStaticModel = standing-manga_t173_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v2_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v2_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri,
+    StaticModel      = hands-manga_t173_v2_m,
+    WorldStaticModel = laying-manga_t173_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v3_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v3_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri (standing),
+    StaticModel      = hands-manga_t173_v3_m,
+    WorldStaticModel = standing-manga_t173_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v3_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v3_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri,
+    StaticModel      = hands-manga_t173_v3_m,
+    WorldStaticModel = laying-manga_t173_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v4_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v4_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri (standing),
+    StaticModel      = hands-manga_t173_v4_m,
+    WorldStaticModel = standing-manga_t173_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v4_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v4_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri,
+    StaticModel      = hands-manga_t173_v4_m,
+    WorldStaticModel = laying-manga_t173_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v5_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v5_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri (standing),
+    StaticModel      = hands-manga_t173_v5_m,
+    WorldStaticModel = standing-manga_t173_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t173_v5_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Meguri,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t173_v5_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Meguri,
+    StaticModel      = hands-manga_t173_v5_m,
+    WorldStaticModel = laying-manga_t173_v5_m,
+    Tags             = Magazine,
+  }
+}

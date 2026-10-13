@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t4_v1_m_s
+  {
+    DisplayName      = The Person Sitting Next to Me Looking at Me with Perverted Eyes,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t4_v1_m,
+    Tooltip          = Tonari ni suwatte iru hito ga hentaina me de watashi o mite iru (standing),
+    StaticModel      = hands-manga_t4_v1_m,
+    WorldStaticModel = standing-manga_t4_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t4_v1_m_l
+  {
+    DisplayName      = The Person Sitting Next to Me Looking at Me with Perverted Eyes,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t4_v1_m,
+    Tooltip          = Tonari ni suwatte iru hito ga hentaina me de watashi o mite iru,
+    StaticModel      = hands-manga_t4_v1_m,
+    WorldStaticModel = laying-manga_t4_v1_m,
+    Tags             = Magazine,
+  }
+}

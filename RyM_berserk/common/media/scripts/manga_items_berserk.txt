@@ -1,0 +1,1098 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t29_v1_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v1_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v1_m,
+    WorldStaticModel = standing-manga_t29_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v1_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v1_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v1_m,
+    WorldStaticModel = laying-manga_t29_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v2_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v2_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v2_m,
+    WorldStaticModel = standing-manga_t29_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v2_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v2_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v2_m,
+    WorldStaticModel = laying-manga_t29_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v3_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v3_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v3_m,
+    WorldStaticModel = standing-manga_t29_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v3_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v3_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v3_m,
+    WorldStaticModel = laying-manga_t29_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v4_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v4_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v4_m,
+    WorldStaticModel = standing-manga_t29_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v4_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v4_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v4_m,
+    WorldStaticModel = laying-manga_t29_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v5_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v5_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v5_m,
+    WorldStaticModel = standing-manga_t29_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v5_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v5_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v5_m,
+    WorldStaticModel = laying-manga_t29_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v6_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v6_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v6_m,
+    WorldStaticModel = standing-manga_t29_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v6_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v6_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v6_m,
+    WorldStaticModel = laying-manga_t29_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v7_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v7_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v7_m,
+    WorldStaticModel = standing-manga_t29_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v7_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v7_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v7_m,
+    WorldStaticModel = laying-manga_t29_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v8_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v8_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v8_m,
+    WorldStaticModel = standing-manga_t29_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v8_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v8_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v8_m,
+    WorldStaticModel = laying-manga_t29_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v9_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v9_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v9_m,
+    WorldStaticModel = standing-manga_t29_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v9_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v9_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v9_m,
+    WorldStaticModel = laying-manga_t29_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v10_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v10_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v10_m,
+    WorldStaticModel = standing-manga_t29_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v10_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v10_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v10_m,
+    WorldStaticModel = laying-manga_t29_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v11_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v11_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v11_m,
+    WorldStaticModel = standing-manga_t29_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v11_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v11_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v11_m,
+    WorldStaticModel = laying-manga_t29_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v12_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v12_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v12_m,
+    WorldStaticModel = standing-manga_t29_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v12_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v12_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v12_m,
+    WorldStaticModel = laying-manga_t29_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v13_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v13_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v13_m,
+    WorldStaticModel = standing-manga_t29_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v13_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v13_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v13_m,
+    WorldStaticModel = laying-manga_t29_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v14_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v14_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v14_m,
+    WorldStaticModel = standing-manga_t29_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v14_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v14_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v14_m,
+    WorldStaticModel = laying-manga_t29_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v15_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v15_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v15_m,
+    WorldStaticModel = standing-manga_t29_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v15_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v15_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v15_m,
+    WorldStaticModel = laying-manga_t29_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v16_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v16_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v16_m,
+    WorldStaticModel = standing-manga_t29_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v16_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v16_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v16_m,
+    WorldStaticModel = laying-manga_t29_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v17_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v17_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v17_m,
+    WorldStaticModel = standing-manga_t29_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v17_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v17_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v17_m,
+    WorldStaticModel = laying-manga_t29_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v18_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v18_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v18_m,
+    WorldStaticModel = standing-manga_t29_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v18_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v18_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v18_m,
+    WorldStaticModel = laying-manga_t29_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v19_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v19_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v19_m,
+    WorldStaticModel = standing-manga_t29_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v19_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v19_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v19_m,
+    WorldStaticModel = laying-manga_t29_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v20_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v20_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v20_m,
+    WorldStaticModel = standing-manga_t29_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v20_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v20_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v20_m,
+    WorldStaticModel = laying-manga_t29_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v21_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v21_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v21_m,
+    WorldStaticModel = standing-manga_t29_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v21_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v21_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v21_m,
+    WorldStaticModel = laying-manga_t29_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v22_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v22_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v22_m,
+    WorldStaticModel = standing-manga_t29_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v22_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v22_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v22_m,
+    WorldStaticModel = laying-manga_t29_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v23_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v23_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v23_m,
+    WorldStaticModel = standing-manga_t29_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v23_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v23_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v23_m,
+    WorldStaticModel = laying-manga_t29_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v24_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v24_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v24_m,
+    WorldStaticModel = standing-manga_t29_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v24_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v24_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v24_m,
+    WorldStaticModel = laying-manga_t29_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v25_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v25_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v25_m,
+    WorldStaticModel = standing-manga_t29_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v25_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v25_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v25_m,
+    WorldStaticModel = laying-manga_t29_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v26_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v26_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v26_m,
+    WorldStaticModel = standing-manga_t29_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v26_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v26_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v26_m,
+    WorldStaticModel = laying-manga_t29_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v27_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v27_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v27_m,
+    WorldStaticModel = standing-manga_t29_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v27_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v27_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v27_m,
+    WorldStaticModel = laying-manga_t29_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v28_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v28_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v28_m,
+    WorldStaticModel = standing-manga_t29_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v28_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v28_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v28_m,
+    WorldStaticModel = laying-manga_t29_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v29_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v29_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v29_m,
+    WorldStaticModel = standing-manga_t29_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v29_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v29_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v29_m,
+    WorldStaticModel = laying-manga_t29_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v30_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v30_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v30_m,
+    WorldStaticModel = standing-manga_t29_v30_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v30_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v30_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v30_m,
+    WorldStaticModel = laying-manga_t29_v30_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v31_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v31_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v31_m,
+    WorldStaticModel = standing-manga_t29_v31_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v31_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v31_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v31_m,
+    WorldStaticModel = laying-manga_t29_v31_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v32_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v32_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v32_m,
+    WorldStaticModel = standing-manga_t29_v32_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v32_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v32_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v32_m,
+    WorldStaticModel = laying-manga_t29_v32_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v33_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v33_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v33_m,
+    WorldStaticModel = standing-manga_t29_v33_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v33_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v33_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v33_m,
+    WorldStaticModel = laying-manga_t29_v33_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v34_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v34_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v34_m,
+    WorldStaticModel = standing-manga_t29_v34_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v34_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v34_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v34_m,
+    WorldStaticModel = laying-manga_t29_v34_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v35_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v35_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v35_m,
+    WorldStaticModel = standing-manga_t29_v35_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v35_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v35_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v35_m,
+    WorldStaticModel = laying-manga_t29_v35_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v36_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v36_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v36_m,
+    WorldStaticModel = standing-manga_t29_v36_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v36_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v36_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v36_m,
+    WorldStaticModel = laying-manga_t29_v36_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v37_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v37_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v37_m,
+    WorldStaticModel = standing-manga_t29_v37_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v37_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v37_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v37_m,
+    WorldStaticModel = laying-manga_t29_v37_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v38_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v38_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v38_m,
+    WorldStaticModel = standing-manga_t29_v38_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v38_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v38_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v38_m,
+    WorldStaticModel = laying-manga_t29_v38_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v39_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v39_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v39_m,
+    WorldStaticModel = standing-manga_t29_v39_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v39_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v39_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v39_m,
+    WorldStaticModel = laying-manga_t29_v39_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v40_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v40_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v40_m,
+    WorldStaticModel = standing-manga_t29_v40_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v40_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v40_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v40_m,
+    WorldStaticModel = laying-manga_t29_v40_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v41_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v41_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v41_m,
+    WorldStaticModel = standing-manga_t29_v41_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v41_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v41_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v41_m,
+    WorldStaticModel = laying-manga_t29_v41_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v42_m_s
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v42_m,
+    Tooltip          = Beruseruku (standing),
+    StaticModel      = hands-manga_t29_v42_m,
+    WorldStaticModel = standing-manga_t29_v42_m,
+    Tags             = Magazine,
+  }
+  item manga_t29_v42_m_l
+  {
+    DisplayName      = Berserk,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t29_v42_m,
+    Tooltip          = Beruseruku,
+    StaticModel      = hands-manga_t29_v42_m,
+    WorldStaticModel = laying-manga_t29_v42_m,
+    Tags             = Magazine,
+  }
+}

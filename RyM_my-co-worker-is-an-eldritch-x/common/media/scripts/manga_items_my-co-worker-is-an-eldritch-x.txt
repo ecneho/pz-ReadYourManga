@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t133_v1_m_s
+  {
+    DisplayName      = My Co-worker Is an Eldritch X!,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t133_v1_m,
+    Tooltip          = Min medarbejder er et urtids uhyre X! (standing),
+    StaticModel      = hands-manga_t133_v1_m,
+    WorldStaticModel = standing-manga_t133_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t133_v1_m_l
+  {
+    DisplayName      = My Co-worker Is an Eldritch X!,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t133_v1_m,
+    Tooltip          = Min medarbejder er et urtids uhyre X!,
+    StaticModel      = hands-manga_t133_v1_m,
+    WorldStaticModel = laying-manga_t133_v1_m,
+    Tags             = Magazine,
+  }
+}

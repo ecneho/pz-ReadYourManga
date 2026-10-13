@@ -1,0 +1,84 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t190_v1_m_s
+  {
+    DisplayName      = 86-EIGHTY-SIX,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t190_v1_m,
+    Tooltip          = Eiti Shikkusu (standing),
+    StaticModel      = hands-manga_t190_v1_m,
+    WorldStaticModel = standing-manga_t190_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t190_v1_m_l
+  {
+    DisplayName      = 86-EIGHTY-SIX,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t190_v1_m,
+    Tooltip          = Eiti Shikkusu,
+    StaticModel      = hands-manga_t190_v1_m,
+    WorldStaticModel = laying-manga_t190_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t190_v2_m_s
+  {
+    DisplayName      = 86-EIGHTY-SIX,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t190_v2_m,
+    Tooltip          = Eiti Shikkusu (standing),
+    StaticModel      = hands-manga_t190_v2_m,
+    WorldStaticModel = standing-manga_t190_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t190_v2_m_l
+  {
+    DisplayName      = 86-EIGHTY-SIX,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t190_v2_m,
+    Tooltip          = Eiti Shikkusu,
+    StaticModel      = hands-manga_t190_v2_m,
+    WorldStaticModel = laying-manga_t190_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t190_v3_m_s
+  {
+    DisplayName      = 86-EIGHTY-SIX,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t190_v3_m,
+    Tooltip          = Eiti Shikkusu (standing),
+    StaticModel      = hands-manga_t190_v3_m,
+    WorldStaticModel = standing-manga_t190_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t190_v3_m_l
+  {
+    DisplayName      = 86-EIGHTY-SIX,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t190_v3_m,
+    Tooltip          = Eiti Shikkusu,
+    StaticModel      = hands-manga_t190_v3_m,
+    WorldStaticModel = laying-manga_t190_v3_m,
+    Tags             = Magazine,
+  }
+}

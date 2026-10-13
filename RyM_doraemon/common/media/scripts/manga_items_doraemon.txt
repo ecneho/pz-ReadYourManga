@@ -1,0 +1,5206 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t228_v1_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v1_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v1_c,
+    WorldStaticModel = standing-manga_t228_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v1_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v1_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v1_c,
+    WorldStaticModel = laying-manga_t228_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v2_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v2_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v2_c,
+    WorldStaticModel = standing-manga_t228_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v2_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v2_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v2_c,
+    WorldStaticModel = laying-manga_t228_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v3_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v3_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v3_c,
+    WorldStaticModel = standing-manga_t228_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v3_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v3_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v3_c,
+    WorldStaticModel = laying-manga_t228_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v4_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v4_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v4_c,
+    WorldStaticModel = standing-manga_t228_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v4_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v4_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v4_c,
+    WorldStaticModel = laying-manga_t228_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v5_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v5_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v5_c,
+    WorldStaticModel = standing-manga_t228_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v5_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v5_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v5_c,
+    WorldStaticModel = laying-manga_t228_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v6_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v6_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v6_c,
+    WorldStaticModel = standing-manga_t228_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v6_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v6_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v6_c,
+    WorldStaticModel = laying-manga_t228_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v7_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v7_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v7_c,
+    WorldStaticModel = standing-manga_t228_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v7_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v7_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v7_c,
+    WorldStaticModel = laying-manga_t228_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v8_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v8_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v8_c,
+    WorldStaticModel = standing-manga_t228_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v8_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v8_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v8_c,
+    WorldStaticModel = laying-manga_t228_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v9_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v9_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v9_c,
+    WorldStaticModel = standing-manga_t228_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v9_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v9_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v9_c,
+    WorldStaticModel = laying-manga_t228_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v10_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v10_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v10_c,
+    WorldStaticModel = standing-manga_t228_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v10_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v10_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v10_c,
+    WorldStaticModel = laying-manga_t228_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v11_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v11_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v11_c,
+    WorldStaticModel = standing-manga_t228_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v11_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v11_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v11_c,
+    WorldStaticModel = laying-manga_t228_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v12_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v12_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v12_c,
+    WorldStaticModel = standing-manga_t228_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v12_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v12_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v12_c,
+    WorldStaticModel = laying-manga_t228_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v13_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v13_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v13_c,
+    WorldStaticModel = standing-manga_t228_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v13_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v13_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v13_c,
+    WorldStaticModel = laying-manga_t228_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v14_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v14_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v14_c,
+    WorldStaticModel = standing-manga_t228_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v14_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v14_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v14_c,
+    WorldStaticModel = laying-manga_t228_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v15_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v15_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v15_c,
+    WorldStaticModel = standing-manga_t228_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v15_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v15_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v15_c,
+    WorldStaticModel = laying-manga_t228_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v16_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v16_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v16_c,
+    WorldStaticModel = standing-manga_t228_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v16_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v16_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v16_c,
+    WorldStaticModel = laying-manga_t228_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v17_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v17_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v17_c,
+    WorldStaticModel = standing-manga_t228_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v17_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v17_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v17_c,
+    WorldStaticModel = laying-manga_t228_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v18_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v18_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v18_c,
+    WorldStaticModel = standing-manga_t228_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v18_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v18_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v18_c,
+    WorldStaticModel = laying-manga_t228_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v19_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v19_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v19_c,
+    WorldStaticModel = standing-manga_t228_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v19_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v19_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v19_c,
+    WorldStaticModel = laying-manga_t228_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v20_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v20_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v20_c,
+    WorldStaticModel = standing-manga_t228_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v20_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v20_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v20_c,
+    WorldStaticModel = laying-manga_t228_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v21_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v21_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v21_c,
+    WorldStaticModel = standing-manga_t228_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v21_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v21_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v21_c,
+    WorldStaticModel = laying-manga_t228_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v22_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v22_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v22_c,
+    WorldStaticModel = standing-manga_t228_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v22_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v22_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v22_c,
+    WorldStaticModel = laying-manga_t228_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v23_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v23_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v23_c,
+    WorldStaticModel = standing-manga_t228_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v23_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v23_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v23_c,
+    WorldStaticModel = laying-manga_t228_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v24_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v24_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v24_c,
+    WorldStaticModel = standing-manga_t228_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v24_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v24_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v24_c,
+    WorldStaticModel = laying-manga_t228_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v25_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v25_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v25_c,
+    WorldStaticModel = standing-manga_t228_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v25_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v25_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v25_c,
+    WorldStaticModel = laying-manga_t228_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v26_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v26_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v26_c,
+    WorldStaticModel = standing-manga_t228_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v26_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v26_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v26_c,
+    WorldStaticModel = laying-manga_t228_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v27_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v27_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v27_c,
+    WorldStaticModel = standing-manga_t228_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v27_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v27_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v27_c,
+    WorldStaticModel = laying-manga_t228_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v28_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v28_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v28_c,
+    WorldStaticModel = standing-manga_t228_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v28_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v28_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v28_c,
+    WorldStaticModel = laying-manga_t228_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v29_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v29_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v29_c,
+    WorldStaticModel = standing-manga_t228_v29_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v29_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v29_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v29_c,
+    WorldStaticModel = laying-manga_t228_v29_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v30_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v30_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v30_c,
+    WorldStaticModel = standing-manga_t228_v30_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v30_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v30_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v30_c,
+    WorldStaticModel = laying-manga_t228_v30_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v31_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v31_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v31_c,
+    WorldStaticModel = standing-manga_t228_v31_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v31_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v31_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v31_c,
+    WorldStaticModel = laying-manga_t228_v31_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v32_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v32_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v32_c,
+    WorldStaticModel = standing-manga_t228_v32_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v32_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v32_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v32_c,
+    WorldStaticModel = laying-manga_t228_v32_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v33_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v33_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v33_c,
+    WorldStaticModel = standing-manga_t228_v33_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v33_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v33_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v33_c,
+    WorldStaticModel = laying-manga_t228_v33_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v34_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v34_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v34_c,
+    WorldStaticModel = standing-manga_t228_v34_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v34_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v34_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v34_c,
+    WorldStaticModel = laying-manga_t228_v34_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v35_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v35_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v35_c,
+    WorldStaticModel = standing-manga_t228_v35_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v35_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v35_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v35_c,
+    WorldStaticModel = laying-manga_t228_v35_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v36_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v36_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v36_c,
+    WorldStaticModel = standing-manga_t228_v36_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v36_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v36_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v36_c,
+    WorldStaticModel = laying-manga_t228_v36_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v37_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v37_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v37_c,
+    WorldStaticModel = standing-manga_t228_v37_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v37_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v37_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v37_c,
+    WorldStaticModel = laying-manga_t228_v37_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v38_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v38_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v38_c,
+    WorldStaticModel = standing-manga_t228_v38_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v38_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v38_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v38_c,
+    WorldStaticModel = laying-manga_t228_v38_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v39_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v39_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v39_c,
+    WorldStaticModel = standing-manga_t228_v39_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v39_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v39_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v39_c,
+    WorldStaticModel = laying-manga_t228_v39_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v40_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v40_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v40_c,
+    WorldStaticModel = standing-manga_t228_v40_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v40_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v40_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v40_c,
+    WorldStaticModel = laying-manga_t228_v40_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v41_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v41_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v41_c,
+    WorldStaticModel = standing-manga_t228_v41_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v41_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v41_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v41_c,
+    WorldStaticModel = laying-manga_t228_v41_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v42_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v42_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v42_c,
+    WorldStaticModel = standing-manga_t228_v42_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v42_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v42_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v42_c,
+    WorldStaticModel = laying-manga_t228_v42_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v43_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v43_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v43_c,
+    WorldStaticModel = standing-manga_t228_v43_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v43_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v43_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v43_c,
+    WorldStaticModel = laying-manga_t228_v43_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v44_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v44_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v44_c,
+    WorldStaticModel = standing-manga_t228_v44_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v44_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v44_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v44_c,
+    WorldStaticModel = laying-manga_t228_v44_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v45_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v45_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v45_c,
+    WorldStaticModel = standing-manga_t228_v45_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v45_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v45_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v45_c,
+    WorldStaticModel = laying-manga_t228_v45_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v46_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v46_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v46_c,
+    WorldStaticModel = standing-manga_t228_v46_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v46_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v46_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v46_c,
+    WorldStaticModel = laying-manga_t228_v46_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v47_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v47_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v47_c,
+    WorldStaticModel = standing-manga_t228_v47_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v47_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v47_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v47_c,
+    WorldStaticModel = laying-manga_t228_v47_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v48_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v48_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v48_c,
+    WorldStaticModel = standing-manga_t228_v48_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v48_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v48_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v48_c,
+    WorldStaticModel = laying-manga_t228_v48_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v49_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v49_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v49_c,
+    WorldStaticModel = standing-manga_t228_v49_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v49_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v49_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v49_c,
+    WorldStaticModel = laying-manga_t228_v49_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v50_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v50_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v50_c,
+    WorldStaticModel = standing-manga_t228_v50_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v50_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v50_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v50_c,
+    WorldStaticModel = laying-manga_t228_v50_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v51_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v51_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v51_c,
+    WorldStaticModel = standing-manga_t228_v51_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v51_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v51_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v51_c,
+    WorldStaticModel = laying-manga_t228_v51_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v52_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v52_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v52_c,
+    WorldStaticModel = standing-manga_t228_v52_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v52_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v52_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v52_c,
+    WorldStaticModel = laying-manga_t228_v52_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v53_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v53_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v53_c,
+    WorldStaticModel = standing-manga_t228_v53_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v53_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v53_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v53_c,
+    WorldStaticModel = laying-manga_t228_v53_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v54_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v54_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v54_c,
+    WorldStaticModel = standing-manga_t228_v54_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v54_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v54_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v54_c,
+    WorldStaticModel = laying-manga_t228_v54_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v55_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v55_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v55_c,
+    WorldStaticModel = standing-manga_t228_v55_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v55_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v55_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v55_c,
+    WorldStaticModel = laying-manga_t228_v55_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v56_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v56_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v56_c,
+    WorldStaticModel = standing-manga_t228_v56_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v56_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v56_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v56_c,
+    WorldStaticModel = laying-manga_t228_v56_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v57_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v57_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v57_c,
+    WorldStaticModel = standing-manga_t228_v57_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v57_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v57_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v57_c,
+    WorldStaticModel = laying-manga_t228_v57_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v58_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v58_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v58_c,
+    WorldStaticModel = standing-manga_t228_v58_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v58_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v58_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v58_c,
+    WorldStaticModel = laying-manga_t228_v58_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v59_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v59_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v59_c,
+    WorldStaticModel = standing-manga_t228_v59_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v59_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v59_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v59_c,
+    WorldStaticModel = laying-manga_t228_v59_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v60_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v60_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v60_c,
+    WorldStaticModel = standing-manga_t228_v60_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v60_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v60_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v60_c,
+    WorldStaticModel = laying-manga_t228_v60_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v61_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v61_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v61_c,
+    WorldStaticModel = standing-manga_t228_v61_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v61_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v61_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v61_c,
+    WorldStaticModel = laying-manga_t228_v61_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v62_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v62_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v62_c,
+    WorldStaticModel = standing-manga_t228_v62_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v62_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v62_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v62_c,
+    WorldStaticModel = laying-manga_t228_v62_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v63_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v63_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v63_c,
+    WorldStaticModel = standing-manga_t228_v63_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v63_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v63_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v63_c,
+    WorldStaticModel = laying-manga_t228_v63_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v64_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v64_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v64_c,
+    WorldStaticModel = standing-manga_t228_v64_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v64_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v64_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v64_c,
+    WorldStaticModel = laying-manga_t228_v64_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v65_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v65_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v65_c,
+    WorldStaticModel = standing-manga_t228_v65_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v65_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v65_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v65_c,
+    WorldStaticModel = laying-manga_t228_v65_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v66_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v66_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v66_c,
+    WorldStaticModel = standing-manga_t228_v66_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v66_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v66_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v66_c,
+    WorldStaticModel = laying-manga_t228_v66_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v67_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v67_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v67_c,
+    WorldStaticModel = standing-manga_t228_v67_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v67_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v67_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v67_c,
+    WorldStaticModel = laying-manga_t228_v67_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v68_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v68_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v68_c,
+    WorldStaticModel = standing-manga_t228_v68_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v68_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v68_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v68_c,
+    WorldStaticModel = laying-manga_t228_v68_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v69_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v69_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v69_c,
+    WorldStaticModel = standing-manga_t228_v69_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v69_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v69_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v69_c,
+    WorldStaticModel = laying-manga_t228_v69_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v70_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v70_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v70_c,
+    WorldStaticModel = standing-manga_t228_v70_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v70_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v70_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v70_c,
+    WorldStaticModel = laying-manga_t228_v70_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v71_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v71_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v71_c,
+    WorldStaticModel = standing-manga_t228_v71_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v71_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v71_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v71_c,
+    WorldStaticModel = laying-manga_t228_v71_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v72_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v72_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v72_c,
+    WorldStaticModel = standing-manga_t228_v72_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v72_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v72_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v72_c,
+    WorldStaticModel = laying-manga_t228_v72_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v73_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v73_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v73_c,
+    WorldStaticModel = standing-manga_t228_v73_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v73_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v73_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v73_c,
+    WorldStaticModel = laying-manga_t228_v73_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v74_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v74_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v74_c,
+    WorldStaticModel = standing-manga_t228_v74_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v74_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v74_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v74_c,
+    WorldStaticModel = laying-manga_t228_v74_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v75_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v75_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v75_c,
+    WorldStaticModel = standing-manga_t228_v75_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v75_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v75_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v75_c,
+    WorldStaticModel = laying-manga_t228_v75_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v76_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v76_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v76_c,
+    WorldStaticModel = standing-manga_t228_v76_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v76_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v76_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v76_c,
+    WorldStaticModel = laying-manga_t228_v76_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v77_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v77_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v77_c,
+    WorldStaticModel = standing-manga_t228_v77_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v77_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v77_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v77_c,
+    WorldStaticModel = laying-manga_t228_v77_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v78_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v78_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v78_c,
+    WorldStaticModel = standing-manga_t228_v78_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v78_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v78_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v78_c,
+    WorldStaticModel = laying-manga_t228_v78_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v79_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v79_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v79_c,
+    WorldStaticModel = standing-manga_t228_v79_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v79_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v79_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v79_c,
+    WorldStaticModel = laying-manga_t228_v79_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v80_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v80_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v80_c,
+    WorldStaticModel = standing-manga_t228_v80_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v80_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v80_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v80_c,
+    WorldStaticModel = laying-manga_t228_v80_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v81_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v81_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v81_c,
+    WorldStaticModel = standing-manga_t228_v81_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v81_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v81_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v81_c,
+    WorldStaticModel = laying-manga_t228_v81_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v82_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v82_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v82_c,
+    WorldStaticModel = standing-manga_t228_v82_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v82_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v82_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v82_c,
+    WorldStaticModel = laying-manga_t228_v82_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v83_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v83_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v83_c,
+    WorldStaticModel = standing-manga_t228_v83_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v83_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v83_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v83_c,
+    WorldStaticModel = laying-manga_t228_v83_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v84_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v84_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v84_c,
+    WorldStaticModel = standing-manga_t228_v84_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v84_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v84_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v84_c,
+    WorldStaticModel = laying-manga_t228_v84_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v85_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v85_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v85_c,
+    WorldStaticModel = standing-manga_t228_v85_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v85_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v85_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v85_c,
+    WorldStaticModel = laying-manga_t228_v85_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v86_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v86_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v86_c,
+    WorldStaticModel = standing-manga_t228_v86_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v86_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v86_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v86_c,
+    WorldStaticModel = laying-manga_t228_v86_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v87_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v87_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v87_c,
+    WorldStaticModel = standing-manga_t228_v87_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v87_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v87_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v87_c,
+    WorldStaticModel = laying-manga_t228_v87_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v88_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v88_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v88_c,
+    WorldStaticModel = standing-manga_t228_v88_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v88_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v88_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v88_c,
+    WorldStaticModel = laying-manga_t228_v88_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v89_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v89_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v89_c,
+    WorldStaticModel = standing-manga_t228_v89_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v89_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v89_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v89_c,
+    WorldStaticModel = laying-manga_t228_v89_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v90_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v90_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v90_c,
+    WorldStaticModel = standing-manga_t228_v90_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v90_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v90_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v90_c,
+    WorldStaticModel = laying-manga_t228_v90_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v91_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v91_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v91_c,
+    WorldStaticModel = standing-manga_t228_v91_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v91_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v91_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v91_c,
+    WorldStaticModel = laying-manga_t228_v91_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v92_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v92_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v92_c,
+    WorldStaticModel = standing-manga_t228_v92_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v92_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v92_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v92_c,
+    WorldStaticModel = laying-manga_t228_v92_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v93_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v93_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v93_c,
+    WorldStaticModel = standing-manga_t228_v93_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v93_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v93_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v93_c,
+    WorldStaticModel = laying-manga_t228_v93_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v94_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v94_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v94_c,
+    WorldStaticModel = standing-manga_t228_v94_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v94_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v94_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v94_c,
+    WorldStaticModel = laying-manga_t228_v94_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v95_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v95_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v95_c,
+    WorldStaticModel = standing-manga_t228_v95_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v95_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v95_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v95_c,
+    WorldStaticModel = laying-manga_t228_v95_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v96_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v96_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v96_c,
+    WorldStaticModel = standing-manga_t228_v96_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v96_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v96_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v96_c,
+    WorldStaticModel = laying-manga_t228_v96_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v97_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v97_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v97_c,
+    WorldStaticModel = standing-manga_t228_v97_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v97_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v97_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v97_c,
+    WorldStaticModel = laying-manga_t228_v97_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v98_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v98_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v98_c,
+    WorldStaticModel = standing-manga_t228_v98_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v98_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v98_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v98_c,
+    WorldStaticModel = laying-manga_t228_v98_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v99_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v99_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v99_c,
+    WorldStaticModel = standing-manga_t228_v99_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v99_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v99_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v99_c,
+    WorldStaticModel = laying-manga_t228_v99_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v100_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v100_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v100_c,
+    WorldStaticModel = standing-manga_t228_v100_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v100_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v100_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v100_c,
+    WorldStaticModel = laying-manga_t228_v100_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v101_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v101_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v101_c,
+    WorldStaticModel = standing-manga_t228_v101_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v101_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v101_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v101_c,
+    WorldStaticModel = laying-manga_t228_v101_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v102_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v102_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v102_c,
+    WorldStaticModel = standing-manga_t228_v102_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v102_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v102_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v102_c,
+    WorldStaticModel = laying-manga_t228_v102_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v103_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v103_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v103_c,
+    WorldStaticModel = standing-manga_t228_v103_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v103_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v103_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v103_c,
+    WorldStaticModel = laying-manga_t228_v103_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v104_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v104_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v104_c,
+    WorldStaticModel = standing-manga_t228_v104_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v104_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v104_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v104_c,
+    WorldStaticModel = laying-manga_t228_v104_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v105_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v105_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v105_c,
+    WorldStaticModel = standing-manga_t228_v105_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v105_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v105_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v105_c,
+    WorldStaticModel = laying-manga_t228_v105_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v106_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v106_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v106_c,
+    WorldStaticModel = standing-manga_t228_v106_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v106_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v106_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v106_c,
+    WorldStaticModel = laying-manga_t228_v106_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v107_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v107_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v107_c,
+    WorldStaticModel = standing-manga_t228_v107_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v107_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v107_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v107_c,
+    WorldStaticModel = laying-manga_t228_v107_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v108_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v108_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v108_c,
+    WorldStaticModel = standing-manga_t228_v108_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v108_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v108_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v108_c,
+    WorldStaticModel = laying-manga_t228_v108_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v109_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v109_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v109_c,
+    WorldStaticModel = standing-manga_t228_v109_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v109_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v109_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v109_c,
+    WorldStaticModel = laying-manga_t228_v109_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v110_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v110_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v110_c,
+    WorldStaticModel = standing-manga_t228_v110_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v110_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v110_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v110_c,
+    WorldStaticModel = laying-manga_t228_v110_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v111_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v111_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v111_c,
+    WorldStaticModel = standing-manga_t228_v111_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v111_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v111_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v111_c,
+    WorldStaticModel = laying-manga_t228_v111_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v112_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v112_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v112_c,
+    WorldStaticModel = standing-manga_t228_v112_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v112_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v112_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v112_c,
+    WorldStaticModel = laying-manga_t228_v112_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v113_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v113_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v113_c,
+    WorldStaticModel = standing-manga_t228_v113_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v113_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v113_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v113_c,
+    WorldStaticModel = laying-manga_t228_v113_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v114_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v114_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v114_c,
+    WorldStaticModel = standing-manga_t228_v114_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v114_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v114_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v114_c,
+    WorldStaticModel = laying-manga_t228_v114_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v115_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v115_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v115_c,
+    WorldStaticModel = standing-manga_t228_v115_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v115_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v115_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v115_c,
+    WorldStaticModel = laying-manga_t228_v115_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v116_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v116_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v116_c,
+    WorldStaticModel = standing-manga_t228_v116_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v116_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v116_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v116_c,
+    WorldStaticModel = laying-manga_t228_v116_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v117_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v117_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v117_c,
+    WorldStaticModel = standing-manga_t228_v117_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v117_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v117_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v117_c,
+    WorldStaticModel = laying-manga_t228_v117_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v118_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v118_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v118_c,
+    WorldStaticModel = standing-manga_t228_v118_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v118_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v118_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v118_c,
+    WorldStaticModel = laying-manga_t228_v118_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v119_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v119_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v119_c,
+    WorldStaticModel = standing-manga_t228_v119_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v119_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v119_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v119_c,
+    WorldStaticModel = laying-manga_t228_v119_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v120_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v120_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v120_c,
+    WorldStaticModel = standing-manga_t228_v120_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v120_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v120_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v120_c,
+    WorldStaticModel = laying-manga_t228_v120_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v121_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v121_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v121_c,
+    WorldStaticModel = standing-manga_t228_v121_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v121_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v121_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v121_c,
+    WorldStaticModel = laying-manga_t228_v121_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v122_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v122_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v122_c,
+    WorldStaticModel = standing-manga_t228_v122_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v122_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v122_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v122_c,
+    WorldStaticModel = laying-manga_t228_v122_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v123_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v123_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v123_c,
+    WorldStaticModel = standing-manga_t228_v123_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v123_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v123_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v123_c,
+    WorldStaticModel = laying-manga_t228_v123_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v124_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v124_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v124_c,
+    WorldStaticModel = standing-manga_t228_v124_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v124_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v124_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v124_c,
+    WorldStaticModel = laying-manga_t228_v124_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v125_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v125_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v125_c,
+    WorldStaticModel = standing-manga_t228_v125_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v125_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v125_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v125_c,
+    WorldStaticModel = laying-manga_t228_v125_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v126_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v126_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v126_c,
+    WorldStaticModel = standing-manga_t228_v126_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v126_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v126_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v126_c,
+    WorldStaticModel = laying-manga_t228_v126_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v127_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v127_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v127_c,
+    WorldStaticModel = standing-manga_t228_v127_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v127_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v127_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v127_c,
+    WorldStaticModel = laying-manga_t228_v127_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v128_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v128_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v128_c,
+    WorldStaticModel = standing-manga_t228_v128_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v128_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v128_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v128_c,
+    WorldStaticModel = laying-manga_t228_v128_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v129_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v129_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v129_c,
+    WorldStaticModel = standing-manga_t228_v129_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v129_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v129_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v129_c,
+    WorldStaticModel = laying-manga_t228_v129_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v130_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v130_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v130_c,
+    WorldStaticModel = standing-manga_t228_v130_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v130_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v130_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v130_c,
+    WorldStaticModel = laying-manga_t228_v130_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v131_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v131_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v131_c,
+    WorldStaticModel = standing-manga_t228_v131_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v131_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v131_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v131_c,
+    WorldStaticModel = laying-manga_t228_v131_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v132_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v132_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v132_c,
+    WorldStaticModel = standing-manga_t228_v132_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v132_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v132_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v132_c,
+    WorldStaticModel = laying-manga_t228_v132_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v133_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v133_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v133_c,
+    WorldStaticModel = standing-manga_t228_v133_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v133_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v133_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v133_c,
+    WorldStaticModel = laying-manga_t228_v133_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v134_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v134_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v134_c,
+    WorldStaticModel = standing-manga_t228_v134_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v134_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v134_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v134_c,
+    WorldStaticModel = laying-manga_t228_v134_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v135_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v135_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v135_c,
+    WorldStaticModel = standing-manga_t228_v135_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v135_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v135_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v135_c,
+    WorldStaticModel = laying-manga_t228_v135_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v136_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v136_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v136_c,
+    WorldStaticModel = standing-manga_t228_v136_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v136_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v136_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v136_c,
+    WorldStaticModel = laying-manga_t228_v136_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v137_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v137_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v137_c,
+    WorldStaticModel = standing-manga_t228_v137_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v137_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v137_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v137_c,
+    WorldStaticModel = laying-manga_t228_v137_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v138_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v138_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v138_c,
+    WorldStaticModel = standing-manga_t228_v138_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v138_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v138_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v138_c,
+    WorldStaticModel = laying-manga_t228_v138_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v139_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v139_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v139_c,
+    WorldStaticModel = standing-manga_t228_v139_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v139_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v139_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v139_c,
+    WorldStaticModel = laying-manga_t228_v139_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v140_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v140_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v140_c,
+    WorldStaticModel = standing-manga_t228_v140_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v140_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v140_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v140_c,
+    WorldStaticModel = laying-manga_t228_v140_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v141_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v141_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v141_c,
+    WorldStaticModel = standing-manga_t228_v141_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v141_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v141_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v141_c,
+    WorldStaticModel = laying-manga_t228_v141_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v142_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v142_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v142_c,
+    WorldStaticModel = standing-manga_t228_v142_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v142_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v142_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v142_c,
+    WorldStaticModel = laying-manga_t228_v142_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v143_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v143_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v143_c,
+    WorldStaticModel = standing-manga_t228_v143_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v143_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v143_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v143_c,
+    WorldStaticModel = laying-manga_t228_v143_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v144_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v144_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v144_c,
+    WorldStaticModel = standing-manga_t228_v144_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v144_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v144_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v144_c,
+    WorldStaticModel = laying-manga_t228_v144_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v145_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v145_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v145_c,
+    WorldStaticModel = standing-manga_t228_v145_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v145_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v145_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v145_c,
+    WorldStaticModel = laying-manga_t228_v145_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v146_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v146_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v146_c,
+    WorldStaticModel = standing-manga_t228_v146_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v146_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v146_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v146_c,
+    WorldStaticModel = laying-manga_t228_v146_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v147_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v147_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v147_c,
+    WorldStaticModel = standing-manga_t228_v147_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v147_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v147_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v147_c,
+    WorldStaticModel = laying-manga_t228_v147_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v148_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v148_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v148_c,
+    WorldStaticModel = standing-manga_t228_v148_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v148_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v148_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v148_c,
+    WorldStaticModel = laying-manga_t228_v148_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v149_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v149_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v149_c,
+    WorldStaticModel = standing-manga_t228_v149_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v149_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v149_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v149_c,
+    WorldStaticModel = laying-manga_t228_v149_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v150_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v150_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v150_c,
+    WorldStaticModel = standing-manga_t228_v150_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v150_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v150_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v150_c,
+    WorldStaticModel = laying-manga_t228_v150_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v151_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v151_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v151_c,
+    WorldStaticModel = standing-manga_t228_v151_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v151_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v151_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v151_c,
+    WorldStaticModel = laying-manga_t228_v151_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v152_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v152_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v152_c,
+    WorldStaticModel = standing-manga_t228_v152_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v152_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v152_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v152_c,
+    WorldStaticModel = laying-manga_t228_v152_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v153_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v153_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v153_c,
+    WorldStaticModel = standing-manga_t228_v153_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v153_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v153_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v153_c,
+    WorldStaticModel = laying-manga_t228_v153_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v154_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v154_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v154_c,
+    WorldStaticModel = standing-manga_t228_v154_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v154_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v154_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v154_c,
+    WorldStaticModel = laying-manga_t228_v154_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v155_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v155_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v155_c,
+    WorldStaticModel = standing-manga_t228_v155_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v155_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v155_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v155_c,
+    WorldStaticModel = laying-manga_t228_v155_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v156_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v156_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v156_c,
+    WorldStaticModel = standing-manga_t228_v156_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v156_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v156_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v156_c,
+    WorldStaticModel = laying-manga_t228_v156_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v157_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v157_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v157_c,
+    WorldStaticModel = standing-manga_t228_v157_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v157_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v157_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v157_c,
+    WorldStaticModel = laying-manga_t228_v157_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v158_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v158_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v158_c,
+    WorldStaticModel = standing-manga_t228_v158_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v158_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v158_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v158_c,
+    WorldStaticModel = laying-manga_t228_v158_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v159_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v159_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v159_c,
+    WorldStaticModel = standing-manga_t228_v159_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v159_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v159_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v159_c,
+    WorldStaticModel = laying-manga_t228_v159_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v160_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v160_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v160_c,
+    WorldStaticModel = standing-manga_t228_v160_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v160_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v160_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v160_c,
+    WorldStaticModel = laying-manga_t228_v160_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v161_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v161_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v161_c,
+    WorldStaticModel = standing-manga_t228_v161_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v161_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v161_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v161_c,
+    WorldStaticModel = laying-manga_t228_v161_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v162_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v162_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v162_c,
+    WorldStaticModel = standing-manga_t228_v162_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v162_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v162_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v162_c,
+    WorldStaticModel = laying-manga_t228_v162_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v163_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v163_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v163_c,
+    WorldStaticModel = standing-manga_t228_v163_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v163_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v163_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v163_c,
+    WorldStaticModel = laying-manga_t228_v163_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v164_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v164_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v164_c,
+    WorldStaticModel = standing-manga_t228_v164_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v164_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v164_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v164_c,
+    WorldStaticModel = laying-manga_t228_v164_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v165_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v165_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v165_c,
+    WorldStaticModel = standing-manga_t228_v165_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v165_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v165_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v165_c,
+    WorldStaticModel = laying-manga_t228_v165_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v166_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v166_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v166_c,
+    WorldStaticModel = standing-manga_t228_v166_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v166_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v166_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v166_c,
+    WorldStaticModel = laying-manga_t228_v166_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v167_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v167_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v167_c,
+    WorldStaticModel = standing-manga_t228_v167_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v167_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v167_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v167_c,
+    WorldStaticModel = laying-manga_t228_v167_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v168_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v168_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v168_c,
+    WorldStaticModel = standing-manga_t228_v168_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v168_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v168_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v168_c,
+    WorldStaticModel = laying-manga_t228_v168_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v169_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v169_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v169_c,
+    WorldStaticModel = standing-manga_t228_v169_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v169_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v169_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v169_c,
+    WorldStaticModel = laying-manga_t228_v169_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v170_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v170_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v170_c,
+    WorldStaticModel = standing-manga_t228_v170_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v170_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v170_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v170_c,
+    WorldStaticModel = laying-manga_t228_v170_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v171_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v171_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v171_c,
+    WorldStaticModel = standing-manga_t228_v171_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v171_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v171_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v171_c,
+    WorldStaticModel = laying-manga_t228_v171_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v172_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v172_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v172_c,
+    WorldStaticModel = standing-manga_t228_v172_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v172_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v172_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v172_c,
+    WorldStaticModel = laying-manga_t228_v172_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v173_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v173_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v173_c,
+    WorldStaticModel = standing-manga_t228_v173_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v173_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v173_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v173_c,
+    WorldStaticModel = laying-manga_t228_v173_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v174_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v174_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v174_c,
+    WorldStaticModel = standing-manga_t228_v174_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v174_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v174_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v174_c,
+    WorldStaticModel = laying-manga_t228_v174_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v175_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v175_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v175_c,
+    WorldStaticModel = standing-manga_t228_v175_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v175_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v175_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v175_c,
+    WorldStaticModel = laying-manga_t228_v175_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v176_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v176_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v176_c,
+    WorldStaticModel = standing-manga_t228_v176_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v176_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v176_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v176_c,
+    WorldStaticModel = laying-manga_t228_v176_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v177_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v177_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v177_c,
+    WorldStaticModel = standing-manga_t228_v177_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v177_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v177_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v177_c,
+    WorldStaticModel = laying-manga_t228_v177_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v178_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v178_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v178_c,
+    WorldStaticModel = standing-manga_t228_v178_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v178_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v178_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v178_c,
+    WorldStaticModel = laying-manga_t228_v178_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v179_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v179_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v179_c,
+    WorldStaticModel = standing-manga_t228_v179_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v179_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v179_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v179_c,
+    WorldStaticModel = laying-manga_t228_v179_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v180_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v180_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v180_c,
+    WorldStaticModel = standing-manga_t228_v180_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v180_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v180_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v180_c,
+    WorldStaticModel = laying-manga_t228_v180_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v181_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v181_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v181_c,
+    WorldStaticModel = standing-manga_t228_v181_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v181_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v181_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v181_c,
+    WorldStaticModel = laying-manga_t228_v181_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v182_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v182_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v182_c,
+    WorldStaticModel = standing-manga_t228_v182_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v182_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v182_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v182_c,
+    WorldStaticModel = laying-manga_t228_v182_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v183_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v183_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v183_c,
+    WorldStaticModel = standing-manga_t228_v183_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v183_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v183_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v183_c,
+    WorldStaticModel = laying-manga_t228_v183_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v184_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v184_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v184_c,
+    WorldStaticModel = standing-manga_t228_v184_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v184_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v184_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v184_c,
+    WorldStaticModel = laying-manga_t228_v184_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v185_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v185_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v185_c,
+    WorldStaticModel = standing-manga_t228_v185_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v185_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v185_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v185_c,
+    WorldStaticModel = laying-manga_t228_v185_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v186_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v186_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v186_c,
+    WorldStaticModel = standing-manga_t228_v186_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v186_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v186_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v186_c,
+    WorldStaticModel = laying-manga_t228_v186_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v187_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v187_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v187_c,
+    WorldStaticModel = standing-manga_t228_v187_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v187_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v187_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v187_c,
+    WorldStaticModel = laying-manga_t228_v187_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v188_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v188_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v188_c,
+    WorldStaticModel = standing-manga_t228_v188_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v188_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v188_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v188_c,
+    WorldStaticModel = laying-manga_t228_v188_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v189_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v189_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v189_c,
+    WorldStaticModel = standing-manga_t228_v189_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v189_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v189_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v189_c,
+    WorldStaticModel = laying-manga_t228_v189_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v190_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v190_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v190_c,
+    WorldStaticModel = standing-manga_t228_v190_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v190_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v190_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v190_c,
+    WorldStaticModel = laying-manga_t228_v190_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v191_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v191_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v191_c,
+    WorldStaticModel = standing-manga_t228_v191_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v191_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v191_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v191_c,
+    WorldStaticModel = laying-manga_t228_v191_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v192_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v192_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v192_c,
+    WorldStaticModel = standing-manga_t228_v192_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v192_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v192_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v192_c,
+    WorldStaticModel = laying-manga_t228_v192_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v193_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v193_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v193_c,
+    WorldStaticModel = standing-manga_t228_v193_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v193_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v193_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v193_c,
+    WorldStaticModel = laying-manga_t228_v193_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v194_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v194_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v194_c,
+    WorldStaticModel = standing-manga_t228_v194_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v194_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v194_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v194_c,
+    WorldStaticModel = laying-manga_t228_v194_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v195_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v195_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v195_c,
+    WorldStaticModel = standing-manga_t228_v195_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v195_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v195_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v195_c,
+    WorldStaticModel = laying-manga_t228_v195_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v196_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v196_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v196_c,
+    WorldStaticModel = standing-manga_t228_v196_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v196_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v196_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v196_c,
+    WorldStaticModel = laying-manga_t228_v196_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v197_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v197_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v197_c,
+    WorldStaticModel = standing-manga_t228_v197_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v197_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v197_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v197_c,
+    WorldStaticModel = laying-manga_t228_v197_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v198_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v198_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v198_c,
+    WorldStaticModel = standing-manga_t228_v198_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v198_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v198_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v198_c,
+    WorldStaticModel = laying-manga_t228_v198_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v199_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v199_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v199_c,
+    WorldStaticModel = standing-manga_t228_v199_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v199_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v199_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v199_c,
+    WorldStaticModel = laying-manga_t228_v199_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v200_c_s
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v200_c,
+    Tooltip          = Doraemon (standing),
+    StaticModel      = hands-manga_t228_v200_c,
+    WorldStaticModel = standing-manga_t228_v200_c,
+    Tags             = Magazine,
+  }
+  item manga_t228_v200_c_l
+  {
+    DisplayName      = Doraemon,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t228_v200_c,
+    Tooltip          = Doraemon,
+    StaticModel      = hands-manga_t228_v200_c,
+    WorldStaticModel = laying-manga_t228_v200_c,
+    Tags             = Magazine,
+  }
+}

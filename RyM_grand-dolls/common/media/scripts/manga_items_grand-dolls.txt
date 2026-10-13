@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t55_v1_c_s
+  {
+    DisplayName      = Grand Dolls,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t55_v1_c,
+    Tooltip          = Guran Doru (standing),
+    StaticModel      = hands-manga_t55_v1_c,
+    WorldStaticModel = standing-manga_t55_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t55_v1_c_l
+  {
+    DisplayName      = Grand Dolls,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t55_v1_c,
+    Tooltip          = Guran Doru,
+    StaticModel      = hands-manga_t55_v1_c,
+    WorldStaticModel = laying-manga_t55_v1_c,
+    Tags             = Magazine,
+  }
+}

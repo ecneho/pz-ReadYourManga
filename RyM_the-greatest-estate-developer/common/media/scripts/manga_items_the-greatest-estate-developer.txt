@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t148_v1_m_s
+  {
+    DisplayName      = The Greatest Estate Developer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t148_v1_m,
+    Tooltip          = The Greatest Estate Developer (standing),
+    StaticModel      = hands-manga_t148_v1_m,
+    WorldStaticModel = standing-manga_t148_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t148_v1_m_l
+  {
+    DisplayName      = The Greatest Estate Developer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t148_v1_m,
+    Tooltip          = The Greatest Estate Developer,
+    StaticModel      = hands-manga_t148_v1_m,
+    WorldStaticModel = laying-manga_t148_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t148_v2_m_s
+  {
+    DisplayName      = The Greatest Estate Developer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t148_v2_m,
+    Tooltip          = The Greatest Estate Developer (standing),
+    StaticModel      = hands-manga_t148_v2_m,
+    WorldStaticModel = standing-manga_t148_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t148_v2_m_l
+  {
+    DisplayName      = The Greatest Estate Developer,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t148_v2_m,
+    Tooltip          = The Greatest Estate Developer,
+    StaticModel      = hands-manga_t148_v2_m,
+    WorldStaticModel = laying-manga_t148_v2_m,
+    Tags             = Magazine,
+  }
+}

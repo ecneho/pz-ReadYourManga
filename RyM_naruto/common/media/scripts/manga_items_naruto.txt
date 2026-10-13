@@ -1,0 +1,1878 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t64_v1_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v1_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v1_m,
+    WorldStaticModel = standing-manga_t64_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v1_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v1_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v1_m,
+    WorldStaticModel = laying-manga_t64_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v2_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v2_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v2_m,
+    WorldStaticModel = standing-manga_t64_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v2_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v2_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v2_m,
+    WorldStaticModel = laying-manga_t64_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v3_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v3_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v3_m,
+    WorldStaticModel = standing-manga_t64_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v3_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v3_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v3_m,
+    WorldStaticModel = laying-manga_t64_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v4_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v4_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v4_m,
+    WorldStaticModel = standing-manga_t64_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v4_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v4_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v4_m,
+    WorldStaticModel = laying-manga_t64_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v5_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v5_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v5_m,
+    WorldStaticModel = standing-manga_t64_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v5_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v5_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v5_m,
+    WorldStaticModel = laying-manga_t64_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v6_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v6_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v6_m,
+    WorldStaticModel = standing-manga_t64_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v6_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v6_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v6_m,
+    WorldStaticModel = laying-manga_t64_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v7_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v7_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v7_m,
+    WorldStaticModel = standing-manga_t64_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v7_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v7_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v7_m,
+    WorldStaticModel = laying-manga_t64_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v8_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v8_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v8_m,
+    WorldStaticModel = standing-manga_t64_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v8_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v8_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v8_m,
+    WorldStaticModel = laying-manga_t64_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v9_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v9_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v9_m,
+    WorldStaticModel = standing-manga_t64_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v9_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v9_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v9_m,
+    WorldStaticModel = laying-manga_t64_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v10_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v10_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v10_m,
+    WorldStaticModel = standing-manga_t64_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v10_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v10_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v10_m,
+    WorldStaticModel = laying-manga_t64_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v11_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v11_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v11_m,
+    WorldStaticModel = standing-manga_t64_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v11_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v11_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v11_m,
+    WorldStaticModel = laying-manga_t64_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v12_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v12_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v12_m,
+    WorldStaticModel = standing-manga_t64_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v12_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v12_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v12_m,
+    WorldStaticModel = laying-manga_t64_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v13_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v13_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v13_m,
+    WorldStaticModel = standing-manga_t64_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v13_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v13_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v13_m,
+    WorldStaticModel = laying-manga_t64_v13_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v14_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v14_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v14_m,
+    WorldStaticModel = standing-manga_t64_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v14_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v14_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v14_m,
+    WorldStaticModel = laying-manga_t64_v14_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v15_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v15_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v15_m,
+    WorldStaticModel = standing-manga_t64_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v15_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v15_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v15_m,
+    WorldStaticModel = laying-manga_t64_v15_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v16_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v16_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v16_m,
+    WorldStaticModel = standing-manga_t64_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v16_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v16_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v16_m,
+    WorldStaticModel = laying-manga_t64_v16_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v17_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v17_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v17_m,
+    WorldStaticModel = standing-manga_t64_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v17_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v17_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v17_m,
+    WorldStaticModel = laying-manga_t64_v17_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v18_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v18_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v18_m,
+    WorldStaticModel = standing-manga_t64_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v18_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v18_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v18_m,
+    WorldStaticModel = laying-manga_t64_v18_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v19_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v19_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v19_m,
+    WorldStaticModel = standing-manga_t64_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v19_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v19_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v19_m,
+    WorldStaticModel = laying-manga_t64_v19_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v20_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v20_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v20_m,
+    WorldStaticModel = standing-manga_t64_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v20_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v20_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v20_m,
+    WorldStaticModel = laying-manga_t64_v20_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v21_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v21_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v21_m,
+    WorldStaticModel = standing-manga_t64_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v21_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v21_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v21_m,
+    WorldStaticModel = laying-manga_t64_v21_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v22_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v22_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v22_m,
+    WorldStaticModel = standing-manga_t64_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v22_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v22_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v22_m,
+    WorldStaticModel = laying-manga_t64_v22_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v23_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v23_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v23_m,
+    WorldStaticModel = standing-manga_t64_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v23_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v23_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v23_m,
+    WorldStaticModel = laying-manga_t64_v23_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v24_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v24_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v24_m,
+    WorldStaticModel = standing-manga_t64_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v24_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v24_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v24_m,
+    WorldStaticModel = laying-manga_t64_v24_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v25_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v25_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v25_m,
+    WorldStaticModel = standing-manga_t64_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v25_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v25_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v25_m,
+    WorldStaticModel = laying-manga_t64_v25_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v26_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v26_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v26_m,
+    WorldStaticModel = standing-manga_t64_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v26_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v26_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v26_m,
+    WorldStaticModel = laying-manga_t64_v26_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v27_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v27_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v27_m,
+    WorldStaticModel = standing-manga_t64_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v27_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v27_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v27_m,
+    WorldStaticModel = laying-manga_t64_v27_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v28_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v28_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v28_m,
+    WorldStaticModel = standing-manga_t64_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v28_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v28_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v28_m,
+    WorldStaticModel = laying-manga_t64_v28_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v29_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v29_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v29_m,
+    WorldStaticModel = standing-manga_t64_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v29_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v29_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v29_m,
+    WorldStaticModel = laying-manga_t64_v29_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v30_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v30_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v30_m,
+    WorldStaticModel = standing-manga_t64_v30_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v30_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v30_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v30_m,
+    WorldStaticModel = laying-manga_t64_v30_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v31_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v31_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v31_m,
+    WorldStaticModel = standing-manga_t64_v31_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v31_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v31_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v31_m,
+    WorldStaticModel = laying-manga_t64_v31_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v32_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v32_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v32_m,
+    WorldStaticModel = standing-manga_t64_v32_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v32_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v32_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v32_m,
+    WorldStaticModel = laying-manga_t64_v32_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v33_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v33_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v33_m,
+    WorldStaticModel = standing-manga_t64_v33_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v33_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v33_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v33_m,
+    WorldStaticModel = laying-manga_t64_v33_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v34_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v34_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v34_m,
+    WorldStaticModel = standing-manga_t64_v34_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v34_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v34_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v34_m,
+    WorldStaticModel = laying-manga_t64_v34_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v35_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v35_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v35_m,
+    WorldStaticModel = standing-manga_t64_v35_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v35_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v35_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v35_m,
+    WorldStaticModel = laying-manga_t64_v35_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v36_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v36_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v36_m,
+    WorldStaticModel = standing-manga_t64_v36_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v36_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v36_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v36_m,
+    WorldStaticModel = laying-manga_t64_v36_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v37_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v37_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v37_m,
+    WorldStaticModel = standing-manga_t64_v37_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v37_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v37_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v37_m,
+    WorldStaticModel = laying-manga_t64_v37_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v38_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v38_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v38_m,
+    WorldStaticModel = standing-manga_t64_v38_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v38_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v38_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v38_m,
+    WorldStaticModel = laying-manga_t64_v38_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v39_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v39_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v39_m,
+    WorldStaticModel = standing-manga_t64_v39_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v39_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v39_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v39_m,
+    WorldStaticModel = laying-manga_t64_v39_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v40_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v40_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v40_m,
+    WorldStaticModel = standing-manga_t64_v40_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v40_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v40_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v40_m,
+    WorldStaticModel = laying-manga_t64_v40_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v41_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v41_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v41_m,
+    WorldStaticModel = standing-manga_t64_v41_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v41_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v41_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v41_m,
+    WorldStaticModel = laying-manga_t64_v41_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v42_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v42_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v42_m,
+    WorldStaticModel = standing-manga_t64_v42_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v42_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v42_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v42_m,
+    WorldStaticModel = laying-manga_t64_v42_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v43_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v43_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v43_m,
+    WorldStaticModel = standing-manga_t64_v43_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v43_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v43_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v43_m,
+    WorldStaticModel = laying-manga_t64_v43_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v44_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v44_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v44_m,
+    WorldStaticModel = standing-manga_t64_v44_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v44_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v44_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v44_m,
+    WorldStaticModel = laying-manga_t64_v44_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v45_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v45_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v45_m,
+    WorldStaticModel = standing-manga_t64_v45_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v45_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v45_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v45_m,
+    WorldStaticModel = laying-manga_t64_v45_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v46_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v46_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v46_m,
+    WorldStaticModel = standing-manga_t64_v46_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v46_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v46_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v46_m,
+    WorldStaticModel = laying-manga_t64_v46_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v47_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v47_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v47_m,
+    WorldStaticModel = standing-manga_t64_v47_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v47_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v47_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v47_m,
+    WorldStaticModel = laying-manga_t64_v47_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v48_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v48_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v48_m,
+    WorldStaticModel = standing-manga_t64_v48_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v48_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v48_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v48_m,
+    WorldStaticModel = laying-manga_t64_v48_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v49_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v49_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v49_m,
+    WorldStaticModel = standing-manga_t64_v49_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v49_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v49_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v49_m,
+    WorldStaticModel = laying-manga_t64_v49_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v50_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v50_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v50_m,
+    WorldStaticModel = standing-manga_t64_v50_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v50_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v50_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v50_m,
+    WorldStaticModel = laying-manga_t64_v50_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v51_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v51_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v51_m,
+    WorldStaticModel = standing-manga_t64_v51_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v51_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v51_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v51_m,
+    WorldStaticModel = laying-manga_t64_v51_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v52_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v52_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v52_m,
+    WorldStaticModel = standing-manga_t64_v52_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v52_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v52_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v52_m,
+    WorldStaticModel = laying-manga_t64_v52_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v53_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v53_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v53_m,
+    WorldStaticModel = standing-manga_t64_v53_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v53_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v53_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v53_m,
+    WorldStaticModel = laying-manga_t64_v53_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v54_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v54_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v54_m,
+    WorldStaticModel = standing-manga_t64_v54_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v54_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v54_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v54_m,
+    WorldStaticModel = laying-manga_t64_v54_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v55_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v55_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v55_m,
+    WorldStaticModel = standing-manga_t64_v55_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v55_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v55_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v55_m,
+    WorldStaticModel = laying-manga_t64_v55_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v56_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v56_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v56_m,
+    WorldStaticModel = standing-manga_t64_v56_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v56_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v56_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v56_m,
+    WorldStaticModel = laying-manga_t64_v56_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v57_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v57_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v57_m,
+    WorldStaticModel = standing-manga_t64_v57_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v57_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v57_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v57_m,
+    WorldStaticModel = laying-manga_t64_v57_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v58_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v58_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v58_m,
+    WorldStaticModel = standing-manga_t64_v58_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v58_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v58_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v58_m,
+    WorldStaticModel = laying-manga_t64_v58_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v59_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v59_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v59_m,
+    WorldStaticModel = standing-manga_t64_v59_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v59_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v59_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v59_m,
+    WorldStaticModel = laying-manga_t64_v59_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v60_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v60_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v60_m,
+    WorldStaticModel = standing-manga_t64_v60_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v60_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v60_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v60_m,
+    WorldStaticModel = laying-manga_t64_v60_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v61_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v61_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v61_m,
+    WorldStaticModel = standing-manga_t64_v61_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v61_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v61_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v61_m,
+    WorldStaticModel = laying-manga_t64_v61_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v62_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v62_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v62_m,
+    WorldStaticModel = standing-manga_t64_v62_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v62_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v62_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v62_m,
+    WorldStaticModel = laying-manga_t64_v62_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v63_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v63_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v63_m,
+    WorldStaticModel = standing-manga_t64_v63_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v63_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v63_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v63_m,
+    WorldStaticModel = laying-manga_t64_v63_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v64_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v64_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v64_m,
+    WorldStaticModel = standing-manga_t64_v64_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v64_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v64_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v64_m,
+    WorldStaticModel = laying-manga_t64_v64_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v65_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v65_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v65_m,
+    WorldStaticModel = standing-manga_t64_v65_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v65_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v65_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v65_m,
+    WorldStaticModel = laying-manga_t64_v65_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v66_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v66_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v66_m,
+    WorldStaticModel = standing-manga_t64_v66_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v66_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v66_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v66_m,
+    WorldStaticModel = laying-manga_t64_v66_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v67_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v67_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v67_m,
+    WorldStaticModel = standing-manga_t64_v67_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v67_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v67_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v67_m,
+    WorldStaticModel = laying-manga_t64_v67_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v68_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v68_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v68_m,
+    WorldStaticModel = standing-manga_t64_v68_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v68_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v68_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v68_m,
+    WorldStaticModel = laying-manga_t64_v68_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v69_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v69_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v69_m,
+    WorldStaticModel = standing-manga_t64_v69_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v69_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v69_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v69_m,
+    WorldStaticModel = laying-manga_t64_v69_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v70_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v70_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v70_m,
+    WorldStaticModel = standing-manga_t64_v70_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v70_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v70_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v70_m,
+    WorldStaticModel = laying-manga_t64_v70_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v71_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v71_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v71_m,
+    WorldStaticModel = standing-manga_t64_v71_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v71_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v71_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v71_m,
+    WorldStaticModel = laying-manga_t64_v71_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v72_m_s
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v72_m,
+    Tooltip          = Naruto (standing),
+    StaticModel      = hands-manga_t64_v72_m,
+    WorldStaticModel = standing-manga_t64_v72_m,
+    Tags             = Magazine,
+  }
+  item manga_t64_v72_m_l
+  {
+    DisplayName      = Naruto,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t64_v72_m,
+    Tooltip          = Naruto,
+    StaticModel      = hands-manga_t64_v72_m,
+    WorldStaticModel = laying-manga_t64_v72_m,
+    Tags             = Magazine,
+  }
+}

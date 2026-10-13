@@ -1,0 +1,84 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t47_v1_c_s
+  {
+    DisplayName      = The Crater,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t47_v1_c,
+    Tooltip          = Za Kureta (standing),
+    StaticModel      = hands-manga_t47_v1_c,
+    WorldStaticModel = standing-manga_t47_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t47_v1_c_l
+  {
+    DisplayName      = The Crater,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t47_v1_c,
+    Tooltip          = Za Kureta,
+    StaticModel      = hands-manga_t47_v1_c,
+    WorldStaticModel = laying-manga_t47_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t47_v2_c_s
+  {
+    DisplayName      = The Crater,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t47_v2_c,
+    Tooltip          = Za Kureta (standing),
+    StaticModel      = hands-manga_t47_v2_c,
+    WorldStaticModel = standing-manga_t47_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t47_v2_c_l
+  {
+    DisplayName      = The Crater,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t47_v2_c,
+    Tooltip          = Za Kureta,
+    StaticModel      = hands-manga_t47_v2_c,
+    WorldStaticModel = laying-manga_t47_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t47_v3_c_s
+  {
+    DisplayName      = The Crater,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t47_v3_c,
+    Tooltip          = Za Kureta (standing),
+    StaticModel      = hands-manga_t47_v3_c,
+    WorldStaticModel = standing-manga_t47_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t47_v3_c_l
+  {
+    DisplayName      = The Crater,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t47_v3_c,
+    Tooltip          = Za Kureta,
+    StaticModel      = hands-manga_t47_v3_c,
+    WorldStaticModel = laying-manga_t47_v3_c,
+    Tags             = Magazine,
+  }
+}

@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t139_v1_m_s
+  {
+    DisplayName      = The Apothecary Is Gonna Make This Ragged Elf Happy,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t139_v1_m,
+    Tooltip          = Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san (standing),
+    StaticModel      = hands-manga_t139_v1_m,
+    WorldStaticModel = standing-manga_t139_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t139_v1_m_l
+  {
+    DisplayName      = The Apothecary Is Gonna Make This Ragged Elf Happy,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t139_v1_m,
+    Tooltip          = Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san,
+    StaticModel      = hands-manga_t139_v1_m,
+    WorldStaticModel = laying-manga_t139_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t139_v2_m_s
+  {
+    DisplayName      = The Apothecary Is Gonna Make This Ragged Elf Happy,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t139_v2_m,
+    Tooltip          = Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san (standing),
+    StaticModel      = hands-manga_t139_v2_m,
+    WorldStaticModel = standing-manga_t139_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t139_v2_m_l
+  {
+    DisplayName      = The Apothecary Is Gonna Make This Ragged Elf Happy,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t139_v2_m,
+    Tooltip          = Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san,
+    StaticModel      = hands-manga_t139_v2_m,
+    WorldStaticModel = laying-manga_t139_v2_m,
+    Tags             = Magazine,
+  }
+}

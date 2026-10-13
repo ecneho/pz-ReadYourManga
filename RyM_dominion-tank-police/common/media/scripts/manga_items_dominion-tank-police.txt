@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t128_v1_c_s
+  {
+    DisplayName      = Dominion Tank Police,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t128_v1_c,
+    Tooltip          = Dominion (standing),
+    StaticModel      = hands-manga_t128_v1_c,
+    WorldStaticModel = standing-manga_t128_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t128_v1_c_l
+  {
+    DisplayName      = Dominion Tank Police,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t128_v1_c,
+    Tooltip          = Dominion,
+    StaticModel      = hands-manga_t128_v1_c,
+    WorldStaticModel = laying-manga_t128_v1_c,
+    Tags             = Magazine,
+  }
+}

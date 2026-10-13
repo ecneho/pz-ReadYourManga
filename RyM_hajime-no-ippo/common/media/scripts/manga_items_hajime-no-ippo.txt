@@ -1,0 +1,3776 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t219_v1_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v1_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v1_c,
+    WorldStaticModel = standing-manga_t219_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v1_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v1_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v1_c,
+    WorldStaticModel = laying-manga_t219_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v2_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v2_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v2_c,
+    WorldStaticModel = standing-manga_t219_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v2_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v2_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v2_c,
+    WorldStaticModel = laying-manga_t219_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v3_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v3_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v3_c,
+    WorldStaticModel = standing-manga_t219_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v3_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v3_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v3_c,
+    WorldStaticModel = laying-manga_t219_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v4_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v4_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v4_c,
+    WorldStaticModel = standing-manga_t219_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v4_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v4_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v4_c,
+    WorldStaticModel = laying-manga_t219_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v5_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v5_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v5_c,
+    WorldStaticModel = standing-manga_t219_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v5_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v5_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v5_c,
+    WorldStaticModel = laying-manga_t219_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v6_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v6_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v6_c,
+    WorldStaticModel = standing-manga_t219_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v6_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v6_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v6_c,
+    WorldStaticModel = laying-manga_t219_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v7_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v7_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v7_c,
+    WorldStaticModel = standing-manga_t219_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v7_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v7_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v7_c,
+    WorldStaticModel = laying-manga_t219_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v8_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v8_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v8_c,
+    WorldStaticModel = standing-manga_t219_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v8_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v8_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v8_c,
+    WorldStaticModel = laying-manga_t219_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v9_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v9_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v9_c,
+    WorldStaticModel = standing-manga_t219_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v9_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v9_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v9_c,
+    WorldStaticModel = laying-manga_t219_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v10_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v10_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v10_c,
+    WorldStaticModel = standing-manga_t219_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v10_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v10_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v10_c,
+    WorldStaticModel = laying-manga_t219_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v11_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v11_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v11_c,
+    WorldStaticModel = standing-manga_t219_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v11_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v11_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v11_c,
+    WorldStaticModel = laying-manga_t219_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v12_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v12_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v12_c,
+    WorldStaticModel = standing-manga_t219_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v12_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v12_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v12_c,
+    WorldStaticModel = laying-manga_t219_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v13_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v13_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v13_c,
+    WorldStaticModel = standing-manga_t219_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v13_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v13_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v13_c,
+    WorldStaticModel = laying-manga_t219_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v14_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v14_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v14_c,
+    WorldStaticModel = standing-manga_t219_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v14_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v14_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v14_c,
+    WorldStaticModel = laying-manga_t219_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v15_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v15_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v15_c,
+    WorldStaticModel = standing-manga_t219_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v15_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v15_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v15_c,
+    WorldStaticModel = laying-manga_t219_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v16_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v16_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v16_c,
+    WorldStaticModel = standing-manga_t219_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v16_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v16_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v16_c,
+    WorldStaticModel = laying-manga_t219_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v17_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v17_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v17_c,
+    WorldStaticModel = standing-manga_t219_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v17_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v17_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v17_c,
+    WorldStaticModel = laying-manga_t219_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v18_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v18_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v18_c,
+    WorldStaticModel = standing-manga_t219_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v18_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v18_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v18_c,
+    WorldStaticModel = laying-manga_t219_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v19_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v19_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v19_c,
+    WorldStaticModel = standing-manga_t219_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v19_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v19_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v19_c,
+    WorldStaticModel = laying-manga_t219_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v20_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v20_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v20_c,
+    WorldStaticModel = standing-manga_t219_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v20_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v20_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v20_c,
+    WorldStaticModel = laying-manga_t219_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v21_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v21_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v21_c,
+    WorldStaticModel = standing-manga_t219_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v21_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v21_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v21_c,
+    WorldStaticModel = laying-manga_t219_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v22_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v22_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v22_c,
+    WorldStaticModel = standing-manga_t219_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v22_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v22_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v22_c,
+    WorldStaticModel = laying-manga_t219_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v23_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v23_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v23_c,
+    WorldStaticModel = standing-manga_t219_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v23_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v23_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v23_c,
+    WorldStaticModel = laying-manga_t219_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v24_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v24_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v24_c,
+    WorldStaticModel = standing-manga_t219_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v24_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v24_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v24_c,
+    WorldStaticModel = laying-manga_t219_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v25_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v25_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v25_c,
+    WorldStaticModel = standing-manga_t219_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v25_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v25_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v25_c,
+    WorldStaticModel = laying-manga_t219_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v26_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v26_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v26_c,
+    WorldStaticModel = standing-manga_t219_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v26_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v26_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v26_c,
+    WorldStaticModel = laying-manga_t219_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v27_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v27_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v27_c,
+    WorldStaticModel = standing-manga_t219_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v27_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v27_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v27_c,
+    WorldStaticModel = laying-manga_t219_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v28_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v28_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v28_c,
+    WorldStaticModel = standing-manga_t219_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v28_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v28_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v28_c,
+    WorldStaticModel = laying-manga_t219_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v29_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v29_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v29_c,
+    WorldStaticModel = standing-manga_t219_v29_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v29_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v29_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v29_c,
+    WorldStaticModel = laying-manga_t219_v29_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v30_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v30_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v30_c,
+    WorldStaticModel = standing-manga_t219_v30_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v30_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v30_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v30_c,
+    WorldStaticModel = laying-manga_t219_v30_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v31_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v31_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v31_c,
+    WorldStaticModel = standing-manga_t219_v31_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v31_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v31_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v31_c,
+    WorldStaticModel = laying-manga_t219_v31_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v32_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v32_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v32_c,
+    WorldStaticModel = standing-manga_t219_v32_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v32_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v32_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v32_c,
+    WorldStaticModel = laying-manga_t219_v32_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v33_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v33_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v33_c,
+    WorldStaticModel = standing-manga_t219_v33_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v33_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v33_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v33_c,
+    WorldStaticModel = laying-manga_t219_v33_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v34_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v34_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v34_c,
+    WorldStaticModel = standing-manga_t219_v34_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v34_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v34_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v34_c,
+    WorldStaticModel = laying-manga_t219_v34_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v35_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v35_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v35_c,
+    WorldStaticModel = standing-manga_t219_v35_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v35_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v35_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v35_c,
+    WorldStaticModel = laying-manga_t219_v35_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v36_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v36_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v36_c,
+    WorldStaticModel = standing-manga_t219_v36_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v36_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v36_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v36_c,
+    WorldStaticModel = laying-manga_t219_v36_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v37_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v37_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v37_c,
+    WorldStaticModel = standing-manga_t219_v37_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v37_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v37_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v37_c,
+    WorldStaticModel = laying-manga_t219_v37_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v38_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v38_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v38_c,
+    WorldStaticModel = standing-manga_t219_v38_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v38_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v38_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v38_c,
+    WorldStaticModel = laying-manga_t219_v38_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v39_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v39_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v39_c,
+    WorldStaticModel = standing-manga_t219_v39_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v39_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v39_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v39_c,
+    WorldStaticModel = laying-manga_t219_v39_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v40_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v40_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v40_c,
+    WorldStaticModel = standing-manga_t219_v40_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v40_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v40_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v40_c,
+    WorldStaticModel = laying-manga_t219_v40_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v41_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v41_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v41_c,
+    WorldStaticModel = standing-manga_t219_v41_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v41_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v41_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v41_c,
+    WorldStaticModel = laying-manga_t219_v41_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v42_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v42_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v42_c,
+    WorldStaticModel = standing-manga_t219_v42_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v42_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v42_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v42_c,
+    WorldStaticModel = laying-manga_t219_v42_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v43_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v43_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v43_c,
+    WorldStaticModel = standing-manga_t219_v43_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v43_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v43_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v43_c,
+    WorldStaticModel = laying-manga_t219_v43_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v44_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v44_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v44_c,
+    WorldStaticModel = standing-manga_t219_v44_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v44_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v44_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v44_c,
+    WorldStaticModel = laying-manga_t219_v44_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v45_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v45_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v45_c,
+    WorldStaticModel = standing-manga_t219_v45_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v45_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v45_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v45_c,
+    WorldStaticModel = laying-manga_t219_v45_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v46_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v46_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v46_c,
+    WorldStaticModel = standing-manga_t219_v46_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v46_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v46_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v46_c,
+    WorldStaticModel = laying-manga_t219_v46_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v47_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v47_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v47_c,
+    WorldStaticModel = standing-manga_t219_v47_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v47_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v47_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v47_c,
+    WorldStaticModel = laying-manga_t219_v47_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v48_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v48_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v48_c,
+    WorldStaticModel = standing-manga_t219_v48_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v48_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v48_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v48_c,
+    WorldStaticModel = laying-manga_t219_v48_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v49_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v49_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v49_c,
+    WorldStaticModel = standing-manga_t219_v49_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v49_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v49_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v49_c,
+    WorldStaticModel = laying-manga_t219_v49_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v50_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v50_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v50_c,
+    WorldStaticModel = standing-manga_t219_v50_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v50_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v50_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v50_c,
+    WorldStaticModel = laying-manga_t219_v50_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v51_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v51_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v51_c,
+    WorldStaticModel = standing-manga_t219_v51_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v51_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v51_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v51_c,
+    WorldStaticModel = laying-manga_t219_v51_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v52_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v52_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v52_c,
+    WorldStaticModel = standing-manga_t219_v52_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v52_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v52_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v52_c,
+    WorldStaticModel = laying-manga_t219_v52_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v53_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v53_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v53_c,
+    WorldStaticModel = standing-manga_t219_v53_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v53_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v53_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v53_c,
+    WorldStaticModel = laying-manga_t219_v53_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v54_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v54_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v54_c,
+    WorldStaticModel = standing-manga_t219_v54_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v54_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v54_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v54_c,
+    WorldStaticModel = laying-manga_t219_v54_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v55_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v55_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v55_c,
+    WorldStaticModel = standing-manga_t219_v55_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v55_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v55_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v55_c,
+    WorldStaticModel = laying-manga_t219_v55_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v56_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v56_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v56_c,
+    WorldStaticModel = standing-manga_t219_v56_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v56_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v56_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v56_c,
+    WorldStaticModel = laying-manga_t219_v56_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v57_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v57_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v57_c,
+    WorldStaticModel = standing-manga_t219_v57_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v57_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v57_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v57_c,
+    WorldStaticModel = laying-manga_t219_v57_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v58_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v58_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v58_c,
+    WorldStaticModel = standing-manga_t219_v58_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v58_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v58_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v58_c,
+    WorldStaticModel = laying-manga_t219_v58_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v59_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v59_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v59_c,
+    WorldStaticModel = standing-manga_t219_v59_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v59_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v59_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v59_c,
+    WorldStaticModel = laying-manga_t219_v59_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v60_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v60_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v60_c,
+    WorldStaticModel = standing-manga_t219_v60_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v60_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v60_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v60_c,
+    WorldStaticModel = laying-manga_t219_v60_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v61_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v61_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v61_c,
+    WorldStaticModel = standing-manga_t219_v61_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v61_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v61_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v61_c,
+    WorldStaticModel = laying-manga_t219_v61_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v62_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v62_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v62_c,
+    WorldStaticModel = standing-manga_t219_v62_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v62_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v62_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v62_c,
+    WorldStaticModel = laying-manga_t219_v62_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v63_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v63_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v63_c,
+    WorldStaticModel = standing-manga_t219_v63_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v63_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v63_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v63_c,
+    WorldStaticModel = laying-manga_t219_v63_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v64_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v64_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v64_c,
+    WorldStaticModel = standing-manga_t219_v64_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v64_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v64_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v64_c,
+    WorldStaticModel = laying-manga_t219_v64_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v65_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v65_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v65_c,
+    WorldStaticModel = standing-manga_t219_v65_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v65_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v65_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v65_c,
+    WorldStaticModel = laying-manga_t219_v65_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v66_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v66_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v66_c,
+    WorldStaticModel = standing-manga_t219_v66_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v66_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v66_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v66_c,
+    WorldStaticModel = laying-manga_t219_v66_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v67_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v67_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v67_c,
+    WorldStaticModel = standing-manga_t219_v67_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v67_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v67_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v67_c,
+    WorldStaticModel = laying-manga_t219_v67_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v68_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v68_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v68_c,
+    WorldStaticModel = standing-manga_t219_v68_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v68_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v68_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v68_c,
+    WorldStaticModel = laying-manga_t219_v68_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v69_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v69_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v69_c,
+    WorldStaticModel = standing-manga_t219_v69_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v69_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v69_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v69_c,
+    WorldStaticModel = laying-manga_t219_v69_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v70_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v70_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v70_c,
+    WorldStaticModel = standing-manga_t219_v70_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v70_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v70_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v70_c,
+    WorldStaticModel = laying-manga_t219_v70_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v71_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v71_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v71_c,
+    WorldStaticModel = standing-manga_t219_v71_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v71_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v71_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v71_c,
+    WorldStaticModel = laying-manga_t219_v71_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v72_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v72_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v72_c,
+    WorldStaticModel = standing-manga_t219_v72_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v72_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v72_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v72_c,
+    WorldStaticModel = laying-manga_t219_v72_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v73_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v73_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v73_c,
+    WorldStaticModel = standing-manga_t219_v73_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v73_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v73_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v73_c,
+    WorldStaticModel = laying-manga_t219_v73_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v74_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v74_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v74_c,
+    WorldStaticModel = standing-manga_t219_v74_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v74_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v74_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v74_c,
+    WorldStaticModel = laying-manga_t219_v74_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v75_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v75_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v75_c,
+    WorldStaticModel = standing-manga_t219_v75_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v75_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v75_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v75_c,
+    WorldStaticModel = laying-manga_t219_v75_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v76_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v76_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v76_c,
+    WorldStaticModel = standing-manga_t219_v76_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v76_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v76_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v76_c,
+    WorldStaticModel = laying-manga_t219_v76_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v77_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v77_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v77_c,
+    WorldStaticModel = standing-manga_t219_v77_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v77_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v77_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v77_c,
+    WorldStaticModel = laying-manga_t219_v77_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v78_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v78_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v78_c,
+    WorldStaticModel = standing-manga_t219_v78_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v78_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v78_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v78_c,
+    WorldStaticModel = laying-manga_t219_v78_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v79_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v79_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v79_c,
+    WorldStaticModel = standing-manga_t219_v79_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v79_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v79_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v79_c,
+    WorldStaticModel = laying-manga_t219_v79_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v80_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v80_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v80_c,
+    WorldStaticModel = standing-manga_t219_v80_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v80_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v80_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v80_c,
+    WorldStaticModel = laying-manga_t219_v80_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v81_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v81_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v81_c,
+    WorldStaticModel = standing-manga_t219_v81_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v81_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v81_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v81_c,
+    WorldStaticModel = laying-manga_t219_v81_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v82_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v82_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v82_c,
+    WorldStaticModel = standing-manga_t219_v82_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v82_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v82_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v82_c,
+    WorldStaticModel = laying-manga_t219_v82_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v83_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v83_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v83_c,
+    WorldStaticModel = standing-manga_t219_v83_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v83_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v83_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v83_c,
+    WorldStaticModel = laying-manga_t219_v83_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v84_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v84_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v84_c,
+    WorldStaticModel = standing-manga_t219_v84_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v84_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v84_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v84_c,
+    WorldStaticModel = laying-manga_t219_v84_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v85_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v85_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v85_c,
+    WorldStaticModel = standing-manga_t219_v85_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v85_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v85_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v85_c,
+    WorldStaticModel = laying-manga_t219_v85_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v86_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v86_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v86_c,
+    WorldStaticModel = standing-manga_t219_v86_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v86_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v86_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v86_c,
+    WorldStaticModel = laying-manga_t219_v86_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v87_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v87_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v87_c,
+    WorldStaticModel = standing-manga_t219_v87_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v87_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v87_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v87_c,
+    WorldStaticModel = laying-manga_t219_v87_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v88_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v88_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v88_c,
+    WorldStaticModel = standing-manga_t219_v88_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v88_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v88_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v88_c,
+    WorldStaticModel = laying-manga_t219_v88_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v89_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v89_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v89_c,
+    WorldStaticModel = standing-manga_t219_v89_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v89_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v89_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v89_c,
+    WorldStaticModel = laying-manga_t219_v89_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v90_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v90_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v90_c,
+    WorldStaticModel = standing-manga_t219_v90_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v90_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v90_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v90_c,
+    WorldStaticModel = laying-manga_t219_v90_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v91_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v91_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v91_c,
+    WorldStaticModel = standing-manga_t219_v91_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v91_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v91_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v91_c,
+    WorldStaticModel = laying-manga_t219_v91_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v92_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v92_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v92_c,
+    WorldStaticModel = standing-manga_t219_v92_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v92_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v92_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v92_c,
+    WorldStaticModel = laying-manga_t219_v92_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v93_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v93_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v93_c,
+    WorldStaticModel = standing-manga_t219_v93_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v93_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v93_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v93_c,
+    WorldStaticModel = laying-manga_t219_v93_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v94_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v94_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v94_c,
+    WorldStaticModel = standing-manga_t219_v94_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v94_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v94_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v94_c,
+    WorldStaticModel = laying-manga_t219_v94_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v95_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v95_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v95_c,
+    WorldStaticModel = standing-manga_t219_v95_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v95_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v95_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v95_c,
+    WorldStaticModel = laying-manga_t219_v95_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v96_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v96_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v96_c,
+    WorldStaticModel = standing-manga_t219_v96_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v96_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v96_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v96_c,
+    WorldStaticModel = laying-manga_t219_v96_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v97_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v97_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v97_c,
+    WorldStaticModel = standing-manga_t219_v97_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v97_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v97_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v97_c,
+    WorldStaticModel = laying-manga_t219_v97_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v98_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v98_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v98_c,
+    WorldStaticModel = standing-manga_t219_v98_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v98_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v98_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v98_c,
+    WorldStaticModel = laying-manga_t219_v98_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v99_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v99_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v99_c,
+    WorldStaticModel = standing-manga_t219_v99_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v99_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v99_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v99_c,
+    WorldStaticModel = laying-manga_t219_v99_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v100_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v100_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v100_c,
+    WorldStaticModel = standing-manga_t219_v100_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v100_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v100_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v100_c,
+    WorldStaticModel = laying-manga_t219_v100_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v101_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v101_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v101_c,
+    WorldStaticModel = standing-manga_t219_v101_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v101_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v101_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v101_c,
+    WorldStaticModel = laying-manga_t219_v101_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v102_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v102_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v102_c,
+    WorldStaticModel = standing-manga_t219_v102_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v102_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v102_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v102_c,
+    WorldStaticModel = laying-manga_t219_v102_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v103_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v103_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v103_c,
+    WorldStaticModel = standing-manga_t219_v103_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v103_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v103_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v103_c,
+    WorldStaticModel = laying-manga_t219_v103_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v104_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v104_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v104_c,
+    WorldStaticModel = standing-manga_t219_v104_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v104_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v104_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v104_c,
+    WorldStaticModel = laying-manga_t219_v104_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v105_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v105_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v105_c,
+    WorldStaticModel = standing-manga_t219_v105_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v105_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v105_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v105_c,
+    WorldStaticModel = laying-manga_t219_v105_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v106_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v106_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v106_c,
+    WorldStaticModel = standing-manga_t219_v106_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v106_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v106_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v106_c,
+    WorldStaticModel = laying-manga_t219_v106_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v107_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v107_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v107_c,
+    WorldStaticModel = standing-manga_t219_v107_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v107_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v107_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v107_c,
+    WorldStaticModel = laying-manga_t219_v107_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v108_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v108_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v108_c,
+    WorldStaticModel = standing-manga_t219_v108_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v108_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v108_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v108_c,
+    WorldStaticModel = laying-manga_t219_v108_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v109_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v109_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v109_c,
+    WorldStaticModel = standing-manga_t219_v109_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v109_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v109_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v109_c,
+    WorldStaticModel = laying-manga_t219_v109_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v110_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v110_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v110_c,
+    WorldStaticModel = standing-manga_t219_v110_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v110_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v110_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v110_c,
+    WorldStaticModel = laying-manga_t219_v110_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v111_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v111_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v111_c,
+    WorldStaticModel = standing-manga_t219_v111_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v111_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v111_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v111_c,
+    WorldStaticModel = laying-manga_t219_v111_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v112_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v112_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v112_c,
+    WorldStaticModel = standing-manga_t219_v112_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v112_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v112_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v112_c,
+    WorldStaticModel = laying-manga_t219_v112_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v113_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v113_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v113_c,
+    WorldStaticModel = standing-manga_t219_v113_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v113_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v113_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v113_c,
+    WorldStaticModel = laying-manga_t219_v113_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v114_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v114_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v114_c,
+    WorldStaticModel = standing-manga_t219_v114_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v114_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v114_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v114_c,
+    WorldStaticModel = laying-manga_t219_v114_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v115_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v115_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v115_c,
+    WorldStaticModel = standing-manga_t219_v115_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v115_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v115_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v115_c,
+    WorldStaticModel = laying-manga_t219_v115_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v116_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v116_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v116_c,
+    WorldStaticModel = standing-manga_t219_v116_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v116_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v116_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v116_c,
+    WorldStaticModel = laying-manga_t219_v116_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v117_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v117_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v117_c,
+    WorldStaticModel = standing-manga_t219_v117_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v117_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v117_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v117_c,
+    WorldStaticModel = laying-manga_t219_v117_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v118_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v118_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v118_c,
+    WorldStaticModel = standing-manga_t219_v118_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v118_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v118_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v118_c,
+    WorldStaticModel = laying-manga_t219_v118_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v119_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v119_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v119_c,
+    WorldStaticModel = standing-manga_t219_v119_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v119_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v119_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v119_c,
+    WorldStaticModel = laying-manga_t219_v119_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v120_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v120_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v120_c,
+    WorldStaticModel = standing-manga_t219_v120_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v120_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v120_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v120_c,
+    WorldStaticModel = laying-manga_t219_v120_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v121_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v121_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v121_c,
+    WorldStaticModel = standing-manga_t219_v121_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v121_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v121_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v121_c,
+    WorldStaticModel = laying-manga_t219_v121_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v122_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v122_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v122_c,
+    WorldStaticModel = standing-manga_t219_v122_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v122_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v122_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v122_c,
+    WorldStaticModel = laying-manga_t219_v122_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v123_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v123_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v123_c,
+    WorldStaticModel = standing-manga_t219_v123_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v123_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v123_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v123_c,
+    WorldStaticModel = laying-manga_t219_v123_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v124_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v124_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v124_c,
+    WorldStaticModel = standing-manga_t219_v124_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v124_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v124_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v124_c,
+    WorldStaticModel = laying-manga_t219_v124_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v125_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v125_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v125_c,
+    WorldStaticModel = standing-manga_t219_v125_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v125_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v125_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v125_c,
+    WorldStaticModel = laying-manga_t219_v125_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v126_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v126_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v126_c,
+    WorldStaticModel = standing-manga_t219_v126_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v126_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v126_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v126_c,
+    WorldStaticModel = laying-manga_t219_v126_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v127_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v127_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v127_c,
+    WorldStaticModel = standing-manga_t219_v127_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v127_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v127_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v127_c,
+    WorldStaticModel = laying-manga_t219_v127_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v128_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v128_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v128_c,
+    WorldStaticModel = standing-manga_t219_v128_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v128_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v128_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v128_c,
+    WorldStaticModel = laying-manga_t219_v128_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v129_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v129_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v129_c,
+    WorldStaticModel = standing-manga_t219_v129_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v129_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v129_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v129_c,
+    WorldStaticModel = laying-manga_t219_v129_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v130_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v130_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v130_c,
+    WorldStaticModel = standing-manga_t219_v130_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v130_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v130_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v130_c,
+    WorldStaticModel = laying-manga_t219_v130_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v131_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v131_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v131_c,
+    WorldStaticModel = standing-manga_t219_v131_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v131_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v131_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v131_c,
+    WorldStaticModel = laying-manga_t219_v131_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v132_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v132_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v132_c,
+    WorldStaticModel = standing-manga_t219_v132_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v132_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v132_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v132_c,
+    WorldStaticModel = laying-manga_t219_v132_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v133_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v133_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v133_c,
+    WorldStaticModel = standing-manga_t219_v133_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v133_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v133_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v133_c,
+    WorldStaticModel = laying-manga_t219_v133_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v134_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v134_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v134_c,
+    WorldStaticModel = standing-manga_t219_v134_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v134_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v134_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v134_c,
+    WorldStaticModel = laying-manga_t219_v134_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v135_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v135_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v135_c,
+    WorldStaticModel = standing-manga_t219_v135_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v135_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v135_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v135_c,
+    WorldStaticModel = laying-manga_t219_v135_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v136_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v136_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v136_c,
+    WorldStaticModel = standing-manga_t219_v136_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v136_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v136_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v136_c,
+    WorldStaticModel = laying-manga_t219_v136_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v137_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v137_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v137_c,
+    WorldStaticModel = standing-manga_t219_v137_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v137_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v137_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v137_c,
+    WorldStaticModel = laying-manga_t219_v137_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v138_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v138_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v138_c,
+    WorldStaticModel = standing-manga_t219_v138_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v138_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v138_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v138_c,
+    WorldStaticModel = laying-manga_t219_v138_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v139_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v139_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v139_c,
+    WorldStaticModel = standing-manga_t219_v139_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v139_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v139_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v139_c,
+    WorldStaticModel = laying-manga_t219_v139_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v140_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v140_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v140_c,
+    WorldStaticModel = standing-manga_t219_v140_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v140_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v140_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v140_c,
+    WorldStaticModel = laying-manga_t219_v140_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v141_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v141_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v141_c,
+    WorldStaticModel = standing-manga_t219_v141_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v141_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v141_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v141_c,
+    WorldStaticModel = laying-manga_t219_v141_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v142_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v142_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v142_c,
+    WorldStaticModel = standing-manga_t219_v142_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v142_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v142_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v142_c,
+    WorldStaticModel = laying-manga_t219_v142_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v143_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v143_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v143_c,
+    WorldStaticModel = standing-manga_t219_v143_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v143_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v143_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v143_c,
+    WorldStaticModel = laying-manga_t219_v143_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v144_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v144_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v144_c,
+    WorldStaticModel = standing-manga_t219_v144_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v144_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v144_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v144_c,
+    WorldStaticModel = laying-manga_t219_v144_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v145_c_s
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v145_c,
+    Tooltip          = Hajime no Ippo (standing),
+    StaticModel      = hands-manga_t219_v145_c,
+    WorldStaticModel = standing-manga_t219_v145_c,
+    Tags             = Magazine,
+  }
+  item manga_t219_v145_c_l
+  {
+    DisplayName      = Hajime no Ippo,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t219_v145_c,
+    Tooltip          = Hajime no Ippo,
+    StaticModel      = hands-manga_t219_v145_c,
+    WorldStaticModel = laying-manga_t219_v145_c,
+    Tags             = Magazine,
+  }
+}

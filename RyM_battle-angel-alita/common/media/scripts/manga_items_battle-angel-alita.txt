@@ -1,0 +1,240 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t125_v1_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v1_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v1_c,
+    WorldStaticModel = standing-manga_t125_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v1_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v1_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v1_c,
+    WorldStaticModel = laying-manga_t125_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v2_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v2_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v2_c,
+    WorldStaticModel = standing-manga_t125_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v2_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v2_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v2_c,
+    WorldStaticModel = laying-manga_t125_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v3_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v3_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v3_c,
+    WorldStaticModel = standing-manga_t125_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v3_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v3_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v3_c,
+    WorldStaticModel = laying-manga_t125_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v4_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v4_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v4_c,
+    WorldStaticModel = standing-manga_t125_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v4_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v4_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v4_c,
+    WorldStaticModel = laying-manga_t125_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v5_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v5_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v5_c,
+    WorldStaticModel = standing-manga_t125_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v5_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v5_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v5_c,
+    WorldStaticModel = laying-manga_t125_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v6_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v6_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v6_c,
+    WorldStaticModel = standing-manga_t125_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v6_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v6_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v6_c,
+    WorldStaticModel = laying-manga_t125_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v7_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v7_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v7_c,
+    WorldStaticModel = standing-manga_t125_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v7_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v7_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v7_c,
+    WorldStaticModel = laying-manga_t125_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v8_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v8_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v8_c,
+    WorldStaticModel = standing-manga_t125_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v8_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v8_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v8_c,
+    WorldStaticModel = laying-manga_t125_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v9_c_s
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v9_c,
+    Tooltip          = Ganmu (standing),
+    StaticModel      = hands-manga_t125_v9_c,
+    WorldStaticModel = standing-manga_t125_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t125_v9_c_l
+  {
+    DisplayName      = Battle Angel Alita,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t125_v9_c,
+    Tooltip          = Ganmu,
+    StaticModel      = hands-manga_t125_v9_c,
+    WorldStaticModel = laying-manga_t125_v9_c,
+    Tags             = Magazine,
+  }
+}

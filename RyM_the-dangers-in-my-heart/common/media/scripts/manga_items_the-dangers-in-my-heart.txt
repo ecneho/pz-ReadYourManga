@@ -1,0 +1,318 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t153_v1_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v1_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v1_m,
+    WorldStaticModel = standing-manga_t153_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v1_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v1_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v1_m,
+    WorldStaticModel = laying-manga_t153_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v2_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v2_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v2_m,
+    WorldStaticModel = standing-manga_t153_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v2_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v2_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v2_m,
+    WorldStaticModel = laying-manga_t153_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v3_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v3_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v3_m,
+    WorldStaticModel = standing-manga_t153_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v3_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v3_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v3_m,
+    WorldStaticModel = laying-manga_t153_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v4_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v4_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v4_m,
+    WorldStaticModel = standing-manga_t153_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v4_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v4_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v4_m,
+    WorldStaticModel = laying-manga_t153_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v5_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v5_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v5_m,
+    WorldStaticModel = standing-manga_t153_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v5_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v5_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v5_m,
+    WorldStaticModel = laying-manga_t153_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v6_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v6_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v6_m,
+    WorldStaticModel = standing-manga_t153_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v6_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v6_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v6_m,
+    WorldStaticModel = laying-manga_t153_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v7_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v7_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v7_m,
+    WorldStaticModel = standing-manga_t153_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v7_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v7_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v7_m,
+    WorldStaticModel = laying-manga_t153_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v8_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v8_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v8_m,
+    WorldStaticModel = standing-manga_t153_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v8_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v8_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v8_m,
+    WorldStaticModel = laying-manga_t153_v8_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v9_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v9_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v9_m,
+    WorldStaticModel = standing-manga_t153_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v9_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v9_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v9_m,
+    WorldStaticModel = laying-manga_t153_v9_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v10_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v10_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v10_m,
+    WorldStaticModel = standing-manga_t153_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v10_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v10_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v10_m,
+    WorldStaticModel = laying-manga_t153_v10_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v11_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v11_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v11_m,
+    WorldStaticModel = standing-manga_t153_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v11_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v11_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v11_m,
+    WorldStaticModel = laying-manga_t153_v11_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v12_m_s
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v12_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu (standing),
+    StaticModel      = hands-manga_t153_v12_m,
+    WorldStaticModel = standing-manga_t153_v12_m,
+    Tags             = Magazine,
+  }
+  item manga_t153_v12_m_l
+  {
+    DisplayName      = The Dangers in My Heart,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t153_v12_m,
+    Tooltip          = Boku no Kokoro no Yabai Yatsu,
+    StaticModel      = hands-manga_t153_v12_m,
+    WorldStaticModel = laying-manga_t153_v12_m,
+    Tags             = Magazine,
+  }
+}

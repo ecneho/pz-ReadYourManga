@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t149_v1_m_s
+  {
+    DisplayName      = Myst Might Mayhem,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t149_v1_m,
+    Tooltip          = Myst Might Mayhem (standing),
+    StaticModel      = hands-manga_t149_v1_m,
+    WorldStaticModel = standing-manga_t149_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t149_v1_m_l
+  {
+    DisplayName      = Myst Might Mayhem,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t149_v1_m,
+    Tooltip          = Myst Might Mayhem,
+    StaticModel      = hands-manga_t149_v1_m,
+    WorldStaticModel = laying-manga_t149_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t149_v2_m_s
+  {
+    DisplayName      = Myst Might Mayhem,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t149_v2_m,
+    Tooltip          = Myst Might Mayhem (standing),
+    StaticModel      = hands-manga_t149_v2_m,
+    WorldStaticModel = standing-manga_t149_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t149_v2_m_l
+  {
+    DisplayName      = Myst Might Mayhem,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t149_v2_m,
+    Tooltip          = Myst Might Mayhem,
+    StaticModel      = hands-manga_t149_v2_m,
+    WorldStaticModel = laying-manga_t149_v2_m,
+    Tags             = Magazine,
+  }
+}

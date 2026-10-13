@@ -1,0 +1,188 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t110_v1_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v1_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v1_m,
+    WorldStaticModel = standing-manga_t110_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v1_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v1_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v1_m,
+    WorldStaticModel = laying-manga_t110_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v2_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v2_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v2_m,
+    WorldStaticModel = standing-manga_t110_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v2_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v2_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v2_m,
+    WorldStaticModel = laying-manga_t110_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v3_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v3_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v3_m,
+    WorldStaticModel = standing-manga_t110_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v3_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v3_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v3_m,
+    WorldStaticModel = laying-manga_t110_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v4_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v4_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v4_m,
+    WorldStaticModel = standing-manga_t110_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v4_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v4_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v4_m,
+    WorldStaticModel = laying-manga_t110_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v5_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v5_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v5_m,
+    WorldStaticModel = standing-manga_t110_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v5_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v5_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v5_m,
+    WorldStaticModel = laying-manga_t110_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v6_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v6_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v6_m,
+    WorldStaticModel = standing-manga_t110_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v6_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v6_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v6_m,
+    WorldStaticModel = laying-manga_t110_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v7_m_s
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v7_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo (standing),
+    StaticModel      = hands-manga_t110_v7_m,
+    WorldStaticModel = standing-manga_t110_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t110_v7_m_l
+  {
+    DisplayName      = Highschool of the Dead,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t110_v7_m,
+    Tooltip          = Gakuen Mokushiroku Haisukuru obu za Deddo,
+    StaticModel      = hands-manga_t110_v7_m,
+    WorldStaticModel = laying-manga_t110_v7_m,
+    Tags             = Magazine,
+  }
+}

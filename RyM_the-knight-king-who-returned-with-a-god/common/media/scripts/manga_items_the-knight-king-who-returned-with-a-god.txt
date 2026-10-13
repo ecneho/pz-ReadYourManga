@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t154_v1_m_s
+  {
+    DisplayName      = The Knight King Who Returned with a God,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t154_v1_m,
+    Tooltip          = The Knight King Who Returned with a God (standing),
+    StaticModel      = hands-manga_t154_v1_m,
+    WorldStaticModel = standing-manga_t154_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t154_v1_m_l
+  {
+    DisplayName      = The Knight King Who Returned with a God,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t154_v1_m,
+    Tooltip          = The Knight King Who Returned with a God,
+    StaticModel      = hands-manga_t154_v1_m,
+    WorldStaticModel = laying-manga_t154_v1_m,
+    Tags             = Magazine,
+  }
+}

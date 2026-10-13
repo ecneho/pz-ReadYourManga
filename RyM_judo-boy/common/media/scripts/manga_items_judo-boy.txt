@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t48_v1_c_s
+  {
+    DisplayName      = Judo Boy,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t48_v1_c,
+    Tooltip          = Kurenai Sanshirou (standing),
+    StaticModel      = hands-manga_t48_v1_c,
+    WorldStaticModel = standing-manga_t48_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t48_v1_c_l
+  {
+    DisplayName      = Judo Boy,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t48_v1_c,
+    Tooltip          = Kurenai Sanshirou,
+    StaticModel      = hands-manga_t48_v1_c,
+    WorldStaticModel = laying-manga_t48_v1_c,
+    Tags             = Magazine,
+  }
+}

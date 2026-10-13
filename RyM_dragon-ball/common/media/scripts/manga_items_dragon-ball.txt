@@ -1,0 +1,1098 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t63_v1_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v1_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v1_c,
+    WorldStaticModel = standing-manga_t63_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v1_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v1_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v1_c,
+    WorldStaticModel = laying-manga_t63_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v2_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v2_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v2_c,
+    WorldStaticModel = standing-manga_t63_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v2_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v2_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v2_c,
+    WorldStaticModel = laying-manga_t63_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v3_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v3_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v3_c,
+    WorldStaticModel = standing-manga_t63_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v3_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v3_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v3_c,
+    WorldStaticModel = laying-manga_t63_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v4_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v4_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v4_c,
+    WorldStaticModel = standing-manga_t63_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v4_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v4_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v4_c,
+    WorldStaticModel = laying-manga_t63_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v5_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v5_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v5_c,
+    WorldStaticModel = standing-manga_t63_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v5_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v5_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v5_c,
+    WorldStaticModel = laying-manga_t63_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v6_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v6_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v6_c,
+    WorldStaticModel = standing-manga_t63_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v6_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v6_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v6_c,
+    WorldStaticModel = laying-manga_t63_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v7_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v7_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v7_c,
+    WorldStaticModel = standing-manga_t63_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v7_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v7_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v7_c,
+    WorldStaticModel = laying-manga_t63_v7_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v8_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v8_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v8_c,
+    WorldStaticModel = standing-manga_t63_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v8_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v8_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v8_c,
+    WorldStaticModel = laying-manga_t63_v8_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v9_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v9_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v9_c,
+    WorldStaticModel = standing-manga_t63_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v9_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v9_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v9_c,
+    WorldStaticModel = laying-manga_t63_v9_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v10_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v10_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v10_c,
+    WorldStaticModel = standing-manga_t63_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v10_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v10_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v10_c,
+    WorldStaticModel = laying-manga_t63_v10_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v11_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v11_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v11_c,
+    WorldStaticModel = standing-manga_t63_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v11_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v11_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v11_c,
+    WorldStaticModel = laying-manga_t63_v11_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v12_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v12_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v12_c,
+    WorldStaticModel = standing-manga_t63_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v12_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v12_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v12_c,
+    WorldStaticModel = laying-manga_t63_v12_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v13_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v13_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v13_c,
+    WorldStaticModel = standing-manga_t63_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v13_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v13_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v13_c,
+    WorldStaticModel = laying-manga_t63_v13_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v14_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v14_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v14_c,
+    WorldStaticModel = standing-manga_t63_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v14_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v14_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v14_c,
+    WorldStaticModel = laying-manga_t63_v14_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v15_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v15_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v15_c,
+    WorldStaticModel = standing-manga_t63_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v15_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v15_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v15_c,
+    WorldStaticModel = laying-manga_t63_v15_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v16_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v16_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v16_c,
+    WorldStaticModel = standing-manga_t63_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v16_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v16_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v16_c,
+    WorldStaticModel = laying-manga_t63_v16_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v17_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v17_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v17_c,
+    WorldStaticModel = standing-manga_t63_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v17_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v17_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v17_c,
+    WorldStaticModel = laying-manga_t63_v17_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v18_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v18_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v18_c,
+    WorldStaticModel = standing-manga_t63_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v18_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v18_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v18_c,
+    WorldStaticModel = laying-manga_t63_v18_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v19_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v19_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v19_c,
+    WorldStaticModel = standing-manga_t63_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v19_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v19_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v19_c,
+    WorldStaticModel = laying-manga_t63_v19_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v20_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v20_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v20_c,
+    WorldStaticModel = standing-manga_t63_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v20_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v20_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v20_c,
+    WorldStaticModel = laying-manga_t63_v20_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v21_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v21_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v21_c,
+    WorldStaticModel = standing-manga_t63_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v21_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v21_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v21_c,
+    WorldStaticModel = laying-manga_t63_v21_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v22_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v22_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v22_c,
+    WorldStaticModel = standing-manga_t63_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v22_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v22_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v22_c,
+    WorldStaticModel = laying-manga_t63_v22_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v23_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v23_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v23_c,
+    WorldStaticModel = standing-manga_t63_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v23_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v23_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v23_c,
+    WorldStaticModel = laying-manga_t63_v23_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v24_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v24_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v24_c,
+    WorldStaticModel = standing-manga_t63_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v24_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v24_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v24_c,
+    WorldStaticModel = laying-manga_t63_v24_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v25_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v25_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v25_c,
+    WorldStaticModel = standing-manga_t63_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v25_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v25_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v25_c,
+    WorldStaticModel = laying-manga_t63_v25_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v26_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v26_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v26_c,
+    WorldStaticModel = standing-manga_t63_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v26_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v26_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v26_c,
+    WorldStaticModel = laying-manga_t63_v26_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v27_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v27_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v27_c,
+    WorldStaticModel = standing-manga_t63_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v27_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v27_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v27_c,
+    WorldStaticModel = laying-manga_t63_v27_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v28_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v28_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v28_c,
+    WorldStaticModel = standing-manga_t63_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v28_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v28_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v28_c,
+    WorldStaticModel = laying-manga_t63_v28_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v29_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v29_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v29_c,
+    WorldStaticModel = standing-manga_t63_v29_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v29_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v29_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v29_c,
+    WorldStaticModel = laying-manga_t63_v29_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v30_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v30_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v30_c,
+    WorldStaticModel = standing-manga_t63_v30_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v30_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v30_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v30_c,
+    WorldStaticModel = laying-manga_t63_v30_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v31_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v31_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v31_c,
+    WorldStaticModel = standing-manga_t63_v31_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v31_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v31_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v31_c,
+    WorldStaticModel = laying-manga_t63_v31_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v32_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v32_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v32_c,
+    WorldStaticModel = standing-manga_t63_v32_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v32_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v32_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v32_c,
+    WorldStaticModel = laying-manga_t63_v32_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v33_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v33_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v33_c,
+    WorldStaticModel = standing-manga_t63_v33_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v33_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v33_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v33_c,
+    WorldStaticModel = laying-manga_t63_v33_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v34_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v34_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v34_c,
+    WorldStaticModel = standing-manga_t63_v34_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v34_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v34_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v34_c,
+    WorldStaticModel = laying-manga_t63_v34_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v35_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v35_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v35_c,
+    WorldStaticModel = standing-manga_t63_v35_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v35_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v35_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v35_c,
+    WorldStaticModel = laying-manga_t63_v35_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v36_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v36_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v36_c,
+    WorldStaticModel = standing-manga_t63_v36_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v36_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v36_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v36_c,
+    WorldStaticModel = laying-manga_t63_v36_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v37_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v37_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v37_c,
+    WorldStaticModel = standing-manga_t63_v37_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v37_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v37_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v37_c,
+    WorldStaticModel = laying-manga_t63_v37_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v38_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v38_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v38_c,
+    WorldStaticModel = standing-manga_t63_v38_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v38_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v38_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v38_c,
+    WorldStaticModel = laying-manga_t63_v38_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v39_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v39_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v39_c,
+    WorldStaticModel = standing-manga_t63_v39_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v39_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v39_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v39_c,
+    WorldStaticModel = laying-manga_t63_v39_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v40_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v40_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v40_c,
+    WorldStaticModel = standing-manga_t63_v40_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v40_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v40_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v40_c,
+    WorldStaticModel = laying-manga_t63_v40_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v41_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v41_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v41_c,
+    WorldStaticModel = standing-manga_t63_v41_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v41_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v41_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v41_c,
+    WorldStaticModel = laying-manga_t63_v41_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v42_c_s
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v42_c,
+    Tooltip          = Doragon Boru (standing),
+    StaticModel      = hands-manga_t63_v42_c,
+    WorldStaticModel = standing-manga_t63_v42_c,
+    Tags             = Magazine,
+  }
+  item manga_t63_v42_c_l
+  {
+    DisplayName      = Dragon Ball,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t63_v42_c,
+    Tooltip          = Doragon Boru,
+    StaticModel      = hands-manga_t63_v42_c,
+    WorldStaticModel = laying-manga_t63_v42_c,
+    Tags             = Magazine,
+  }
+}

@@ -1,0 +1,136 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t115_v1_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v1_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen (standing),
+    StaticModel      = hands-manga_t115_v1_m,
+    WorldStaticModel = standing-manga_t115_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v1_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v1_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen,
+    StaticModel      = hands-manga_t115_v1_m,
+    WorldStaticModel = laying-manga_t115_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v2_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v2_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen (standing),
+    StaticModel      = hands-manga_t115_v2_m,
+    WorldStaticModel = standing-manga_t115_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v2_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v2_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen,
+    StaticModel      = hands-manga_t115_v2_m,
+    WorldStaticModel = laying-manga_t115_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v3_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v3_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen (standing),
+    StaticModel      = hands-manga_t115_v3_m,
+    WorldStaticModel = standing-manga_t115_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v3_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v3_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen,
+    StaticModel      = hands-manga_t115_v3_m,
+    WorldStaticModel = laying-manga_t115_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v4_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v4_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen (standing),
+    StaticModel      = hands-manga_t115_v4_m,
+    WorldStaticModel = standing-manga_t115_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v4_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v4_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen,
+    StaticModel      = hands-manga_t115_v4_m,
+    WorldStaticModel = laying-manga_t115_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v5_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v5_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen (standing),
+    StaticModel      = hands-manga_t115_v5_m,
+    WorldStaticModel = standing-manga_t115_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t115_v5_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 2:  A Week at the Mansion,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t115_v5_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 2-shou Yashiki no Isshuukan-hen,
+    StaticModel      = hands-manga_t115_v5_m,
+    WorldStaticModel = laying-manga_t115_v5_m,
+    Tags             = Magazine,
+  }
+}

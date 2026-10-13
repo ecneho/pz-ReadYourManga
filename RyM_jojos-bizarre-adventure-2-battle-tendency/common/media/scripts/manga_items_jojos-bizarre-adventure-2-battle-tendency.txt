@@ -1,0 +1,188 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t32_v1_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v1_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v1_m,
+    WorldStaticModel = standing-manga_t32_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v1_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v1_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v1_m,
+    WorldStaticModel = laying-manga_t32_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v2_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v2_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v2_m,
+    WorldStaticModel = standing-manga_t32_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v2_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v2_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v2_m,
+    WorldStaticModel = laying-manga_t32_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v3_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v3_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v3_m,
+    WorldStaticModel = standing-manga_t32_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v3_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v3_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v3_m,
+    WorldStaticModel = laying-manga_t32_v3_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v4_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v4_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v4_m,
+    WorldStaticModel = standing-manga_t32_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v4_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v4_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v4_m,
+    WorldStaticModel = laying-manga_t32_v4_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v5_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v5_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v5_m,
+    WorldStaticModel = standing-manga_t32_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v5_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v5_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v5_m,
+    WorldStaticModel = laying-manga_t32_v5_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v6_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v6_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v6_m,
+    WorldStaticModel = standing-manga_t32_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v6_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v6_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v6_m,
+    WorldStaticModel = laying-manga_t32_v6_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v7_m_s
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v7_m,
+    Tooltip          = Sento Choryu (standing),
+    StaticModel      = hands-manga_t32_v7_m,
+    WorldStaticModel = standing-manga_t32_v7_m,
+    Tags             = Magazine,
+  }
+  item manga_t32_v7_m_l
+  {
+    DisplayName      = JoJo's Bizarre Adventure 2 Battle Tendency,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t32_v7_m,
+    Tooltip          = Sento Choryu,
+    StaticModel      = hands-manga_t32_v7_m,
+    WorldStaticModel = laying-manga_t32_v7_m,
+    Tags             = Magazine,
+  }
+}

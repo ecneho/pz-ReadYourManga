@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t96_v1_m_s
+  {
+    DisplayName      = Absolute Sword Sense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t96_v1_m,
+    Tooltip          = Jeoldaegeomgam (standing),
+    StaticModel      = hands-manga_t96_v1_m,
+    WorldStaticModel = standing-manga_t96_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t96_v1_m_l
+  {
+    DisplayName      = Absolute Sword Sense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t96_v1_m,
+    Tooltip          = Jeoldaegeomgam,
+    StaticModel      = hands-manga_t96_v1_m,
+    WorldStaticModel = laying-manga_t96_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t96_v2_m_s
+  {
+    DisplayName      = Absolute Sword Sense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t96_v2_m,
+    Tooltip          = Jeoldaegeomgam (standing),
+    StaticModel      = hands-manga_t96_v2_m,
+    WorldStaticModel = standing-manga_t96_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t96_v2_m_l
+  {
+    DisplayName      = Absolute Sword Sense,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t96_v2_m,
+    Tooltip          = Jeoldaegeomgam,
+    StaticModel      = hands-manga_t96_v2_m,
+    WorldStaticModel = laying-manga_t96_v2_m,
+    Tags             = Magazine,
+  }
+}

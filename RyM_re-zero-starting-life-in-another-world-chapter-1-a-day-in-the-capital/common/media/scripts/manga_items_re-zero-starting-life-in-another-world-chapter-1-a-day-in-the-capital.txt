@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t114_v1_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 1:  A Day in the Capital,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t114_v1_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 1-shou Outo no Ichinichi-hen (standing),
+    StaticModel      = hands-manga_t114_v1_m,
+    WorldStaticModel = standing-manga_t114_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t114_v1_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 1:  A Day in the Capital,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t114_v1_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 1-shou Outo no Ichinichi-hen,
+    StaticModel      = hands-manga_t114_v1_m,
+    WorldStaticModel = laying-manga_t114_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t114_v2_m_s
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 1:  A Day in the Capital,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t114_v2_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 1-shou Outo no Ichinichi-hen (standing),
+    StaticModel      = hands-manga_t114_v2_m,
+    WorldStaticModel = standing-manga_t114_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t114_v2_m_l
+  {
+    DisplayName      = Re: ZERO Starting Life in Another World Chapter 1:  A Day in the Capital,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t114_v2_m,
+    Tooltip          = Re: Zero kara Hajimeru Isekai Seikatsu:  Dai 1-shou Outo no Ichinichi-hen,
+    StaticModel      = hands-manga_t114_v2_m,
+    WorldStaticModel = laying-manga_t114_v2_m,
+    Tags             = Magazine,
+  }
+}

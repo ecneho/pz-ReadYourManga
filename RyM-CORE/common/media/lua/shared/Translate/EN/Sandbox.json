@@ -1,0 +1,21 @@
+{
+    "Sandbox_ReadYourManga": "Read Your Manga",
+
+    "Sandbox_ReadYourManga_AllowModern": "Spawn Modern",
+    "Sandbox_ReadYourManga_AllowModern_tooltip": "Allow modern manga to spawn in game.",
+
+    "Sandbox_ReadYourManga_AllowPreEvents": "Spawn Lore Accurate",
+    "Sandbox_ReadYourManga_AllowPreEvents_tooltip": "Allow manga released before 1993 to spawn in game.",
+
+    "Sandbox_ReadYourManga_SpawnAmountRate": "Manga Spawn Rate",
+    "Sandbox_ReadYourManga_SpawnAmountRate_tooltip": "Multiplier for how much manga spawns.",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option1": "None (0x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option2": "Very Rare (0.25x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option3": "Rare (0.5x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option4": "Normal (1x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option5": "Common (1.5x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option6": "Very Common (2x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option7": "Abundant (3x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option8": "Flooded (5x)",
+    "Sandbox_ReadYourManga_SpawnAmountRate_option9": "Too Much (10x)"
+}

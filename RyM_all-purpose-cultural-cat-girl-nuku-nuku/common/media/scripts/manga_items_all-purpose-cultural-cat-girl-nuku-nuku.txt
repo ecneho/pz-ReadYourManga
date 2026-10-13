@@ -1,0 +1,32 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t45_v1_c_s
+  {
+    DisplayName      = All Purpose Cultural Cat Girl Nuku Nuku,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t45_v1_c,
+    Tooltip          = Banno Bunka Nekomusume (standing),
+    StaticModel      = hands-manga_t45_v1_c,
+    WorldStaticModel = standing-manga_t45_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t45_v1_c_l
+  {
+    DisplayName      = All Purpose Cultural Cat Girl Nuku Nuku,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t45_v1_c,
+    Tooltip          = Banno Bunka Nekomusume,
+    StaticModel      = hands-manga_t45_v1_c,
+    WorldStaticModel = laying-manga_t45_v1_c,
+    Tags             = Magazine,
+  }
+}

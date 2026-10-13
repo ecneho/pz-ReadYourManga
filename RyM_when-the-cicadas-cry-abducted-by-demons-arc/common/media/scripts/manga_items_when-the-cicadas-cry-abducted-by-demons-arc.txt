@@ -1,0 +1,58 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t179_v1_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Abducted by Demons Arc,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t179_v1_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Onikakushi-hen (standing),
+    StaticModel      = hands-manga_t179_v1_m,
+    WorldStaticModel = standing-manga_t179_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t179_v1_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Abducted by Demons Arc,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t179_v1_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Onikakushi-hen,
+    StaticModel      = hands-manga_t179_v1_m,
+    WorldStaticModel = laying-manga_t179_v1_m,
+    Tags             = Magazine,
+  }
+  item manga_t179_v2_m_s
+  {
+    DisplayName      = When the Cicadas Cry:  Abducted by Demons Arc,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t179_v2_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Onikakushi-hen (standing),
+    StaticModel      = hands-manga_t179_v2_m,
+    WorldStaticModel = standing-manga_t179_v2_m,
+    Tags             = Magazine,
+  }
+  item manga_t179_v2_m_l
+  {
+    DisplayName      = When the Cicadas Cry:  Abducted by Demons Arc,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t179_v2_m,
+    Tooltip          = Higurashi no Naku Koro ni:  Onikakushi-hen,
+    StaticModel      = hands-manga_t179_v2_m,
+    WorldStaticModel = laying-manga_t179_v2_m,
+    Tags             = Magazine,
+  }
+}

@@ -1,0 +1,162 @@
+module mangaItems{
+  imports {
+	Base
+  }
+
+  item manga_t50_v1_c_s
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v1_c,
+    Tooltip          = Orochi (standing),
+    StaticModel      = hands-manga_t50_v1_c,
+    WorldStaticModel = standing-manga_t50_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v1_c_l
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v1_c,
+    Tooltip          = Orochi,
+    StaticModel      = hands-manga_t50_v1_c,
+    WorldStaticModel = laying-manga_t50_v1_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v2_c_s
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v2_c,
+    Tooltip          = Orochi (standing),
+    StaticModel      = hands-manga_t50_v2_c,
+    WorldStaticModel = standing-manga_t50_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v2_c_l
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v2_c,
+    Tooltip          = Orochi,
+    StaticModel      = hands-manga_t50_v2_c,
+    WorldStaticModel = laying-manga_t50_v2_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v3_c_s
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v3_c,
+    Tooltip          = Orochi (standing),
+    StaticModel      = hands-manga_t50_v3_c,
+    WorldStaticModel = standing-manga_t50_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v3_c_l
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v3_c,
+    Tooltip          = Orochi,
+    StaticModel      = hands-manga_t50_v3_c,
+    WorldStaticModel = laying-manga_t50_v3_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v4_c_s
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v4_c,
+    Tooltip          = Orochi (standing),
+    StaticModel      = hands-manga_t50_v4_c,
+    WorldStaticModel = standing-manga_t50_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v4_c_l
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v4_c,
+    Tooltip          = Orochi,
+    StaticModel      = hands-manga_t50_v4_c,
+    WorldStaticModel = laying-manga_t50_v4_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v5_c_s
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v5_c,
+    Tooltip          = Orochi (standing),
+    StaticModel      = hands-manga_t50_v5_c,
+    WorldStaticModel = standing-manga_t50_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v5_c_l
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v5_c,
+    Tooltip          = Orochi,
+    StaticModel      = hands-manga_t50_v5_c,
+    WorldStaticModel = laying-manga_t50_v5_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v6_c_s
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v6_c,
+    Tooltip          = Orochi (standing),
+    StaticModel      = hands-manga_t50_v6_c,
+    WorldStaticModel = standing-manga_t50_v6_c,
+    Tags             = Magazine,
+  }
+  item manga_t50_v6_c_l
+  {
+    DisplayName      = Orochi,
+    DisplayCategory  = Literature,
+    ItemType         = base:literature,
+    Weight           = 0.3,
+    BoredomChange    = -5,
+    Icon             = manga_t50_v6_c,
+    Tooltip          = Orochi,
+    StaticModel      = hands-manga_t50_v6_c,
+    WorldStaticModel = laying-manga_t50_v6_c,
+    Tags             = Magazine,
+  }
+}
