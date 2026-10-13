@@ -82,6 +82,11 @@ function ModLoaderWindow:populate()
             add(dirs:get(i))
         end
     end
+    table.sort(self.allMods, function(a, b)
+        local an, bn = string.lower(a.name), string.lower(b.name)
+        if an ~= bn then return an < bn end
+        return a.id < b.id
+    end)
     self:refresh()
 end
 
