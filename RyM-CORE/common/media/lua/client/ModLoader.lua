@@ -27,7 +27,7 @@ local function onListMouseDown(self, x, y)
     end
 end
 
-local HIDE_TAG = "[To hide this mod - Enable Read Your Manga: Core] "
+local HIDE_TAG = "[Enable Read Your Manga: Core] "
 
 local function stripTag(name)
     local s, e = string.find(name, HIDE_TAG, 1, true)
@@ -308,7 +308,7 @@ local function openWindow(serverWin)
     win:setAlwaysOnTop(true)
     win:bringToTop()
     win.resizable = true
-    win:setTitle(serverWin and "Read Your Manga - Server Mod Selection" or "Read Your Manga Submod Manager")
+    win:setTitle(serverWin and "Read Your Manga - Server Mod Selection" or "Read Your Manga Addon Manager")
     ModLoaderWindow.instance = win
 end
 
@@ -451,6 +451,27 @@ local function patchListBox(lb)
             item.text = stripTag(item.text)
         end
         return base(self, y, item, alt)
+    end
+end
+
+local function installModsFallback(model)
+    if not model or not model.mods then return end
+    setmetatable(model.mods, {
+        __index = function(_, id)
+            local info = resolveInfo(id)
+            if not info then return nil end
+            return { modId = id, modInfo = info, name = info:getName(), category = info:getCategory() }
+        end,
+    })
+end
+
+if ModSelector and ModSelector.Model and not ModSelector.Model.mangaHooked then
+    ModSelector.Model.mangaHooked = true
+    local baseReload = ModSelector.Model.reloadMods
+    function ModSelector.Model:reloadMods()
+        if self.mods then setmetatable(self.mods, nil) end
+        baseReload(self)
+        installModsFallback(self)
     end
 end
 

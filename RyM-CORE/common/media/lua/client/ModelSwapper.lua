@@ -1,19 +1,7 @@
----@param item InventoryItem
----@param player IsoPlayer
 local function ToggleModel(item, player)
-    local inv = player:getInventory()
-    local itemType = item:getFullType()
-
-    if itemType:sub(-2) == "_s" then
-        itemType = itemType:sub(1, -3) .. "_l"
-    elseif itemType:sub(-2) == "_l" then
-        itemType = itemType:sub(1, -3) .. "_s"
-    else
-        return
-    end
-
-    inv:Remove(item)
-    inv:AddItem(itemType)
+    local t = item:getFullType()
+    if t:sub(-2) ~= "_s" and t:sub(-2) ~= "_l" then return end
+    ISTimedActionQueue.add(ISMangaSwapAction:new(player, item))
 end
 
 ---@param playerNum integer
@@ -33,7 +21,7 @@ local function OnFillInventoryObjectContextMenu(playerNum, context, items)
 
             addedItems[type] = true
             local side = (type:sub(-2) == "_s") and "Sideways" or "Upright"
-            context:addOption('Set '..side, player, function () ToggleModel(item, player) end)
+            context:addOption('Set ' .. side, player, function() ToggleModel(item, player) end)
         end
     end
 end
